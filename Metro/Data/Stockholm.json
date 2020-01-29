@@ -1,0 +1,864 @@
+{
+    "stations":[
+                {
+        "id":1,
+        "coords": { "x": 32.3627000, "y": 161.3588},
+        "multi":false,
+        "name": {"ru_RU":"Hässelby strand","en_EN":"Hässelby strand"},
+        "edges": [{"time": 120, "id":0},{"time": 120, "id":2}],
+        "line":1
+        },
+                {
+        "id":2,
+        "coords": { "x": 43.9084, "y": 166.967200},
+        "multi":false,
+        "name": {"ru_RU":"Hässelby gård","en_EN":"Hässelby gård"},
+        "edges": [{"time": 120, "id":1},{"time": 120, "id":3}],
+        "line":1
+        },
+                {
+        "id":3,
+        "coords": { "x": 57.8532, "y": 167.9477},
+        "multi":false,
+        "name": {"ru_RU":"Johannelund","en_EN":"Johannelund"},
+        "edges": [{"time": 120, "id":2},{"time": 120, "id":4}],
+        "line":1
+        },
+                {
+        "id":4,
+        "coords": { "x": 70.8429, "y": 163.9335},
+        "multi":false,
+        "name": {"ru_RU":"Vällingby","en_EN":"Vällingby"},
+        "edges": [{"time": 120, "id":3},{"time": 120, "id":5}],
+        "line":1
+        },
+                {
+        "id":5,
+        "coords": { "x": 81.8481, "y": 154.913200},
+        "multi":false,
+        "name": {"ru_RU":"Råcksta","en_EN":"Råcksta"},
+        "edges": [{"time": 120, "id":4},{"time": 120, "id":6}],
+        "line":1
+        },
+                {
+        "id":6,
+        "coords": { "x": 82.6992, "y": 148.4727},
+        "multi":false,
+        "name": {"ru_RU":"Blackeberg","en_EN":"Blackeberg"},
+        "edges": [{"time": 120, "id":5},{"time": 120, "id":7}],
+        "line":1
+        },
+                {
+        "id":7,
+        "coords": { "x": 93.7453, "y": 145.9382},
+        "multi":false,
+        "name": {"ru_RU":"Islandstorget","en_EN":"Islandstorget"},
+        "edges": [{"time": 120, "id":6},{"time": 120, "id":8}],
+        "line":1
+        },
+                {
+        "id":8,
+        "coords": { "x": 107.412600, "y": 141.8894},
+        "multi":false,
+        "name": {"ru_RU":"Ängbyplan","en_EN":"Ängbyplan"},
+        "edges": [{"time": 120, "id":7},{"time": 120, "id":9}],
+        "line":1
+        },
+                {
+        "id":9,
+        "coords": { "x": 124.2192, "y": 142.1394},
+        "multi":false,
+        "name": {"ru_RU":"Åkeshov","en_EN":"Åkeshov"},
+        "edges": [{"time": 120, "id":8},{"time": 120, "id":10}],
+        "line":1
+        },
+                {
+        "id":10,
+        "coords": { "x": 139.6936, "y": 138.2828},
+        "multi":false,
+        "name": {"ru_RU":"Brommaplan","en_EN":"Brommaplan"},
+        "edges": [{"time": 120, "id":9},{"time": 120, "id":11}],
+        "line":1
+        },
+                {
+        "id":11,
+        "coords": { "x": 153.763300, "y": 136.467900},
+        "multi":false,
+        "name": {"ru_RU":"Abrahamsberg","en_EN":"Abrahamsberg"},
+        "edges": [{"time": 120, "id":10},{"time": 120, "id":12}],
+        "line":1
+        },
+                {
+        "id":12,
+        "coords": { "x": 166.0645, "y": 134.555400},
+        "multi":false,
+        "name": {"ru_RU":"Stora mossen","en_EN":"Stora mossen"},
+        "edges": [{"time": 120, "id":11},{"time": 120, "id":13}],
+        "line":1
+        },
+                {
+        "id":13,
+        "coords": { "x": 182.2792, "y": 133.4008},
+        "multi":false,
+        "name": {"ru_RU":"Alvik","en_EN":"Alvik"},
+        "edges": [{"time": 120, "id":12},{"time": 120, "id":14}],
+        "line":1
+        },
+                {
+        "id":14,
+        "coords": { "x": 204.1091, "y": 132.5611},
+        "multi":false,
+        "name": {"ru_RU":"Kristineberg","en_EN":"Kristineberg"},
+        "edges": [{"time": 120, "id":13},{"time": 120, "id":15}],
+        "line":1
+        },
+                {
+        "id":15,
+        "coords": { "x": 215.090400, "y": 131.4883},
+        "multi":false,
+        "name": {"ru_RU":"Thorildsplan","en_EN":"Thorildsplan"},
+        "edges": [{"time": 120, "id":14},{"time": 120, "id":16}],
+        "line":1
+        },
+                {
+        "id":16,
+        "coords": { "x": 230.421800, "y": 132.3656},
+        "multi":true,
+        "name": {"ru_RU":"Fridhemsplan","en_EN":"Fridhemsplan"},
+        "edges": [{"time": 120, "id":15},{"time": 120, "id":17},{"time": 120, "id":88}],
+        "line":1
+        },
+                {
+        "id":17,
+        "coords": { "x": 237.2227, "y": 140.5394},
+        "multi":false,
+        "name": {"ru_RU":"Sankt Eriksplan","en_EN":"Sankt Eriksplan"},
+        "edges": [{"time": 120, "id":16},{"time": 120, "id":18}],
+        "line":1
+        },
+                {
+        "id":18,
+        "coords": { "x": 250.014200, "y": 143.0821},
+        "multi":false,
+        "name": {"ru_RU":"Odenplan","en_EN":"Odenplan"},
+        "edges": [{"time": 120, "id":17},{"time": 120, "id":19}],
+        "line":1
+        },
+                {
+        "id":19,
+        "coords": { "x": 259.0682, "y": 140.273700},
+        "multi":false,
+        "name": {"ru_RU":"Rådmansgatan","en_EN":"Rådmansgatan"},
+        "edges": [{"time": 120, "id":18},{"time": 120, "id":20}],
+        "line":1
+        },
+                {
+        "id":20,
+        "coords": { "x": 263.2652, "y": 135.8309},
+        "multi":false,
+        "name": {"ru_RU":"Hötorget","en_EN":"Hötorget"},
+        "edges": [{"time": 120, "id":19},{"time": 120, "id":21}],
+        "line":1
+        },
+                {
+        "id":21,
+        "coords": { "x": 260.944, "y": 131.8941},
+        "multi":true,
+        "name": {"ru_RU":"T-Centralen","en_EN":"T-Centralen"},
+        "edges": [{"time": 120, "id":20},{"time": 120, "id":22},{"time": 120, "id":53},{"time": 120, "id":86}],
+        "line":1
+        },
+                {
+        "id":22,
+        "coords": { "x": 267.1771, "y": 123.1743},
+        "multi":true,
+        "name": {"ru_RU":"Gamla stan","en_EN":"Gamla stan"},
+        "edges": [{"time": 120, "id":21},{"time": 120, "id":23},{"time": 120, "id":54}],
+        "line":1
+        },
+                {
+        "id":23,
+        "coords": { "x": 272.1761, "y": 119.4576},
+        "multi":true,
+        "name": {"ru_RU":"Slussen","en_EN":"Slussen"},
+        "edges": [{"time": 120, "id":22},{"time": 120, "id":24},{"time": 120, "id":55}],
+        "line":1
+        },
+                {
+        "id":24,
+        "coords": { "x": 275.958, "y": 108.699000},
+        "multi":false,
+        "name": {"ru_RU":"Skanstull","en_EN":"Skanstull"},
+        "edges": [{"time": 120, "id":23},{"time": 120, "id":25}],
+        "line":1
+        },
+                {
+        "id":25,
+        "coords": { "x": 280.6392, "y": 99.5292},
+        "multi":false,
+        "name": {"ru_RU":"Gullmarsplan","en_EN":"Gullmarsplan"},
+        "edges": [{"time": 120, "id":24},{"time": 120, "id":26},{"time": 120, "id":40}],
+        "line":1
+        },
+                {
+        "id":26,
+        "coords": { "x": 289.8804, "y": 95.7281},
+        "multi":false,
+        "name": {"ru_RU":"Skärmarbrink","en_EN":"Skärmarbrink"},
+        "edges": [{"time": 120, "id":25},{"time": 120, "id":27},{"time": 120, "id":32}],
+        "line":1
+        },
+                {
+        "id":27,
+        "coords": { "x": 304.3275, "y": 94.805},
+        "multi":false,
+        "name": {"ru_RU":"Hammarbyhöjden","en_EN":"Hammarbyhöjden"},
+        "edges": [{"time": 120, "id":26},{"time": 120, "id":28}],
+        "line":1
+        },
+                {
+        "id":28,
+        "coords": { "x": 315.485800, "y": 91.204000},
+        "multi":false,
+        "name": {"ru_RU":"Björkhagen","en_EN":"Björkhagen"},
+        "edges": [{"time": 120, "id":27},{"time": 120, "id":29}],
+        "line":1
+        },
+                {
+        "id":29,
+        "coords": { "x": 314.6325, "y": 84.156100},
+        "multi":false,
+        "name": {"ru_RU":"Kärrtorp","en_EN":"Kärrtorp"},
+        "edges": [{"time": 120, "id":28},{"time": 120, "id":30}],
+        "line":1
+        },
+                {
+        "id":30,
+        "coords": { "x": 331.340000, "y": 76.1858},
+        "multi":false,
+        "name": {"ru_RU":"Bagarmossen","en_EN":"Bagarmossen"},
+        "edges": [{"time": 120, "id":29},{"time": 120, "id":31}],
+        "line":1
+        },
+                {
+        "id":31,
+        "coords": { "x": 333.0727, "y": 66.4372},
+        "multi":false,
+        "name": {"ru_RU":"Skarpnäck","en_EN":"Skarpnäck"},
+        "edges": [{"time": 120, "id":30}],
+        "line":1
+        },
+                {
+        "id":32,
+        "coords": { "x": 291.1605, "y": 90.502800},
+        "multi":false,
+        "name": {"ru_RU":"Blåsut","en_EN":"Blåsut"},
+        "edges": [{"time": 120, "id":26},{"time": 120, "id":33}],
+        "line":1
+        },
+                {
+        "id":33,
+        "coords": { "x": 291.9812, "y": 85.6892},
+        "multi":false,
+        "name": {"ru_RU":"Sandsborg","en_EN":"Sandsborg"},
+        "edges": [{"time": 120, "id":32},{"time": 120, "id":34}],
+        "line":1
+        },
+                {
+        "id":34,
+        "coords": { "x": 295.398400, "y": 78.6934},
+        "multi":false,
+        "name": {"ru_RU":"Skogskyrkogården","en_EN":"Skogskyrkogården"},
+        "edges": [{"time": 120, "id":33},{"time": 120, "id":35}],
+        "line":1
+        },
+                {
+        "id":35,
+        "coords": { "x": 286.0589, "y": 71.5291},
+        "multi":false,
+        "name": {"ru_RU":"Tallkrogen","en_EN":"Tallkrogen"},
+        "edges": [{"time": 120, "id":34},{"time": 120, "id":36}],
+        "line":1
+        },
+                {
+        "id":36,
+        "coords": { "x": 282.0785, "y": 63.620200},
+        "multi":false,
+        "name": {"ru_RU":"Gubbängen","en_EN":"Gubbängen"},
+        "edges": [{"time": 120, "id":35},{"time": 120, "id":37}],
+        "line":1
+        },
+                {
+        "id":37,
+        "coords": { "x": 282.8456, "y": 57.3192},
+        "multi":false,
+        "name": {"ru_RU":"Hökarängen","en_EN":"Hökarängen"},
+        "edges": [{"time": 120, "id":36},{"time": 120, "id":38}],
+        "line":1
+        },
+                {
+        "id":38,
+        "coords": { "x": 293.928500, "y": 43.353},
+        "multi":false,
+        "name": {"ru_RU":"Farsta","en_EN":"Farsta"},
+        "edges": [{"time": 120, "id":37},{"time": 120, "id":39}],
+        "line":1
+        },
+                {
+        "id":39,
+        "coords": { "x": 302.0664, "y": 35.0494},
+        "multi":false,
+        "name": {"ru_RU":"Farsta strand","en_EN":"Farsta strand"},
+        "edges": [{"time": 120, "id":38}],
+        "line":1
+        },
+                {
+        "id":40,
+        "coords": { "x": 276.7849, "y": 94.057600},
+        "multi":false,
+        "name": {"ru_RU":"Globen","en_EN":"Globen"},
+        "edges": [{"time": 120, "id":25},{"time": 120, "id":41}],
+        "line":1
+        },
+                {
+        "id":41,
+        "coords": { "x": 270.204100, "y": 89.2869},
+        "multi":false,
+        "name": {"ru_RU":"Enskede gård","en_EN":"Enskede gård"},
+        "edges": [{"time": 120, "id":40},{"time": 120, "id":42}],
+        "line":1
+        },
+                {
+        "id":42,
+        "coords": { "x": 270.2825, "y": 82.9955},
+        "multi":false,
+        "name": {"ru_RU":"Sockenplan","en_EN":"Sockenplan"},
+        "edges": [{"time": 120, "id":41},{"time": 120, "id":43}],
+        "line":1
+        },
+                {
+        "id":43,
+        "coords": { "x": 267.1282, "y": 77.4915},
+        "multi":false,
+        "name": {"ru_RU":"Svedmyra","en_EN":"Svedmyra"},
+        "edges": [{"time": 120, "id":42},{"time": 120, "id":44}],
+        "line":1
+        },
+                {
+        "id":44,
+        "coords": { "x": 255.816, "y": 74.6446},
+        "multi":false,
+        "name": {"ru_RU":"Stureby","en_EN":"Stureby"},
+        "edges": [{"time": 120, "id":43},{"time": 120, "id":45}],
+        "line":1
+        },
+                {
+        "id":45,
+        "coords": { "x": 249.587900, "y": 70.3049},
+        "multi":false,
+        "name": {"ru_RU":"Bandhagen","en_EN":"Bandhagen"},
+        "edges": [{"time": 120, "id":44},{"time": 120, "id":46}],
+        "line":1
+        },
+                {
+        "id":46,
+        "coords": { "x": 243.0573, "y": 63.7643000},
+        "multi":false,
+        "name": {"ru_RU":"Högdalen","en_EN":"Högdalen"},
+        "edges": [{"time": 120, "id":45},{"time": 120, "id":47}],
+        "line":1
+        },
+                {
+        "id":47,
+        "coords": { "x": 228.4454, "y": 56.68890},
+        "multi":false,
+        "name": {"ru_RU":"Rågsved","en_EN":"Rågsved"},
+        "edges": [{"time": 120, "id":46},{"time": 120, "id":48}],
+        "line":1
+        },
+                {
+        "id":48,
+        "coords": { "x": 212.769, "y": 62.5476},
+        "multi":false,
+        "name": {"ru_RU":"Hagsätra","en_EN":"Hagsätra"},
+        "edges": [{"time": 120, "id":47}],
+        "line":1
+        },
+                {
+        "id":49,
+        "coords": { "x": 302.3962, "y": 157.3561},
+        "multi":false,
+        "name": {"ru_RU":"Ropsten","en_EN":"Ropsten"},
+        "edges": [{"time": 120, "id":50}],
+        "line":2
+        },
+                {
+        "id":50,
+        "coords": { "x": 299.065100, "y": 145.78650},
+        "multi":false,
+        "name": {"ru_RU":"Gärdet","en_EN":"Gärdet"},
+        "edges": [{"time": 120, "id":49},{"time": 120, "id":51}],
+        "line":2
+        },
+                {
+        "id":51,
+        "coords": { "x": 292.294700, "y": 139.7516},
+        "multi":false,
+        "name": {"ru_RU":"Karlaplan","en_EN":"Karlaplan"},
+        "edges": [{"time": 120, "id":50},{"time": 120, "id":52}],
+        "line":2
+        },
+                {
+        "id":52,
+        "coords": { "x": 277.1261, "y": 135.286},
+        "multi":false,
+        "name": {"ru_RU":"Östermalmstorg","en_EN":"Östermalmstorg"},
+        "edges": [{"time": 120, "id":51},{"time": 120, "id":53},{"time": 120, "id":79}],
+        "line":2
+        },
+                {
+        "id":53,
+        "coords": { "x": 260.944, "y": 131.8941},
+        "multi":true,
+        "name": {"ru_RU":"T-Centralen","en_EN":"T-Centralen"},
+        "edges": [{"time": 120, "id":52},{"time": 120, "id":54},{"time": 120, "id":21},{"time": 120, "id":86}],
+        "line":2
+        },
+                {
+        "id":54,
+        "coords": { "x": 267.1771, "y": 123.1743},
+        "multi":true,
+        "name": {"ru_RU":"Gamla stan","en_EN":"Gamla stan"},
+        "edges": [{"time": 120, "id":53},{"time": 120, "id":55},{"time": 120, "id":22}],
+        "line":2
+        },
+                {
+        "id":55,
+        "coords": { "x": 272.1761, "y": 119.4576},
+        "multi":true,
+        "name": {"ru_RU":"Slussen","en_EN":"Slussen"},
+        "edges": [{"time": 120, "id":54},{"time": 120, "id":56},{"time": 120, "id":23}],
+        "line":2
+        },
+                {
+        "id":56,
+        "coords": { "x": 262.0033, "y": 116.6982},
+        "multi":false,
+        "name": {"ru_RU":"Mariatorget","en_EN":"Mariatorget"},
+        "edges": [{"time": 120, "id":55},{"time": 120, "id":57}],
+        "line":2
+        },
+                {
+        "id":57,
+        "coords": { "x": 249.746300, "y": 117.650500},
+        "multi":false,
+        "name": {"ru_RU":"Zinkensdamm","en_EN":"Zinkensdamm"},
+        "edges": [{"time": 120, "id":56},{"time": 120, "id":58}],
+        "line":2
+        },
+                {
+        "id":58,
+        "coords": { "x": 234.8172, "y": 115.8262},
+        "multi":false,
+        "name": {"ru_RU":"Hornstull","en_EN":"Hornstull"},
+        "edges": [{"time": 120, "id":57},{"time": 120, "id":59}],
+        "line":2
+        },
+                {
+        "id":59,
+        "coords": { "x": 222.8316, "y": 110.612500},
+        "multi":false,
+        "name": {"ru_RU":"Liljeholmen","en_EN":"Liljeholmen"},
+        "edges": [{"time": 120, "id":58},{"time": 120, "id":60},{"time": 120, "id":80}],
+        "line":2
+        },
+                {
+        "id":60,
+        "coords": { "x": 201.373100, "y": 106.4663},
+        "multi":false,
+        "name": {"ru_RU":"Aspudden","en_EN":"Aspudden"},
+        "edges": [{"time": 120, "id":59},{"time": 120, "id":61}],
+        "line":2
+        },
+                {
+        "id":61,
+        "coords": { "x": 187.7014, "y": 105.336400},
+        "multi":false,
+        "name": {"ru_RU":"Örnsberg","en_EN":"Örnsberg"},
+        "edges": [{"time": 120, "id":60},{"time": 120, "id":62}],
+        "line":2
+        },
+                {
+        "id":62,
+        "coords": { "x": 174.414100, "y": 104.3246},
+        "multi":false,
+        "name": {"ru_RU":"Axelsberg","en_EN":"Axelsberg"},
+        "edges": [{"time": 120, "id":61},{"time": 120, "id":63}],
+        "line":2
+        },
+                {
+        "id":63,
+        "coords": { "x": 155.7798, "y": 100.9642},
+        "multi":false,
+        "name": {"ru_RU":"Mälarhöjden","en_EN":"Mälarhöjden"},
+        "edges": [{"time": 120, "id":62},{"time": 120, "id":64}],
+        "line":2
+        },
+                {
+        "id":64,
+        "coords": { "x": 133.437100, "y": 94.783200},
+        "multi":false,
+        "name": {"ru_RU":"Bredäng","en_EN":"Bredäng"},
+        "edges": [{"time": 120, "id":63},{"time": 120, "id":65}],
+        "line":2
+        },
+                {
+        "id":65,
+        "coords": { "x": 121.332500, "y": 85.3649},
+        "multi":false,
+        "name": {"ru_RU":"Sätra","en_EN":"Sätra"},
+        "edges": [{"time": 120, "id":64},{"time": 120, "id":66}],
+        "line":2
+        },
+                {
+        "id":66,
+        "coords": { "x": 106.7517, "y": 76.9204},
+        "multi":false,
+        "name": {"ru_RU":"Skärholmen","en_EN":"Skärholmen"},
+        "edges": [{"time": 120, "id":65},{"time": 120, "id":67}],
+        "line":2
+        },
+                {
+        "id":67,
+        "coords": { "x": 89.953, "y": 75.8872},
+        "multi":false,
+        "name": {"ru_RU":"Vårberg","en_EN":"Vårberg"},
+        "edges": [{"time": 120, "id":66},{"time": 120, "id":68}],
+        "line":2
+        },
+                {
+        "id":68,
+        "coords": { "x": 83.6637, "y": 65.0802},
+        "multi":false,
+        "name": {"ru_RU":"Vårby gård","en_EN":"Vårby gård"},
+        "edges": [{"time": 120, "id":67},{"time": 120, "id":69}],
+        "line":2
+        },
+                {
+        "id":69,
+        "coords": { "x": 81.496900, "y": 49.777},
+        "multi":false,
+        "name": {"ru_RU":"Masmo","en_EN":"Masmo"},
+        "edges": [{"time": 120, "id":68},{"time": 120, "id":70}],
+        "line":2
+        },
+                {
+        "id":70,
+        "coords": { "x": 60.7008, "y": 47.35950},
+        "multi":false,
+        "name": {"ru_RU":"Fittja","en_EN":"Fittja"},
+        "edges": [{"time": 120, "id":69},{"time": 120, "id":71}],
+        "line":2
+        },
+                {
+        "id":71,
+        "coords": { "x": 45.0902, "y": 39.1772},
+        "multi":false,
+        "name": {"ru_RU":"Alby","en_EN":"Alby"},
+        "edges": [{"time": 120, "id":70},{"time": 120, "id":72}],
+        "line":2
+        },
+                {
+        "id":72,
+        "coords": { "x": 25.1324, "y": 43.3117},
+        "multi":false,
+        "name": {"ru_RU":"Hallunda","en_EN":"Hallunda"},
+        "edges": [{"time": 120, "id":71},{"time": 120, "id":73}],
+        "line":2
+        },
+                {
+        "id":73,
+        "coords": { "x": 12.7308, "y": 43.9038000},
+        "multi":false,
+        "name": {"ru_RU":"Norsborg","en_EN":"Norsborg"},
+        "edges": [{"time": 120, "id":72}],
+        "line":2
+        },
+                {
+        "id":74,
+        "coords": { "x": 236.396200, "y": 198.5848},
+        "multi":false,
+        "name": {"ru_RU":"Mörby centrum","en_EN":"Mörby centrum"},
+        "edges": [{"time": 120, "id":75}],
+        "line":2
+        },
+                {
+        "id":75,
+        "coords": { "x": 241.963000, "y": 190.95080},
+        "multi":false,
+        "name": {"ru_RU":"Danderyds sjukhus","en_EN":"Danderyds sjukhus"},
+        "edges": [{"time": 120, "id":74},{"time": 120, "id":76}],
+        "line":2
+        },
+                {
+        "id":76,
+        "coords": { "x": 236.9906, "y": 181.3446},
+        "multi":false,
+        "name": {"ru_RU":"Bergshamra","en_EN":"Bergshamra"},
+        "edges": [{"time": 120, "id":75},{"time": 120, "id":77}],
+        "line":2
+        },
+                {
+        "id":77,
+        "coords": { "x": 254.2982, "y": 164.9999},
+        "multi":false,
+        "name": {"ru_RU":"Universitetet","en_EN":"Universitetet"},
+        "edges": [{"time": 120, "id":76},{"time": 120, "id":78}],
+        "line":2
+        },
+                {
+        "id":78,
+        "coords": { "x": 270.8628, "y": 145.7935},
+        "multi":false,
+        "name": {"ru_RU":"Tekniska högskolan","en_EN":"Tekniska högskolan"},
+        "edges": [{"time": 120, "id":77},{"time": 120, "id":79}],
+        "line":2
+        },
+                {
+        "id":79,
+        "coords": { "x": 280.447, "y": 142.2852},
+        "multi":false,
+        "name": {"ru_RU":"Stadion","en_EN":"Stadion"},
+        "edges": [{"time": 120, "id":78},{"time": 120, "id":52}],
+        "line":2
+        },
+                {
+        "id":80,
+        "coords": { "x": 211.4797, "y": 102.06},
+        "multi":false,
+        "name": {"ru_RU":"Midsommarkransen","en_EN":"Midsommarkransen"},
+        "edges": [{"time": 120, "id":79},{"time": 120, "id":81},{"time": 120, "id":59}],
+        "line":2
+        },
+                {
+        "id":81,
+        "coords": { "x": 198.1996, "y": 98.3614},
+        "multi":false,
+        "name": {"ru_RU":"Telefonplan","en_EN":"Telefonplan"},
+        "edges": [{"time": 120, "id":80},{"time": 120, "id":82}],
+        "line":2
+        },
+                {
+        "id":82,
+        "coords": { "x": 177.919100, "y": 94.998},
+        "multi":false,
+        "name": {"ru_RU":"Hägerstensåsen","en_EN":"Hägerstensåsen"},
+        "edges": [{"time": 120, "id":81},{"time": 120, "id":83}],
+        "line":2
+        },
+                {
+        "id":83,
+        "coords": { "x": 166.692, "y": 91.3152},
+        "multi":false,
+        "name": {"ru_RU":"Västertorp","en_EN":"Västertorp"},
+        "edges": [{"time": 120, "id":82},{"time": 120, "id":84}],
+        "line":2
+        },
+                {
+        "id":84,
+        "coords": { "x": 164.876, "y": 86.467700},
+        "multi":false,
+        "name": {"ru_RU":"Fruängen","en_EN":"Fruängen"},
+        "edges": [{"time": 120, "id":83}],
+        "line":2
+        },
+                {
+        "id":85,
+        "coords": { "x": 272.2441, "y": 131.079300},
+        "multi":false,
+        "name": {"ru_RU":"Kungsträdgården","en_EN":"Kungsträdgården"},
+        "edges": [{"time": 120, "id":86}],
+        "line":3
+        },
+                {
+        "id":86,
+        "coords": { "x": 260.944, "y": 131.8941},
+        "multi":true,
+        "name": {"ru_RU":"T-Centralen","en_EN":"T-Centralen"},
+        "edges": [{"time": 120, "id":85},{"time": 120, "id":87},{"time": 120, "id":21},{"time": 120, "id":53}],
+        "line":3
+        },
+                {
+        "id":87,
+        "coords": { "x": 241.744600, "y": 130.1832},
+        "multi":false,
+        "name": {"ru_RU":"Rådhuset","en_EN":"Rådhuset"},
+        "edges": [{"time": 120, "id":86},{"time": 120, "id":88}],
+        "line":3
+        },
+                {
+        "id":88,
+        "coords": { "x": 230.421800, "y": 132.3656},
+        "multi":true,
+        "name": {"ru_RU":"Fridhemsplan","en_EN":"Fridhemsplan"},
+        "edges": [{"time": 120, "id":87},{"time": 120, "id":89},{"time": 120, "id":16}],
+        "line":3
+        },
+                {
+        "id":89,
+        "coords": { "x": 217.1106, "y": 136.8947},
+        "multi":false,
+        "name": {"ru_RU":"Stadshagen","en_EN":"Stadshagen"},
+        "edges": [{"time": 120, "id":88},{"time": 120, "id":90}],
+        "line":3
+        },
+                {
+        "id":90,
+        "coords": { "x": 203.930400, "y": 147.4213},
+        "multi":false,
+        "name": {"ru_RU":"Västra skogen","en_EN":"Västra skogen"},
+        "edges": [{"time": 120, "id":89},{"time": 120, "id":91},{"time": 120, "id":99}],
+        "line":3
+        },
+                {
+        "id":91,
+        "coords": { "x": 187.0127, "y": 149.611800},
+        "multi":false,
+        "name": {"ru_RU":"Huvudsta","en_EN":"Huvudsta"},
+        "edges": [{"time": 120, "id":90},{"time": 120, "id":92}],
+        "line":3
+        },
+                {
+        "id":92,
+        "coords": { "x": 173.1887, "y": 154.4635},
+        "multi":false,
+        "name": {"ru_RU":"Solna strand","en_EN":"Solna strand"},
+        "edges": [{"time": 120, "id":91},{"time": 120, "id":93}],
+        "line":3
+        },
+                {
+        "id":93,
+        "coords": { "x": 172.494, "y": 160.6431},
+        "multi":false,
+        "name": {"ru_RU":"Sundbybergs centrum","en_EN":"Sundbybergs centrum"},
+        "edges": [{"time": 120, "id":92},{"time": 120, "id":94}],
+        "line":3
+        },
+                {
+        "id":94,
+        "coords": { "x": 164.8787, "y": 167.5643},
+        "multi":false,
+        "name": {"ru_RU":"Duvbo","en_EN":"Duvbo"},
+        "edges": [{"time": 120, "id":93},{"time": 120, "id":95}],
+        "line":3
+        },
+                {
+        "id":95,
+        "coords": { "x": 140.2175, "y": 175.5892},
+        "multi":false,
+        "name": {"ru_RU":"Rissne","en_EN":"Rissne"},
+        "edges": [{"time": 120, "id":94},{"time": 120, "id":96}],
+        "line":3
+        },
+                {
+        "id":96,
+        "coords": { "x": 128.3805, "y": 188.254100},
+        "multi":false,
+        "name": {"ru_RU":"Rinkeby","en_EN":"Rinkeby"},
+        "edges": [{"time": 120, "id":95},{"time": 120, "id":97}],
+        "line":3
+        },
+                {
+        "id":97,
+        "coords": { "x": 101.229300, "y": 194.3509},
+        "multi":false,
+        "name": {"ru_RU":"Tensta","en_EN":"Tensta"},
+        "edges": [{"time": 120, "id":96},{"time": 120, "id":98}],
+        "line":3
+        },
+                {
+        "id":98,
+        "coords": { "x": 87.949300, "y": 196.0182},
+        "multi":false,
+        "name": {"ru_RU":"Hjulsta","en_EN":"Hjulsta"},
+        "edges": [{"time": 120, "id":97}],
+        "line":3
+        },
+                {
+        "id":99,
+        "coords": { "x": 198.642700, "y": 159.0943},
+        "multi":false,
+        "name": {"ru_RU":"Solna centrum","en_EN":"Solna centrum"},
+        "edges": [{"time": 120, "id":90},{"time": 120, "id":100}],
+        "line":3
+        },
+                {
+        "id":100,
+        "coords": { "x": 182.3715, "y": 167.0448},
+        "multi":false,
+        "name": {"ru_RU":"Näckrosen","en_EN":"Näckrosen"},
+        "edges": [{"time": 120, "id":99},{"time": 120, "id":101}],
+        "line":3
+        },
+                {
+        "id":101,
+        "coords": { "x": 170.221, "y": 175.065600},
+        "multi":false,
+        "name": {"ru_RU":"Hallonbergen","en_EN":"Hallonbergen"},
+        "edges": [{"time": 120, "id":100},{"time": 120, "id":102}],
+        "line":3
+        },
+                {
+        "id":102,
+        "coords": { "x": 142.7547, "y": 202.920200},
+        "multi":false,
+        "name": {"ru_RU":"Kista","en_EN":"Kista"},
+        "edges": [{"time": 120, "id":101},{"time": 120, "id":103}],
+        "line":3
+        },
+                {
+        "id":103,
+        "coords": { "x": 128.6653, "y": 208.184800},
+        "multi":false,
+        "name": {"ru_RU":"Husby","en_EN":"Husby"},
+        "edges": [{"time": 120, "id":102},{"time": 120, "id":104}],
+        "line":3
+        },
+                {
+        "id":104,
+        "coords": { "x": 113.2189, "y": 215.5814},
+        "multi":false,
+        "name": {"ru_RU":"Akalla","en_EN":"Akalla"},
+        "edges": [{"time": 120, "id":103}],
+        "line":3
+        },
+
+    ],
+    "multiPoints":[
+        {"coords": { "x": 230.421800, "y": 132.3656}, "id": [16,88]},
+        {"coords": { "x": 260.944, "y": 131.8941}, "id": [21,53,86]},
+        {"coords": { "x": 267.1771, "y": 123.1743}, "id": [22,54]},
+        {"coords": { "x": 272.1761, "y": 119.4576}, "id": [23,55]},
+
+        
+    ],
+    
+    "lines":[
+    [
+        {"from":1,"to":2},{"from":2,"to":3},{"from":3,"to":4},{"from":4,"to":5},{"from":5,"to":6},{"from":6,"to":7},{"from":7,"to":8},{"from":8,"to":9},{"from":9,"to":10},{"from":10,"to":11},{"from":11,"to":12},{"from":12,"to":13},{"from":13,"to":14},{"from":14,"to":15},{"from":15,"to":16},{"from":16,"to":17},{"from":17,"to":18},{"from":18,"to":19},{"from":19,"to":20},{"from":20,"to":21},{"from":21,"to":22},{"from":22,"to":23},{"from":23,"to":24},{"from":24,"to":25},{"from":25,"to":26},{"from":26,"to":27},{"from":27,"to":28},{"from":28,"to":29},{"from":29,"to":30},{"from":30,"to":31},{"from":26,"to":32},{"from":32,"to":33},{"from":33,"to":34},{"from":34,"to":35},{"from":35,"to":36},{"from":36,"to":37},{"from":37,"to":38},{"from":38,"to":39},{"from":25,"to":40},{"from":40,"to":41},{"from":41,"to":42},{"from":42,"to":43},{"from":43,"to":44},{"from":44,"to":45},{"from":45,"to":46},{"from":46,"to":47},{"from":47,"to":48}
+    ],
+    [
+        {"from":49,"to":50},{"from":50,"to":51},{"from":51,"to":52},{"from":52,"to":53},{"from":53,"to":54},{"from":54,"to":55},{"from":55,"to":56},{"from":56,"to":57},{"from":57,"to":58},{"from":58,"to":59},{"from":59,"to":60},{"from":60,"to":61},{"from":61,"to":62},{"from":62,"to":63},{"from":63,"to":64},{"from":64,"to":65},{"from":65,"to":66},{"from":66,"to":67},{"from":67,"to":68},{"from":68,"to":69},{"from":69,"to":70},{"from":70,"to":71},{"from":71,"to":72},{"from":72,"to":73},{"from":74,"to":75},{"from":75,"to":76},{"from":76,"to":77},{"from":77,"to":78},{"from":78,"to":79},{"from":79,"to":52},{"from":59,"to":80},{"from":80,"to":81},{"from":81,"to":82},{"from":82,"to":83},{"from":83,"to":84}
+    ],
+         [
+             {"from":85,"to":86},{"from":86,"to":87},{"from":87,"to":88},{"from":88,"to":89},{"from":89,"to":90},{"from":90,"to":91},{"from":91,"to":92},{"from":92,"to":93},{"from":93,"to":94},{"from":94,"to":95},{"from":95,"to":96},{"from":96,"to":97},{"from":97,"to":98},{"from":90,"to":99},{"from":99,"to":100},{"from":100,"to":101},{"from":101,"to":102},{"from":102,"to":103},{"from":103,"to":104}
+
+         ]
+               
+    ],
+    "colors":[
+         {"r": 0, "g": 255, "b": 0},
+         {"r": 255, "g": 0, "b": 0},
+         {"r": 0, "g": 0, "b": 255},
+     ]
+}

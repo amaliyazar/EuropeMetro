@@ -1,0 +1,494 @@
+{
+    "stations":[
+                   {
+           "id":1,
+           "coords": { "x": 43.4303, "y": 48.1439},
+           "multi":false,
+           "name": {"ru_RU":"Πειραιάς","en_EN":"Piraeus"},
+           "edges": [{"time": 120, "id":2}],
+           "line":1
+           },
+                   {
+           "id":2,
+           "coords": { "x": 65.1898, "y": 45.133500},
+           "multi":false,
+           "name": {"ru_RU":"Νέο Φάληρο","en_EN":"Neo Faliro"},
+           "edges": [{"time": 120, "id":1},{"time": 120, "id":3}],
+           "line":1
+           },
+                   {
+           "id":3,
+           "coords": { "x": 80.2925, "y": 55.2355},
+           "multi":false,
+           "name": {"ru_RU":"Μοσχάτο","en_EN":"Moschato"},
+           "edges": [{"time": 120, "id":2},{"time": 120, "id":4}],
+           "line":1
+           },
+                   {
+           "id":4,
+           "coords": { "x": 96.9304, "y": 60.4095},
+           "multi":false,
+           "name": {"ru_RU":"Калитея (станция метро)","en_EN":"Kallithea"},
+           "edges": [{"time": 120, "id":3},{"time": 120, "id":5}],
+           "line":1
+           },
+                   {
+           "id":5,
+           "coords": { "x": 103.4811, "y": 62.4859},
+           "multi":false,
+           "name": {"ru_RU":"Таврос -Элефтериос Винизелос (станция метро)","en_EN":"Tavros - Eleftherios Venizelos"},
+           "edges": [{"time": 120, "id":4},{"time": 120, "id":6}],
+           "line":1
+           },
+                   {
+           "id":6,
+           "coords": { "x": 109.0441, "y": 68.34700},
+           "multi":false,
+           "name": {"ru_RU":"Петралона","en_EN":"Petralona"},
+           "edges": [{"time": 120, "id":5},{"time": 120, "id":7}],
+           "line":1
+           },
+                   {
+           "id":7,
+           "coords": { "x": 120.3289, "y": 76.7658},
+           "multi":false,
+           "name": {"ru_RU":"Тисио","en_EN":"Thiseio"},
+           "edges": [{"time": 120, "id":6},{"time": 120, "id":8}],
+           "line":1
+           },
+                   {
+           "id":8,
+           "coords": { "x": 127.99010, "y": 84.11280},
+           "multi":true,
+           "name": {"ru_RU":"Омония (станция метро)","en_EN":"Omonia"},
+           "edges": [{"time": 120, "id":7},{"time": 120, "id":9},{"time": 120, "id":31}],
+           "line":1
+           },
+                   {
+           "id":9,
+           "coords": { "x": 130.1714, "y": 93.1743},
+           "multi":false,
+           "name": {"ru_RU":"Виктория (станция метро)","en_EN":"Victoria"},
+           "edges": [{"time": 120, "id":8},{"time": 120, "id":10}],
+           "line":1
+           },
+                   {
+           "id":10,
+           "coords": { "x": 122.83970, "y": 99.53880},
+           "multi":true,
+           "name": {"ru_RU":"Аттики (станция метро)","en_EN":"Attiki"},
+           "edges": [{"time": 120, "id":9},{"time": 120, "id":11},{"time": 120, "id":28}],
+           "line":1
+           },
+                   {
+           "id":11,
+           "coords": { "x": 127.70490, "y": 106.9885},
+           "multi":false,
+           "name": {"ru_RU":"Айос Николас (станция метро)","en_EN":"Agios Nikolaos"},
+           "edges": [{"time": 120, "id":10},{"time": 120, "id":12}],
+           "line":1
+           },
+                   {
+           "id":12,
+           "coords": { "x": 128.6012, "y": 111.7835},
+           "multi":false,
+           "name": {"ru_RU":"Каато Патысия","en_EN":"Kato Patisia"},
+           "edges": [{"time": 120, "id":11},{"time": 120, "id":13}],
+           "line":1
+           },
+                   {
+           "id":13,
+           "coords": { "x": 131.7245, "y": 120.04390},
+           "multi":false,
+           "name": {"ru_RU":"Айос Элефтэриос","en_EN":"Agios Eleftherios"},
+           "edges": [{"time": 120, "id":12},{"time": 120, "id":14}],
+           "line":1
+           },
+                   {
+           "id":14,
+           "coords": { "x": 136.0093, "y": 123.8524},
+           "multi":false,
+           "name": {"ru_RU":"Ано Патысия","en_EN":"Ano Patisia"},
+           "edges": [{"time": 120, "id":13},{"time": 120, "id":15}],
+           "line":1
+           },
+                   {
+           "id":15,
+           "coords": { "x": 144.6938, "y": 132.85060},
+           "multi":false,
+           "name": {"ru_RU":"Пэриссос","en_EN":"Perissos"},
+           "edges": [{"time": 120, "id":14},{"time": 120, "id":16}],
+           "line":1
+           },
+                   {
+           "id":16,
+           "coords": { "x": 150.107, "y": 137.1344},
+           "multi":false,
+           "name": {"ru_RU":"Пэвкакья","en_EN":"Πευκάκια"},
+           "edges": [{"time": 120, "id":15},{"time": 120, "id":17}],
+           "line":1
+           },
+                   {
+           "id":17,
+           "coords": { "x": 154.8441, "y": 141.5281},
+           "multi":false,
+           "name": {"ru_RU":"Неа Иония","en_EN":"Nea Ionia"},
+           "edges": [{"time": 120, "id":16},{"time": 120, "id":18}],
+           "line":1
+           },
+                   {
+           "id":18,
+           "coords": { "x": 166.037, "y": 146.2663},
+           "multi":false,
+           "name": {"ru_RU":"Ираклио","en_EN":"Iraklio"},
+           "edges": [{"time": 120, "id":17},{"time": 120, "id":19}],
+           "line":1
+           },
+                   {
+           "id":19,
+           "coords": { "x": 183.0457, "y": 143.3749},
+           "multi":false,
+           "name": {"ru_RU":"Ирини (станция метро)","en_EN":"Irini"},
+           "edges": [{"time": 120, "id":18},{"time": 120, "id":20}],
+           "line":1
+           },
+                   {
+           "id":20,
+           "coords": { "x": 192.9845, "y": 145.15800},
+           "multi":false,
+           "name": {"ru_RU":"Νεραντζιώτισσα","en_EN":"Nerantziotissa"},
+           "edges": [{"time": 120, "id":19},{"time": 120, "id":21}],
+           "line":1
+           },
+                   {
+           "id":21,
+           "coords": { "x": 204.941, "y": 156.24020},
+           "multi":false,
+           "name": {"ru_RU":"Маруси (станция метро)","en_EN":"Marousi"},
+           "edges": [{"time": 120, "id":20},{"time": 120, "id":22}],
+           "line":1
+           },
+                   {
+           "id":22,
+           "coords": { "x": 203.99210, "y": 165.5977},
+           "multi":false,
+           "name": {"ru_RU":"ΚΑΤ","en_EN":"KAT"},
+           "edges": [{"time": 120, "id":21},{"time": 120, "id":23}],
+           "line":1
+           },
+                   {
+           "id":23,
+           "coords": { "x": 208.18550, "y": 173.79670},
+           "multi":false,
+           "name": {"ru_RU":"Кофисья","en_EN":"Kifisia"},
+           "edges": [{"time": 120, "id":22}],
+           "line":1
+           },
+                   {
+           "id":24,
+           "coords": { "x": 90.3147, "y": 117.5689},
+           "multi":false,
+           "name": {"ru_RU":"Ανθούπολη","en_EN":"Anthoupoli"},
+           "edges": [{"time": 120, "id":25}],
+           "line":2
+           },
+                   {
+           "id":25,
+           "coords": { "x": 95.93310, "y": 112.88770},
+           "multi":false,
+           "name": {"ru_RU":"Περιστέρι","en_EN":"Peristeri"},
+           "edges": [{"time": 120, "id":24},{"time": 120, "id":26}],
+           "line":2
+           },
+                   {
+           "id":26,
+           "coords": { "x": 99.73010, "y": 106.104},
+           "multi":false,
+           "name": {"ru_RU":"Άγιος Αντώνιος","en_EN":"Agios Antonios"},
+           "edges": [{"time": 120, "id":25},{"time": 120, "id":27}],
+           "line":2
+           },
+                   {
+           "id":27,
+           "coords": { "x": 114.0398, "y": 102.6101},
+           "multi":false,
+           "name": {"ru_RU":"Σεπόλια","en_EN":"Sepolia"},
+           "edges": [{"time": 120, "id":26},{"time": 120, "id":28}],
+           "line":2
+           },
+                   {
+           "id":28,
+           "coords": { "x": 122.83970, "y": 99.53880},
+           "multi":true,
+           "name": {"ru_RU":"Аттики (станция метро)","en_EN":"Attiki"},
+           "edges": [{"time": 120, "id":27},{"time": 120, "id":29},{"time": 120, "id":10}],
+           "line":2
+           },
+                   {
+           "id":29,
+           "coords": { "x": 120.77390, "y": 92.2776},
+           "multi":false,
+           "name": {"ru_RU":"Σταθμός Λαρίσης","en_EN":"Larissa Station"},
+           "edges": [{"time": 120, "id":28},{"time": 120, "id":30}],
+           "line":2
+           },
+                   {
+           "id":30,
+           "coords": { "x": 121.37960, "y": 85.8525},
+           "multi":false,
+           "name": {"ru_RU":"Μεταξουργείο","en_EN":"Metaxourgio"},
+           "edges": [{"time": 120, "id":29},{"time": 120, "id":31}],
+           "line":2
+           },
+                   {
+           "id":31,
+           "coords": { "x": 127.99010, "y": 84.11280},
+           "multi":true,
+           "name": {"ru_RU":"Омония (станция метро)","en_EN":"Omonia"},
+           "edges": [{"time": 120, "id":30},{"time": 120, "id":32},{"time": 120, "id":8}],
+           "line":2
+           },
+                   {
+           "id":32,
+           "coords": { "x": 133.0199, "y": 80.3554},
+           "multi":false,
+           "name": {"ru_RU":"Πανεπιστήμιο","en_EN":"Panepistimio"},
+           "edges": [{"time": 120, "id":31},{"time": 120, "id":33}],
+           "line":2
+           },
+                   {
+           "id":33,
+           "coords": { "x": 135.7427, "y": 75.5029},
+           "multi":true,
+           "name": {"ru_RU":"Σύνταγμα","en_EN":"Syntagma"},
+           "edges": [{"time": 120, "id":32},{"time": 120, "id":34},{"time": 120, "id":47}],
+           "line":2
+           },
+                   {
+           "id":34,
+           "coords": { "x": 129.5312, "y": 68.8593},
+           "multi":false,
+           "name": {"ru_RU":"Ακρόπολη","en_EN":"Akropoli"},
+           "edges": [{"time": 120, "id":33},{"time": 120, "id":35}],
+           "line":2
+           },
+                   {
+           "id":35,
+           "coords": { "x": 126.81790, "y": 64.6255},
+           "multi":false,
+           "name": {"ru_RU":"Συγγρού-Φιξ","en_EN":"Syngrou-Fix"},
+           "edges": [{"time": 120, "id":34},{"time": 120, "id":36}],
+           "line":2
+           },
+                   {
+           "id":36,
+           "coords": { "x": 128.3724, "y": 57.670500},
+           "multi":false,
+           "name": {"ru_RU":"Νέος Κόσμος","en_EN":"Neos Kosmos"},
+           "edges": [{"time": 120, "id":35},{"time": 120, "id":37}],
+           "line":2
+           },
+                   {
+           "id":37,
+           "coords": { "x": 134.68550, "y": 56.430400},
+           "multi":false,
+           "name": {"ru_RU":"Άγιος Ιωάννης","en_EN":"Agios Ioannis"},
+           "edges": [{"time": 120, "id":36},{"time": 120, "id":38}],
+           "line":2
+           },
+                   {
+           "id":38,
+           "coords": { "x": 137.23260, "y": 49.560100},
+           "multi":false,
+           "name": {"ru_RU":"Δάφνη","en_EN":"Dafni"},
+           "edges": [{"time": 120, "id":37},{"time": 120, "id":39}],
+           "line":2
+           },
+                   {
+           "id":39,
+           "coords": { "x": 140.70420, "y": 40.4334},
+           "multi":false,
+           "name": {"ru_RU":"Άγιος Δημήτριος","en_EN":"Agios Dimitrios"},
+           "edges": [{"time": 120, "id":38},{"time": 120, "id":40}],
+           "line":2
+           },
+                   {
+           "id":40,
+           "coords": { "x": 144.46790, "y": 29.660500},
+           "multi":false,
+           "name": {"ru_RU":"Ηλιούπολη","en_EN":"Ilioupoli"},
+           "edges": [{"time": 120, "id":39},{"time": 120, "id":41}],
+           "line":2
+           },
+                   {
+           "id":41,
+           "coords": { "x": 144.36010, "y": 18.0976},
+           "multi":false,
+           "name": {"ru_RU":"Άλιμος","en_EN":"Alimos"},
+           "edges": [{"time": 120, "id":40},{"time": 120, "id":42}],
+           "line":2
+           },
+                   {
+           "id":42,
+           "coords": { "x": 145.4985, "y": 3.0265},
+           "multi":false,
+           "name": {"ru_RU":"Αργυρούπολη","en_EN":"Argiroupoli"},
+           "edges": [{"time": 120, "id":41},{"time": 120, "id":43}],
+           "line":2
+           },
+                   {
+           "id":43,
+           "coords": { "x": 147.1137, "y": -7.4087000},
+           "multi":false,
+           "name": {"ru_RU":"Ελληνικό","en_EN":"Elliniko"},
+           "edges": [{"time": 120, "id":42}],
+           "line":2
+           },
+                   {
+           "id":44,
+           "coords": { "x": 81.8195, "y": 91.4342},
+           "multi":false,
+           "name": {"ru_RU":"Αιγάλεω","en_EN":"Egaleo"},
+           "edges": [{"time": 120, "id":45}],
+           "line":3
+           },
+                   {
+           "id":45,
+           "coords": { "x": 94.0002, "y": 87.8662},
+           "multi":false,
+           "name": {"ru_RU":"Ελαιώνας","en_EN":"Eleonas"},
+           "edges": [{"time": 120, "id":44},{"time": 120, "id":46}],
+           "line":3
+           },
+                   {
+           "id":46,
+           "coords": { "x": 111.1631, "y": 78.6654},
+           "multi":false,
+           "name": {"ru_RU":"Κεραμεικός","en_EN":"Kerameikos"},
+           "edges": [{"time": 120, "id":45},{"time": 120, "id":47}],
+           "line":3
+           },
+                   {
+           "id":47,
+           "coords": { "x": 135.7427, "y": 75.5029},
+           "multi":true,
+           "name": {"ru_RU":"Σύνταγμα","en_EN":"Syntagma"},
+           "edges": [{"time": 120, "id":46},{"time": 120, "id":48},{"time": 120, "id":33}],
+           "line":3
+           },
+                   {
+           "id":48,
+           "coords": { "x": 147.1036, "y": 76.1258},
+           "multi":false,
+           "name": {"ru_RU":"Ευαγγελισμός","en_EN":"Ευαγγελισμός"},
+           "edges": [{"time": 120, "id":47},{"time": 120, "id":49}],
+           "line":3
+           },
+                   {
+           "id":49,
+           "coords": { "x": 153.0087, "y": 79.0317},
+           "multi":false,
+           "name": {"ru_RU":"Μέγαρο Μουσικής","en_EN":"Megaro Mousikis Metro"},
+           "edges": [{"time": 120, "id":48},{"time": 120, "id":50}],
+           "line":3
+           },
+                   {
+           "id":50,
+           "coords": { "x": 157.56650, "y": 87.2026},
+           "multi":false,
+           "name": {"ru_RU":"Αμπελόκηποι","en_EN":"Ambelokipi"},
+           "edges": [{"time": 120, "id":49},{"time": 120, "id":51}],
+           "line":3
+           },
+                   {
+           "id":51,
+           "coords": { "x": 163.57680, "y": 93.21170},
+           "multi":false,
+           "name": {"ru_RU":"Πανόρμου","en_EN":"Panormou"},
+           "edges": [{"time": 120, "id":50},{"time": 120, "id":52}],
+           "line":3
+           },
+                   {
+           "id":52,
+           "coords": { "x": 176.3871, "y": 93.48060},
+           "multi":false,
+           "name": {"ru_RU":"Κατεχάκη","en_EN":"Katehaki"},
+           "edges": [{"time": 120, "id":51},{"time": 120, "id":53}],
+           "line":3
+           },
+                   {
+           "id":53,
+           "coords": { "x": 184.4745, "y": 99.18400},
+           "multi":false,
+           "name": {"ru_RU":"Εθνική Άμυνα","en_EN":"Ethniki Amyna"},
+           "edges": [{"time": 120, "id":52},{"time": 120, "id":54}],
+           "line":3
+           },
+                   {
+           "id":54,
+           "coords": { "x": 194.70850, "y": 104.90990},
+           "multi":false,
+           "name": {"ru_RU":"Χολαργός","en_EN":"Holargos"},
+           "edges": [{"time": 120, "id":53},{"time": 120, "id":55}],
+           "line":3
+           },
+                   {
+           "id":55,
+           "coords": { "x": 205.7757, "y": 109.0991},
+           "multi":false,
+           "name": {"ru_RU":"Νομισματοκοπείο","en_EN":"Nomismatokopio"},
+           "edges": [{"time": 120, "id":54},{"time": 120, "id":56}],
+           "line":3
+           },
+                   {
+           "id":56,
+           "coords": { "x": 212.48440, "y": 117.12960},
+           "multi":false,
+           "name": {"ru_RU":"Αγία Παρασκευή","en_EN":"Agia Paraskevi"},
+           "edges": [{"time": 120, "id":55},{"time": 120, "id":57}],
+           "line":3
+           },
+                   {
+           "id":57,
+           "coords": { "x": 220.75490, "y": 121.7116},
+           "multi":false,
+           "name": {"ru_RU":"Χαλάνδρι","en_EN":"Chalandri"},
+           "edges": [{"time": 120, "id":56},{"time": 120, "id":58}],
+           "line":3
+           },
+                   {
+           "id":58,
+           "coords": { "x": 232.54940, "y": 123.9919},
+           "multi":false,
+           "name": {"ru_RU":"Δουκίσσης Πλακεντίας","en_EN":"Doukissis Plakentias"},
+           "edges": [{"time": 120, "id":57}],
+           "line":3
+           },
+
+    ],
+    "multiPoints":[
+        {"coords": { "x": 127.99010, "y": 84.11280}, "id": [8,31]},
+        {"coords": { "x": 122.83970, "y": 99.53880}, "id": [10,28]},
+        {"coords": { "x": 135.7427, "y": 75.5029}, "id": [33,47]}
+
+        
+    ],
+    
+    "lines":[
+    [
+        {"from":1,"to":2},{"from":2,"to":3},{"from":3,"to":4},{"from":4,"to":5},{"from":5,"to":6},{"from":6,"to":7},{"from":7,"to":8},{"from":8,"to":9},{"from":9,"to":10},{"from":10,"to":11},{"from":11,"to":12},{"from":12,"to":13},{"from":13,"to":14},{"from":14,"to":15},{"from":15,"to":16},{"from":16,"to":17},{"from":17,"to":18},{"from":18,"to":19},{"from":19,"to":20},{"from":20,"to":21},{"from":21,"to":22},{"from":22,"to":23}
+        ],
+    [
+        {"from":24,"to":25},{"from":25,"to":26},{"from":26,"to":27},{"from":27,"to":28},{"from":28,"to":29},{"from":29,"to":30},{"from":30,"to":31},{"from":31,"to":32},{"from":32,"to":33},{"from":33,"to":34},{"from":34,"to":35},{"from":35,"to":36},{"from":36,"to":37},{"from":37,"to":38},{"from":38,"to":39},{"from":39,"to":40},{"from":40,"to":41},{"from":41,"to":42},{"from":42,"to":43}
+    ],
+    [
+        {"from":44,"to":45},{"from":45,"to":46},{"from":46,"to":47},{"from":47,"to":48},{"from":48,"to":49},{"from":49,"to":50},{"from":50,"to":51},{"from":51,"to":52},{"from":52,"to":53},{"from":53,"to":54},{"from":54,"to":55},{"from":55,"to":56},{"from":56,"to":57},{"from":57,"to":58}
+        ]
+               
+    ],
+    "colors":[
+         {"r": 0, "g": 255, "b": 0},
+         {"r": 255, "g": 0, "b": 0},
+         {"r": 0, "g": 0, "b": 255},
+     ]
+}

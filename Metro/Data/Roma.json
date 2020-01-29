@@ -1,0 +1,621 @@
+{
+    "stations":[
+                {
+        "id":1,
+        "coords": { "x": -84.899300, "y":46.1381},
+        "multi":false,
+        "name": {"ru_RU":"Battistini","en_EN":"Battistini"},
+        "edges": [{"time": 120, "id":2}],
+        "line":1
+        },
+                {
+        "id":2,
+        "coords": { "x": -73.5789, "y":40.5296},
+        "multi":false,
+        "name": {"ru_RU":"Cornelia","en_EN":"Cornelia"},
+        "edges": [{"time": 120, "id":1},{"time": 120, "id":3}],
+        "line":1
+        },
+                {
+        "id":3,
+        "coords": { "x": -66.948500, "y":38.8863},
+        "multi":false,
+        "name": {"ru_RU":"Baldo degli Ubaldi","en_EN":"Baldo degli Ubaldi"},
+        "edges": [{"time": 120, "id":2},{"time": 120, "id":4}],
+        "line":1
+        },
+                {
+        "id":4,
+        "coords": { "x": -58.6124, "y":42.8779000},
+        "multi":false,
+        "name": {"ru_RU":"Valle Aurelia","en_EN":"Valle Aurelia"},
+        "edges": [{"time": 120, "id":3},{"time": 120, "id":5}],
+        "line":1
+        },
+                {
+        "id":5,
+        "coords": { "x": -52.3016, "y":47.3662},
+        "multi":false,
+        "name": {"ru_RU":"Cipro","en_EN":"Cipro"},
+        "edges": [{"time": 120, "id":4},{"time": 120, "id":6}],
+        "line":1
+        },
+                {
+        "id":6,
+        "coords": { "x": -41.6932000, "y":49.4115000},
+        "multi":false,
+        "name": {"ru_RU":"Ottaviano","en_EN":"Ottaviano"},
+        "edges": [{"time": 120, "id":5},{"time": 120, "id":7}],
+        "line":1
+        },
+                {
+        "id":7,
+        "coords": { "x": -33.8342, "y":51.3558},
+        "multi":false,
+        "name": {"ru_RU":"Lepanto","en_EN":"Lepanto"},
+        "edges": [{"time": 120, "id":6},{"time": 120, "id":8}],
+        "line":1
+        },
+                {
+        "id":8,
+        "coords": { "x": -22.8606, "y":52.8288},
+        "multi":false,
+        "name": {"ru_RU":"Flaminio","en_EN":"Flaminio"},
+        "edges": [{"time": 120, "id":7},{"time": 120, "id":9}],
+        "line":1
+        },
+                {
+        "id":9,
+        "coords": { "x": -15.4943, "y":46.7933},
+        "multi":false,
+        "name": {"ru_RU":"Spagna","en_EN":"Spagna"},
+        "edges": [{"time": 120, "id":8},{"time": 120, "id":10}],
+        "line":1
+        },
+                {
+        "id":10,
+        "coords": { "x": -11.236, "y":43.837},
+        "multi":false,
+        "name": {"ru_RU":"Barberini","en_EN":"Barberini"},
+        "edges": [{"time": 120, "id":9},{"time": 120, "id":11}],
+        "line":1
+        },
+                {
+        "id":11,
+        "coords": { "x": -4.1729, "y":42.7646},
+        "multi":false,
+        "name": {"ru_RU":"Repubblica","en_EN":"Repubblica"},
+        "edges": [{"time": 120, "id":10},{"time": 120, "id":12}],
+        "line":1
+        },
+                {
+        "id":12,
+        "coords": { "x": 0.7858, "y":41.6577000},
+        "multi":true,
+        "name": {"ru_RU":"Termini","en_EN":"Termini"},
+        "edges": [{"time": 120, "id":11},{"time": 120, "id":13},{"time": 120, "id":42}],
+        "line":1
+        },
+                {
+        "id":13,
+        "coords": { "x": 4.4677, "y":34.8835000},
+        "multi":false,
+        "name": {"ru_RU":"Vittorio Emanuele","en_EN":"Vittorio Emanuele"},
+        "edges": [{"time": 120, "id":12},{"time": 120, "id":14}],
+        "line":1
+        },
+                {
+        "id":14,
+        "coords": { "x": 6.8491, "y":30.3327000},
+        "multi":false,
+        "name": {"ru_RU":"Manzoni","en_EN":"Manzoni"},
+        "edges": [{"time": 120, "id":13},{"time": 120, "id":15}],
+        "line":1
+        },
+                {
+        "id":15,
+        "coords": { "x": 9.976, "y":25.3478},
+        "multi":true,
+        "name": {"ru_RU":"San Giovanni","en_EN":"San Giovanni"},
+        "edges": [{"time": 120, "id":14},{"time": 120, "id":16},{"time": 120, "id":53}],
+        "line":1
+        },
+                {
+        "id":16,
+        "coords": { "x": 14.4046, "y":21.6351},
+        "multi":false,
+        "name": {"ru_RU":"Re di Roma","en_EN":"Re di Roma"},
+        "edges": [{"time": 120, "id":15},{"time": 120, "id":17}],
+        "line":1
+        },
+                {
+        "id":17,
+        "coords": { "x": 18.9574, "y":17.8448},
+        "multi":false,
+        "name": {"ru_RU":"Ponte Lungo","en_EN":"Ponte Lungo"},
+        "edges": [{"time": 120, "id":16},{"time": 120, "id":18}],
+        "line":1
+        },
+                {
+        "id":18,
+        "coords": { "x": 23.0203000, "y":14.7435000},
+        "multi":false,
+        "name": {"ru_RU":"Furio Camillo","en_EN":"Furio Camillo"},
+        "edges": [{"time": 120, "id":17},{"time": 120, "id":19}],
+        "line":1
+        },
+                {
+        "id":19,
+        "coords": { "x": 30.0898, "y":9.3853},
+        "multi":false,
+        "name": {"ru_RU":"Colli Albani","en_EN":"Colli Albani"},
+        "edges": [{"time": 120, "id":18},{"time": 120, "id":20}],
+        "line":1
+        },
+                {
+        "id":20,
+        "coords": { "x": 35.0994, "y":6.3812000},
+        "multi":false,
+        "name": {"ru_RU":"Arco di Travertino","en_EN":"Arco di Travertino"},
+        "edges": [{"time": 120, "id":19},{"time": 120, "id":21}],
+        "line":1
+        },
+                {
+        "id":21,
+        "coords": { "x": 48.2062, "y":3.79},
+        "multi":false,
+        "name": {"ru_RU":"Porta Furba/Quadraro","en_EN":"Porta Furba/Quadraro"},
+        "edges": [{"time": 120, "id":20},{"time": 120, "id":22}],
+        "line":1
+        },
+                {
+        "id":22,
+        "coords": { "x": 52.6576, "y":2.13290000},
+        "multi":false,
+        "name": {"ru_RU":"Numidio Quadrato","en_EN":"Numidio Quadrato"},
+        "edges": [{"time": 120, "id":21},{"time": 120, "id":23}],
+        "line":1
+        },
+                {
+        "id":23,
+        "coords": { "x": 57.2829000, "y":-0.303100000},
+        "multi":false,
+        "name": {"ru_RU":"Lucio Sestio","en_EN":"Lucio Sestio"},
+        "edges": [{"time": 120, "id":22},{"time": 120, "id":24}],
+        "line":1
+        },
+                {
+        "id":24,
+        "coords": { "x": 62.6327, "y":-3.40210000},
+        "multi":false,
+        "name": {"ru_RU":"Giulio Agricola","en_EN":"Giulio Agricola"},
+        "edges": [{"time": 120, "id":23},{"time": 120, "id":25}],
+        "line":1
+        },
+                {
+        "id":25,
+        "coords": { "x": 67.7011, "y":-6.1693000},
+        "multi":false,
+        "name": {"ru_RU":"Subaugusta","en_EN":"Subaugusta"},
+        "edges": [{"time": 120, "id":24},{"time": 120, "id":26}],
+        "line":1
+        },
+                {
+        "id":26,
+        "coords": { "x": 74.3771, "y":-10.6998},
+        "multi":false,
+        "name": {"ru_RU":"Cinecittà","en_EN":"Cinecittà"},
+        "edges": [{"time": 120, "id":25},{"time": 120, "id":27}],
+        "line":1
+        },
+                {
+        "id":27,
+        "coords": { "x": 86.0085, "y":-17.4348},
+        "multi":false,
+        "name": {"ru_RU":"Anagnina","en_EN":"Anagnina"},
+        "edges": [{"time": 120, "id":26}],
+        "line":1
+        },
+                {
+        "id":28,
+        "coords": { "x": 72.9213, "y":65.7142},
+        "multi":false,
+        "name": {"ru_RU":"Rebibbia","en_EN":"Rebibbia"},
+        "edges": [{"time": 120, "id":29}],
+        "line":2
+        },
+                {
+        "id":29,
+        "coords": { "x": 65.1585, "y":60.7965},
+        "multi":false,
+        "name": {"ru_RU":"Ponte Mammolo","en_EN":"Ponte Mammolo"},
+        "edges": [{"time": 120, "id":28},{"time": 120, "id":30}],
+        "line":2
+        },
+                {
+        "id":30,
+        "coords": { "x": 60.5966, "y":55.5093},
+        "multi":false,
+        "name": {"ru_RU":"Santa Maria del Soccorso","en_EN":"Santa Maria del Soccorso"},
+        "edges": [{"time": 120, "id":29},{"time": 120, "id":31}],
+        "line":2
+        },
+                {
+        "id":31,
+        "coords": { "x": 55.0931, "y":54.9254},
+        "multi":false,
+        "name": {"ru_RU":"Pietralata","en_EN":"Pietralata"},
+        "edges": [{"time": 120, "id":30},{"time": 120, "id":32}],
+        "line":2
+        },
+                {
+        "id":32,
+        "coords": { "x": 48.0024, "y":55.735},
+        "multi":false,
+        "name": {"ru_RU":"Monti Tiburtini","en_EN":"Monti Tiburtini"},
+        "edges": [{"time": 120, "id":31},{"time": 120, "id":33}],
+        "line":2
+        },
+                {
+        "id":33,
+        "coords": { "x": 38.835, "y":55.2219000},
+        "multi":false,
+        "name": {"ru_RU":"Quintiliani","en_EN":"Quintiliani"},
+        "edges": [{"time": 120, "id":32},{"time": 120, "id":34}],
+        "line":2
+        },
+                {
+        "id":34,
+        "coords": { "x": 30.3507, "y":50.7562},
+        "multi":false,
+        "name": {"ru_RU":"Tiburtina FS","en_EN":"Tiburtina FS"},
+        "edges": [{"time": 120, "id":33},{"time": 120, "id":39}],
+        "line":2
+        },
+                {
+        "id":35,
+        "coords": { "x": 27.5914, "y":86.870100},
+        "multi":false,
+        "name": {"ru_RU":"Jonio","en_EN":"Jonio"},
+        "edges": [{"time": 120, "id":36}],
+        "line":2
+        },
+                {
+        "id":36,
+        "coords": { "x": 28.1410000, "y":79.7676},
+        "multi":false,
+        "name": {"ru_RU":"Conca d'Oro","en_EN":"Conca d'Oro"},
+        "edges": [{"time": 120, "id":35},{"time": 120, "id":37}],
+        "line":2
+        },
+                {
+        "id":37,
+        "coords": { "x": 19.2683, "y":71.7786},
+        "multi":false,
+        "name": {"ru_RU":"Libia","en_EN":"Libia"},
+        "edges": [{"time": 120, "id":36},{"time": 120, "id":38}],
+        "line":2
+        },
+                {
+        "id":38,
+        "coords": { "x": 15.9705000, "y":64.0723},
+        "multi":false,
+        "name": {"ru_RU":"Sant'Agnese/Annibaliano","en_EN":"Sant'Agnese/Annibaliano"},
+        "edges": [{"time": 120, "id":37},{"time": 120, "id":39}],
+        "line":2
+        },
+                {
+        "id":39,
+        "coords": { "x": 20.8145000, "y":53.6627},
+        "multi":false,
+        "name": {"ru_RU":"Bologna","en_EN":"Bologna"},
+        "edges": [{"time": 120, "id":38},{"time": 120, "id":34},{"time": 120, "id":40}],
+        "line":2
+        },
+                {
+        "id":40,
+        "coords": { "x": 12.1218, "y":48.6625},
+        "multi":false,
+        "name": {"ru_RU":"Policlinico","en_EN":"Policlinico"},
+        "edges": [{"time": 120, "id":39},{"time": 120, "id":41}],
+        "line":2
+        },
+                {
+        "id":41,
+        "coords": { "x": 5.5586, "y":46.2981000},
+        "multi":false,
+        "name": {"ru_RU":"Castro Pretorio","en_EN":"Castro Pretorio"},
+        "edges": [{"time": 120, "id":40},{"time": 120, "id":42}],
+        "line":2
+        },
+                {
+        "id":42,
+        "coords": { "x": 0.7858, "y":41.6577000},
+        "multi":true,
+        "name": {"ru_RU":"Termini","en_EN":"Termini"},
+        "edges": [{"time": 120, "id":41},{"time": 120, "id":43},{"time": 120, "id":12}],
+        "line":2
+        },
+                {
+        "id":43,
+        "coords": { "x": -6.4809, "y":34.8247},
+        "multi":false,
+        "name": {"ru_RU":"Cavour","en_EN":"Cavour"},
+        "edges": [{"time": 120, "id":42},{"time": 120, "id":44}],
+        "line":2
+        },
+                {
+        "id":44,
+        "coords": { "x": -8.4999, "y":31.4366000},
+        "multi":false,
+        "name": {"ru_RU":"Colosseo","en_EN":"Colosseo"},
+        "edges": [{"time": 120, "id":43},{"time": 120, "id":45}],
+        "line":2
+        },
+                {
+        "id":45,
+        "coords": { "x": -11.9598000, "y":23.5112000},
+        "multi":false,
+        "name": {"ru_RU":"Circo Massimo","en_EN":"Circo Massimo"},
+        "edges": [{"time": 120, "id":44},{"time": 120, "id":46}],
+        "line":2
+        },
+                {
+        "id":46,
+        "coords": { "x": -17.5176, "y":14.8781},
+        "multi":false,
+        "name": {"ru_RU":"Piramide","en_EN":"Piramide"},
+        "edges": [{"time": 120, "id":45},{"time": 120, "id":47}],
+        "line":2
+        },
+                {
+        "id":47,
+        "coords": { "x": -16.9133, "y":6.3327},
+        "multi":false,
+        "name": {"ru_RU":"Garbatella","en_EN":"Garbatella"},
+        "edges": [{"time": 120, "id":46},{"time": 120, "id":48}],
+        "line":2
+        },
+                {
+        "id":48,
+        "coords": { "x": -24.3526000, "y":-10.6649000},
+        "multi":false,
+        "name": {"ru_RU":"Marconi","en_EN":"Marconi"},
+        "edges": [{"time": 120, "id":47},{"time": 120, "id":49}],
+        "line":2
+        },
+                {
+        "id":49,
+        "coords": { "x": -36.6971, "y":-20.4403},
+        "multi":false,
+        "name": {"ru_RU":"EUR Magliana","en_EN":"EUR Magliana"},
+        "edges": [{"time": 120, "id":48},{"time": 120, "id":50}],
+        "line":2
+        },
+                {
+        "id":50,
+        "coords": { "x": -33.2769000, "y":-29.9653000},
+        "multi":false,
+        "name": {"ru_RU":"EUR Palasport","en_EN":"EUR Palasport"},
+        "edges": [{"time": 120, "id":49},{"time": 120, "id":51}],
+        "line":2
+        },
+                {
+        "id":51,
+        "coords": { "x": -29.1270000, "y":-31.1420000},
+        "multi":false,
+        "name": {"ru_RU":"EUR Fermi","en_EN":"EUR Fermi"},
+        "edges": [{"time": 120, "id":50},{"time": 120, "id":52}],
+        "line":2
+        },
+                {
+        "id":52,
+        "coords": { "x": -18.6887, "y":-32.9436},
+        "multi":false,
+        "name": {"ru_RU":"Laurentina","en_EN":"Laurentina"},
+        "edges": [{"time": 120, "id":51}],
+        "line":2
+        },
+                {
+        "id":53,
+        "coords": { "x": 9.976, "y":25.3478},
+        "multi":true,
+        "name": {"ru_RU":"San Giovanni","en_EN":"San Giovanni"},
+        "edges": [{"time": 120, "id":54},{"time": 120, "id":15}],
+        "line":3
+        },
+                {
+        "id":54,
+        "coords": { "x": 18.277, "y":26.837},
+        "multi":false,
+        "name": {"ru_RU":"Lodi","en_EN":"Lodi"},
+        "edges": [{"time": 120, "id":53},{"time": 120, "id":55}],
+        "line":3
+        },
+                {
+        "id":55,
+        "coords": { "x": 28.1685, "y":28.4537},
+        "multi":false,
+        "name": {"ru_RU":"Pigneto","en_EN":"Pigneto"},
+        "edges": [{"time": 120, "id":54},{"time": 120, "id":56}],
+        "line":3
+        },
+                {
+        "id":56,
+        "coords": { "x": 40.5216, "y":27.4172},
+        "multi":false,
+        "name": {"ru_RU":"Malatesta","en_EN":"Malatesta"},
+        "edges": [{"time": 120, "id":55},{"time": 120, "id":57}],
+        "line":3
+        },
+                {
+        "id":57,
+        "coords": { "x": 51.3611, "y":29.0368000},
+        "multi":false,
+        "name": {"ru_RU":"Teano","en_EN":"Teano"},
+        "edges": [{"time": 120, "id":56},{"time": 120, "id":58}],
+        "line":3
+        },
+                {
+        "id":58,
+        "coords": { "x": 62.1065000, "y":26.2262000},
+        "multi":false,
+        "name": {"ru_RU":"Gardenie","en_EN":"Gardenie"},
+        "edges": [{"time": 120, "id":57},{"time": 120, "id":59}],
+        "line":3
+        },
+                {
+        "id":59,
+        "coords": { "x": 66.507100, "y":21.1408000},
+        "multi":false,
+        "name": {"ru_RU":"Mirti","en_EN":"Mirti"},
+        "edges": [{"time": 120, "id":58},{"time": 120, "id":60}],
+        "line":3
+        },
+                {
+        "id":60,
+        "coords": { "x": 68.129500, "y":14.8252},
+        "multi":false,
+        "name": {"ru_RU":"Parco di Centocelle","en_EN":"Parco di Centocelle"},
+        "edges": [{"time": 120, "id":59},{"time": 120, "id":61}],
+        "line":3
+        },
+                {
+        "id":61,
+        "coords": { "x": 78.8298, "y":11.2904},
+        "multi":false,
+        "name": {"ru_RU":"Alessandrino","en_EN":"Alessandrino"},
+        "edges": [{"time": 120, "id":60},{"time": 120, "id":62}],
+        "line":3
+        },
+                {
+        "id":62,
+        "coords": { "x": 86.5637, "y":8.9954},
+        "multi":false,
+        "name": {"ru_RU":"Torre Spaccata","en_EN":"Torre Spaccata"},
+        "edges": [{"time": 120, "id":61},{"time": 120, "id":63}],
+        "line":3
+        },
+                {
+        "id":63,
+        "coords": { "x": 97.156500, "y":6.6209000},
+        "multi":false,
+        "name": {"ru_RU":"Torre Maura","en_EN":"Torre Maura"},
+        "edges": [{"time": 120, "id":62},{"time": 120, "id":64}],
+        "line":3
+        },
+                {
+        "id":64,
+        "coords": { "x": 110.5711, "y":4.1331},
+        "multi":false,
+        "name": {"ru_RU":"Giardinetti","en_EN":"Giardinetti"},
+        "edges": [{"time": 120, "id":63},{"time": 120, "id":65}],
+        "line":3
+        },
+                {
+        "id":65,
+        "coords": { "x": 116.836800, "y":3.31350000},
+        "multi":false,
+        "name": {"ru_RU":"Torrenova","en_EN":"Torrenova"},
+        "edges": [{"time": 120, "id":64},{"time": 120, "id":66}],
+        "line":3
+        },
+                {
+        "id":66,
+        "coords": { "x": 125.578300, "y":4.3334},
+        "multi":false,
+        "name": {"ru_RU":"Torre Angela","en_EN":"Torre Angela"},
+        "edges": [{"time": 120, "id":65},{"time": 120, "id":67}],
+        "line":3
+        },
+                {
+        "id":67,
+        "coords": { "x": 135.5752, "y":4.1551},
+        "multi":false,
+        "name": {"ru_RU":"Torre Gaia","en_EN":"Torre Gaia"},
+        "edges": [{"time": 120, "id":66},{"time": 120, "id":68}],
+        "line":3
+        },
+                {
+        "id":68,
+        "coords": { "x": 146.118600, "y":2.77390000},
+        "multi":false,
+        "name": {"ru_RU":"Grotte Celoni","en_EN":"Grotte Celoni"},
+        "edges": [{"time": 120, "id":67},{"time": 120, "id":69}],
+        "line":3
+        },
+                {
+        "id":69,
+        "coords": { "x": 158.1296, "y":4.9024},
+        "multi":false,
+        "name": {"ru_RU":"Due Leoni - Fontana Candida","en_EN":"Due Leoni - Fontana Candida"},
+        "edges": [{"time": 120, "id":68},{"time": 120, "id":70}],
+        "line":3
+        },
+                {
+        "id":70,
+        "coords": { "x": 167.2618, "y":4.6918000},
+        "multi":false,
+        "name": {"ru_RU":"Borghesiana","en_EN":"Borghesiana"},
+        "edges": [{"time": 120, "id":69},{"time": 120, "id":71}],
+        "line":3
+        },
+                {
+        "id":71,
+        "coords": { "x": 180.932900, "y":5.1593},
+        "multi":false,
+        "name": {"ru_RU":"Bolognetta","en_EN":"Bolognetta"},
+        "edges": [{"time": 120, "id":70},{"time": 120, "id":72}],
+        "line":3
+        },
+                {
+        "id":72,
+        "coords": { "x": 187.6098, "y":5.5206},
+        "multi":false,
+        "name": {"ru_RU":"Finocchio","en_EN":"Finocchio"},
+        "edges": [{"time": 120, "id":71},{"time": 120, "id":73}],
+        "line":3
+        },
+                {
+        "id":73,
+        "coords": { "x": 198.0872, "y":5.673},
+        "multi":false,
+        "name": {"ru_RU":"Graniti","en_EN":"Graniti"},
+        "edges": [{"time": 120, "id":72},{"time": 120, "id":74}],
+        "line":3
+        },
+                {
+        "id":74,
+        "coords": { "x": 207.613500, "y":5.6767},
+        "multi":false,
+        "name": {"ru_RU":"Monte Compatri - Pantano","en_EN":"Monte Compatri - Pantano"},
+        "edges": [{"time": 120, "id":73}],
+        "line":3
+        },
+
+    ],
+    "multiPoints":[
+        {"coords": { "x": 0.7858, "y":41.6577000}, "id": [12,42]},
+        {"coords": { "x": 9.976, "y":25.3478}, "id": [15,53]},
+        
+
+        
+    ],
+    
+    "lines":[
+    [
+        {"from":1,"to":2},{"from":2,"to":3},{"from":3,"to":4},{"from":4,"to":5},{"from":5,"to":6},{"from":6,"to":7},{"from":7,"to":8},{"from":8,"to":9},{"from":9,"to":10},{"from":10,"to":11},{"from":11,"to":12},{"from":12,"to":13},{"from":13,"to":14},{"from":14,"to":15},{"from":15,"to":16},{"from":16,"to":17},{"from":17,"to":18},{"from":18,"to":19},{"from":19,"to":20},{"from":20,"to":21},{"from":21,"to":22},{"from":22,"to":23},{"from":23,"to":24},{"from":24,"to":25},{"from":25,"to":26},{"from":26,"to":27}
+        ],
+    [
+                {"from":28,"to":29},{"from":29,"to":30},{"from":30,"to":31},{"from":31,"to":32},{"from":32,"to":33},{"from":33,"to":34},{"from":34,"to":39},{"from":35,"to":36},{"from":36,"to":37},{"from":37,"to":38},{"from":38,"to":39},{"from":39,"to":40},{"from":40,"to":41},{"from":41,"to":42},{"from":42,"to":43},{"from":43,"to":44},{"from":44,"to":45},{"from":45,"to":46},{"from":46,"to":47},{"from":47,"to":48},{"from":48,"to":49},{"from":49,"to":50},{"from":50,"to":51},{"from":51,"to":52}
+    ],
+    [
+        {"from":53,"to":54},{"from":54,"to":55},{"from":55,"to":56},{"from":56,"to":57},{"from":57,"to":59},{"from":58,"to":59},{"from":59,"to":60},{"from":60,"to":61},{"from":61,"to":62},{"from":62,"to":63},{"from":63,"to":64},{"from":64,"to":65},{"from":65,"to":66},{"from":66,"to":67},{"from":67,"to":68},{"from":68,"to":69},{"from":69,"to":70},{"from":70,"to":71},{"from":71,"to":72},{"from":72,"to":73},{"from":73,"to":74}
+        ]
+    ],
+    "colors":[
+         {"r": 255, "g": 0, "b": 0},
+         {"r": 0, "g": 0, "b": 255},
+         {"r": 0, "g": 255, "b": 0},
+     ]
+}

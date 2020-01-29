@@ -1,0 +1,507 @@
+{
+    "stations":[
+                {
+        "id":1,
+        "coords":  { "x": 48.4912, "y": 95.91810},
+        "multi":false,
+        "name": {"ru_RU":"Nádraží Veleslavín","en_EN":"Nádraží Veleslavín"},
+        "edges": [{"time": 120, "id":2}],
+        "line":1
+        },
+                {
+        "id":2,
+        "coords":  { "x": 62.8828, "y": 98.37870},
+        "multi":false,
+        "name": {"ru_RU":"Bořislavka","en_EN":"Bořislavka"},
+        "edges": [{"time": 120, "id":1},{"time": 120, "id":3}],
+        "line":1
+        },
+                {
+        "id":3,
+        "coords":  { "x": 93.40390, "y": 100.44800},
+        "multi":false,
+        "name": {"ru_RU":"Dejvická","en_EN":"Dejvická"},
+        "edges": [{"time": 120, "id":2},{"time": 120, "id":4}],
+        "line":1
+        },
+                {
+        "id":4,
+        "coords":  { "x": 103.7791, "y": 97.248},
+        "multi":false,
+        "name": {"ru_RU":"Hradčanská","en_EN":"Hradčanská"},
+        "edges": [{"time": 120, "id":3},{"time": 120, "id":5}],
+        "line":1
+        },
+                {
+        "id":5,
+        "coords":  { "x": 109.45670, "y": 91.17200},
+        "multi":false,
+        "name": {"ru_RU":"Malostranská","en_EN":"Malostranská"},
+        "edges": [{"time": 120, "id":4},{"time": 120, "id":6}],
+        "line":1
+        },
+                {
+        "id":6,
+        "coords":  { "x": 117.628, "y": 88.2161},
+        "multi":false,
+        "name": {"ru_RU":"Staroměstská","en_EN":"Staroměstská"},
+        "edges": [{"time": 120, "id":5},{"time": 120, "id":7}],
+        "line":1
+        },
+                {
+        "id":7,
+        "coords":  { "x": 124.36040, "y": 83.6872},
+        "multi":true,
+        "name": {"ru_RU":"Můstek","en_EN":"Můstek"},
+        "edges": [{"time": 120, "id":6},{"time": 120, "id":8},{"time": 120, "id":28}],
+        "line":1
+        },
+                {
+        "id":8,
+        "coords":  { "x": 131.6303, "y": 79.46990},
+        "multi":true,
+        "name": {"ru_RU":"Muzeum","en_EN":"Muzeum"},
+        "edges": [{"time": 120, "id":7},{"time": 120, "id":9},{"time": 120, "id":49}],
+        "line":1
+        },
+                {
+        "id":9,
+        "coords":  { "x": 139.1303, "y": 75.30720},
+        "multi":false,
+        "name": {"ru_RU":"Náměstí Míru","en_EN":"Náměstí Míru"},
+        "edges": [{"time": 120, "id":8},{"time": 120, "id":10}],
+        "line":1
+        },
+                {
+        "id":10,
+        "coords":  { "x": 150.2262, "y": 77.63430},
+        "multi":false,
+        "name": {"ru_RU":"Jiřího z Poděbrad","en_EN":"Jiřího z Poděbrad"},
+        "edges": [{"time": 120, "id":9},{"time": 120, "id":11}],
+        "line":1
+        },
+                {
+        "id":11,
+        "coords":  { "x": 162.1959, "y": 78.13560},
+        "multi":false,
+        "name": {"ru_RU":"Flora","en_EN":"Flora"},
+        "edges": [{"time": 120, "id":10},{"time": 120, "id":12}],
+        "line":1
+        },
+                {
+        "id":12,
+        "coords":  { "x": 176.3874, "y": 77.98020},
+        "multi":false,
+        "name": {"ru_RU":"Želivského","en_EN":"Želivského"},
+        "edges": [{"time": 120, "id":11},{"time": 120, "id":13}],
+        "line":1
+        },
+                {
+        "id":13,
+        "coords":  { "x": 190.51950, "y": 73.0545},
+        "multi":false,
+        "name": {"ru_RU":"Strašnická","en_EN":"Strašnická"},
+        "edges": [{"time": 120, "id":12},{"time": 120, "id":14}],
+        "line":1
+        },
+                {
+        "id":14,
+        "coords":  { "x": 207.97920, "y": 68.4573},
+        "multi":false,
+        "name": {"ru_RU":"Skalka","en_EN":"Skalka"},
+        "edges": [{"time": 120, "id":13},{"time": 120, "id":15}],
+        "line":1
+        },
+                {
+        "id":15,
+        "coords":  { "x": 215.1526, "y": 75.044},
+        "multi":false,
+        "name": {"ru_RU":"Depo Hostivař","en_EN":"Depo Hostivař"},
+        "edges": [{"time": 120, "id":14}],
+        "line":1
+        },
+                {
+        "id":16,
+        "coords":  { "x": -8.8352, "y": 53.2419},
+        "multi":false,
+        "name": {"ru_RU":"Zličín","en_EN":"Zličín"},
+        "edges": [{"time": 120, "id":17}],
+        "line":2
+        },
+                {
+        "id":17,
+        "coords":  { "x": 6.6755, "y": 46.7134},
+        "multi":false,
+        "name": {"ru_RU":"Stodůlky","en_EN":"Stodůlky"},
+        "edges": [{"time": 120, "id":16},{"time": 120, "id":18}],
+        "line":2
+        },
+                {
+        "id":18,
+        "coords":  { "x": 21.3488, "y": 45.6646},
+        "multi":false,
+        "name": {"ru_RU":"Luka","en_EN":"Luka"},
+        "edges": [{"time": 120, "id":17},{"time": 120, "id":19}],
+        "line":2
+        },
+                {
+        "id":19,
+        "coords":  { "x": 30.480500, "y": 44.5043},
+        "multi":false,
+        "name": {"ru_RU":"Lužiny","en_EN":"Lužiny"},
+        "edges": [{"time": 120, "id":18},{"time": 120, "id":20}],
+        "line":2
+        },
+                {
+        "id":20,
+        "coords":  { "x": 42.7888, "y": 50.0047},
+        "multi":false,
+        "name": {"ru_RU":"Hůrka","en_EN":"Hůrka"},
+        "edges": [{"time": 120, "id":19},{"time": 120, "id":21}],
+        "line":2
+        },
+                {
+        "id":21,
+        "coords":  { "x": 52.197100, "y": 50.8446},
+        "multi":false,
+        "name": {"ru_RU":"Nové Butovice","en_EN":"Nové Butovice"},
+        "edges": [{"time": 120, "id":20},{"time": 120, "id":22}],
+        "line":2
+        },
+                {
+        "id":22,
+        "coords":  { "x": 69.7582, "y": 54.1892},
+        "multi":false,
+        "name": {"ru_RU":"Jinonice","en_EN":"Jinonice"},
+        "edges": [{"time": 120, "id":21},{"time": 120, "id":23}],
+        "line":2
+        },
+                {
+        "id":23,
+        "coords":  { "x": 87.7448, "y": 58.016400},
+        "multi":false,
+        "name": {"ru_RU":"Radlická","en_EN":"Radlická"},
+        "edges": [{"time": 120, "id":22},{"time": 120, "id":24}],
+        "line":2
+        },
+                {
+        "id":24,
+        "coords":  { "x": 109.0904, "y": 61.198},
+        "multi":false,
+        "name": {"ru_RU":"Smíchovské nádraží","en_EN":"Smíchovské nádraží"},
+        "edges": [{"time": 120, "id":23},{"time": 120, "id":25}],
+        "line":2
+        },
+                {
+        "id":25,
+        "coords":  { "x": 103.83080, "y": 70.2539},
+        "multi":false,
+        "name": {"ru_RU":"Anděl","en_EN":"Anděl"},
+        "edges": [{"time": 120, "id":24},{"time": 120, "id":26}],
+        "line":2
+        },
+                {
+        "id":26,
+        "coords":  { "x": 116.7453, "y": 74.4096},
+        "multi":false,
+        "name": {"ru_RU":"Karlovo náměstí","en_EN":"Karlovo náměstí"},
+        "edges": [{"time": 120, "id":25},{"time": 120, "id":27}],
+        "line":2
+        },
+                {
+        "id":27,
+        "coords":  { "x": 120.2689, "y": 79.92},
+        "multi":false,
+        "name": {"ru_RU":"Národní třída","en_EN":"Národní třída"},
+        "edges": [{"time": 120, "id":26},{"time": 120, "id":28}],
+        "line":2
+        },
+                {
+        "id":28,
+        "coords":  { "x": 124.36040, "y": 83.6872},
+        "multi":true,
+        "name": {"ru_RU":"Můstek","en_EN":"Můstek"},
+        "edges": [{"time": 120, "id":27},{"time": 120, "id":29},{"time": 120, "id":7}],
+        "line":2
+        },
+                {
+        "id":29,
+        "coords":  { "x": 130.6385, "y": 88.7989},
+        "multi":false,
+        "name": {"ru_RU":"Náměstí Republiky","en_EN":"Náměstí Republiky"},
+        "edges": [{"time": 120, "id":28},{"time": 120, "id":30}],
+        "line":2
+        },
+                {
+        "id":30,
+        "coords":  { "x": 139.2619, "y": 90.2191},
+        "multi":true,
+        "name": {"ru_RU":"Florenc","en_EN":"Florenc"},
+        "edges": [{"time": 120, "id":29},{"time": 120, "id":31},{"time": 120, "id":47}],
+        "line":2
+        },
+                {
+        "id":31,
+        "coords":  { "x": 151.7852, "y": 93.39020},
+        "multi":false,
+        "name": {"ru_RU":"Křižíkova","en_EN":"Křižíkova"},
+        "edges": [{"time": 120, "id":30},{"time": 120, "id":32}],
+        "line":2
+        },
+                {
+        "id":32,
+        "coords":  { "x": 163.52620, "y": 96.95100},
+        "multi":false,
+        "name": {"ru_RU":"Invalidovna","en_EN":"Invalidovna"},
+        "edges": [{"time": 120, "id":31},{"time": 120, "id":33}],
+        "line":2
+        },
+                {
+        "id":33,
+        "coords":  { "x": 174.34040, "y": 103.92},
+        "multi":false,
+        "name": {"ru_RU":"Palmovka","en_EN":"Palmovka"},
+        "edges": [{"time": 120, "id":32},{"time": 120, "id":34}],
+        "line":2
+        },
+                {
+        "id":34,
+        "coords":  { "x": 191.6253, "y": 106.0814},
+        "multi":false,
+        "name": {"ru_RU":"Českomoravská","en_EN":"Českomoravská"},
+        "edges": [{"time": 120, "id":33},{"time": 120, "id":35}],
+        "line":2
+        },
+                {
+        "id":35,
+        "coords":  { "x": 201.399, "y": 110.25720},
+        "multi":false,
+        "name": {"ru_RU":"Vysočanská","en_EN":"Vysočanská"},
+        "edges": [{"time": 120, "id":34},{"time": 120, "id":36}],
+        "line":2
+        },
+                {
+        "id":36,
+        "coords":  { "x": 216.57920, "y": 110.38350},
+        "multi":false,
+        "name": {"ru_RU":"Kolbenova","en_EN":"Kolbenova"},
+        "edges": [{"time": 120, "id":35},{"time": 120, "id":37}],
+        "line":2
+        },
+                {
+        "id":37,
+        "coords":  { "x": 236.5847, "y": 106.6286},
+        "multi":false,
+        "name": {"ru_RU":"Hloubětín","en_EN":"Hloubětín"},
+        "edges": [{"time": 120, "id":36},{"time": 120, "id":38}],
+        "line":2
+        },
+                {
+        "id":38,
+        "coords":  { "x": 260.4991, "y": 106.8437},
+        "multi":false,
+        "name": {"ru_RU":"Rajská zahrada","en_EN":"Rajská zahrada"},
+        "edges": [{"time": 120, "id":37},{"time": 120, "id":39}],
+        "line":2
+        },
+                {
+        "id":39,
+        "coords":  { "x": 276.7773, "y": 108.9325},
+        "multi":false,
+        "name": {"ru_RU":"Černý Most","en_EN":"Černý Most"},
+        "edges": [{"time": 120, "id":38}],
+        "line":2
+        },
+                {
+        "id":40,
+        "coords":  { "x": 216.428, "y": 124.7869},
+        "multi":false,
+        "name": {"ru_RU":"Letňany","en_EN":"Letňany"},
+        "edges": [{"time": 120, "id":41}],
+        "line":3
+        },
+                {
+        "id":41,
+        "coords":  { "x": 199.1362, "y": 118.8151},
+        "multi":false,
+        "name": {"ru_RU":"Prosek","en_EN":"Prosek"},
+        "edges": [{"time": 120, "id":40},{"time": 120, "id":42}],
+        "line":3
+        },
+                {
+        "id":42,
+        "coords":  { "x": 189.5918, "y": 126.17370},
+        "multi":false,
+        "name": {"ru_RU":"Střížkov","en_EN":"Střížkov"},
+        "edges": [{"time": 120, "id":41},{"time": 120, "id":43}],
+        "line":3
+        },
+                {
+        "id":43,
+        "coords":  { "x": 169.6372, "y": 126.5796},
+        "multi":false,
+        "name": {"ru_RU":"Ládví","en_EN":"Ládví"},
+        "edges": [{"time": 120, "id":42},{"time": 120, "id":44}],
+        "line":3
+        },
+                {
+        "id":44,
+        "coords":  { "x": 154.2345, "y": 124.1376},
+        "multi":false,
+        "name": {"ru_RU":"Kobylisy","en_EN":"Kobylisy"},
+        "edges": [{"time": 120, "id":43},{"time": 120, "id":45}],
+        "line":3
+        },
+                {
+        "id":45,
+        "coords":  { "x": 140.1336, "y": 109.0092},
+        "multi":false,
+        "name": {"ru_RU":"Nádraží Holešovice","en_EN":"Nádraží Holešovice"},
+        "edges": [{"time": 120, "id":44},{"time": 120, "id":46}],
+        "line":3
+        },
+                {
+        "id":46,
+        "coords":  { "x": 138.5486, "y": 100.16460},
+        "multi":false,
+        "name": {"ru_RU":"Vltavská","en_EN":"Vltavská"},
+        "edges": [{"time": 120, "id":45},{"time": 120, "id":47}],
+        "line":3
+        },
+                {
+        "id":47,
+        "coords":  { "x": 139.2619, "y": 90.2191},
+        "multi":true,
+        "name": {"ru_RU":"Florenc","en_EN":"Florenc"},
+        "edges": [{"time": 120, "id":46},{"time": 120, "id":48},{"time": 120, "id":30}],
+        "line":3
+        },
+                {
+        "id":48,
+        "coords":  { "x": 134.1259, "y": 83.5035},
+        "multi":false,
+        "name": {"ru_RU":"Hlavní nádraží","en_EN":"Hlavní nádraží"},
+        "edges": [{"time": 120, "id":47},{"time": 120, "id":49}],
+        "line":3
+        },
+                {
+        "id":49,
+        "coords":  { "x": 131.6303, "y": 79.46990},
+        "multi":true,
+        "name": {"ru_RU":"Muzeum","en_EN":"Muzeum"},
+        "edges": [{"time": 120, "id":48},{"time": 120, "id":50},{"time": 120, "id":8}],
+        "line":3
+        },
+                {
+        "id":50,
+        "coords":  { "x": 130.3111, "y": 74.32990},
+        "multi":false,
+        "name": {"ru_RU":"I. P. Pavlova","en_EN":"I. P. Pavlova"},
+        "edges": [{"time": 120, "id":49},{"time": 120, "id":51}],
+        "line":3
+        },
+                {
+        "id":51,
+        "coords":  { "x": 130.52020, "y": 63.1724},
+        "multi":false,
+        "name": {"ru_RU":"Vyšehrad","en_EN":"Vyšehrad"},
+        "edges": [{"time": 120, "id":50},{"time": 120, "id":52}],
+        "line":3
+        },
+                {
+        "id":52,
+        "coords":  { "x": 133.3288, "y": 56.8418},
+        "multi":false,
+        "name": {"ru_RU":"Pražského povstání","en_EN":"Pražského povstání"},
+        "edges": [{"time": 120, "id":51},{"time": 120, "id":53}],
+        "line":3
+        },
+                {
+        "id":53,
+        "coords":  { "x": 139.62980, "y": 51.076800},
+        "multi":false,
+        "name": {"ru_RU":"Pankrác","en_EN":"Pankrác"},
+        "edges": [{"time": 120, "id":52},{"time": 120, "id":54}],
+        "line":3
+        },
+                {
+        "id":54,
+        "coords":  { "x": 148.75990, "y": 44.4168},
+        "multi":false,
+        "name": {"ru_RU":"Budějovická","en_EN":"Budějovická"},
+        "edges": [{"time": 120, "id":53},{"time": 120, "id":55}],
+        "line":3
+        },
+                {
+        "id":55,
+        "coords":  { "x": 159.29250, "y": 41.8449},
+        "multi":false,
+        "name": {"ru_RU":"Kačerov","en_EN":"Kačerov"},
+        "edges": [{"time": 120, "id":54},{"time": 120, "id":56}],
+        "line":3
+        },
+                {
+        "id":56,
+        "coords":  { "x": 177.0932, "y": 37.5574},
+        "multi":false,
+        "name": {"ru_RU":"Roztyly","en_EN":"Roztyly"},
+        "edges": [{"time": 120, "id":55},{"time": 120, "id":57}],
+        "line":3
+        },
+                {
+        "id":57,
+        "coords":  { "x": 190.82940, "y": 31.7478},
+        "multi":false,
+        "name": {"ru_RU":"Chodov","en_EN":"Chodov"},
+        "edges": [{"time": 120, "id":56},{"time": 120, "id":58}],
+        "line":3
+        },
+                {
+        "id":58,
+        "coords":  { "x": 209.17530, "y": 27.89},
+        "multi":false,
+        "name": {"ru_RU":"Opatov","en_EN":"Opatov"},
+        "edges": [{"time": 120, "id":57},{"time": 120, "id":59}],
+        "line":3
+        },
+                {
+        "id":59,
+        "coords":  { "x": 227.23520, "y": 30.8672},
+        "multi":false,
+        "name": {"ru_RU":"Háje","en_EN":"Háje"},
+        "edges": [{"time": 120, "id":58}],
+        "line":3
+        },
+
+    ],
+    "multiPoints":[
+        {"coords": { "x": 124.36040, "y": 83.6872}, "id": [7,28]},
+        {"coords": { "x": 139.2619, "y": 90.2191}, "id": [30,47]},
+        {"coords": { "x": 131.6303, "y": 79.46990}, "id": [8,49]}
+
+        
+    ],
+    
+    "lines":[
+    [
+        {"from":1,"to":2},{"from":2,"to":3},{"from":3,"to":4},{"from":4,"to":5},{"from":5,"to":6},{"from":6,"to":7},{"from":7,"to":8},{"from":8,"to":9},{"from":9,"to":10},{"from":10,"to":11},{"from":11,"to":12},{"from":12,"to":13},{"from":13,"to":14},{"from":14,"to":15}
+        
+        
+
+    ],
+    [
+       
+               {"from":16,"to":17},{"from":17,"to":18},{"from":18,"to":19},{"from":19,"to":20},{"from":20,"to":21},{"from":21,"to":22},{"from":22,"to":23},{"from":23,"to":24},{"from":24,"to":25},{"from":25,"to":26},{"from":26,"to":27},{"from":27,"to":28},{"from":28,"to":29},{"from":29,"to":30},{"from":30,"to":31},{"from":31,"to":32},{"from":32,"to":33},{"from":33,"to":34},{"from":34,"to":35},{"from":35,"to":36},{"from":36,"to":37},{"from":37,"to":38},{"from":38,"to":39}
+               
+    ],
+    [
+        {"from":40,"to":41},{"from":41,"to":42},{"from":42,"to":43},{"from":43,"to":44},{"from":44,"to":45},{"from":45,"to":46},{"from":46,"to":47},{"from":47,"to":48},{"from":48,"to":49},{"from":49,"to":50},{"from":50,"to":51},{"from":51,"to":52},{"from":52,"to":53},{"from":53,"to":54},{"from":54,"to":55},{"from":55,"to":56},{"from":56,"to":57},{"from":57,"to":58},{"from":57,"to":59}
+
+    ]
+    ],
+    "colors":[
+         {"r": 0, "g": 255, "b": 0},
+         {"r": 255, "g": 255, "b": 0},
+         {"r": 255, "g": 0, "b": 0},
+     ]
+}

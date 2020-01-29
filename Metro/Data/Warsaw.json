@@ -1,0 +1,261 @@
+{
+    "stations":[
+                              {
+                       "id": 1 ,
+                       "coords": { "x": -70.1305, "y": 90.7599 },
+                       "multi": false,
+                       "name": {"ru_RU": "Млоцины","en_EN": "Młociny"},
+                       "edges": [{"time": 120, "id": 2 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 2 ,
+                       "coords": { "x": -60.4035, "y": 86.31790 },
+                       "multi": false,
+                       "name": {"ru_RU": "Вавжишев","en_EN": "Wawrzyszew"},
+                       "edges": [{"time": 120, "id": 1 },{"time": 120, "id": 3 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 3 ,
+                       "coords": { "x": -50.6404, "y": 81.8172 },
+                       "multi": false,
+                       "name": {"ru_RU": "Старе Беланы","en_EN": "Stare Bielany"},
+                       "edges": [{"time": 120, "id": 2 },{"time": 180, "id": 4 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 4 ,
+                       "coords": { "x": -39.76490, "y": 76.8253 },
+                       "multi": false,
+                       "name": {"ru_RU": "Слодовец","en_EN": "Słodowiec"},
+                       "edges": [{"time": 180, "id": 3 },{"time": 120, "id": 5 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 5 ,
+                       "coords": { "x": -28.2804, "y": 71.6615 },
+                       "multi": false,
+                       "name": {"ru_RU": "Марымонт","en_EN": "Marymont"},
+                       "edges": [{"time": 120, "id": 4 },{"time": 120, "id": 6 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 6 ,
+                       "coords": { "x": -15.61150, "y": 69.2519 },
+                       "multi": false,
+                       "name": {"ru_RU": "Плац Вильсона","en_EN": "Plac Wilsona"},
+                       "edges": [{"time": 120, "id": 5 },{"time": 120, "id": 7 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 7 ,
+                       "coords": { "x": -5.6685, "y": 57.86850 },
+                       "multi": false,
+                       "name": {"ru_RU": "Двожец Гданьски","en_EN": "Dworzec Gdański"},
+                       "edges": [{"time": 120, "id": 6 },{"time": 180, "id": 8 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 8 ,
+                       "coords": { "x": 7.89880, "y": 35.09540 },
+                       "multi": true,
+                       "name": {"ru_RU": "Свентокшиска","en_EN": "Świętokrzyska"},
+                       "edges": [{"time": 180, "id": 7 },{"time": 60, "id": 9 },{"time": 120, "id": 23 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 9 ,
+                       "coords": { "x": 10.0632, "y": 31.15770 },
+                       "multi": false,
+                       "name": {"ru_RU": "Центрум","en_EN": "Centrum"},
+                       "edges": [{"time": 60, "id": 8 },{"time": 120, "id": 10 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 10 ,
+                       "coords": { "x": 15.3582, "y": 18.4572 },
+                       "multi": false,
+                       "name": {"ru_RU": "Политэхника","en_EN": "Politechnika"},
+                       "edges": [{"time": 120, "id": 9 },{"time": 120, "id": 11 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 11 ,
+                       "coords": { "x": 7.78510, "y": 8.529 },
+                       "multi": false,
+                       "name": {"ru_RU": "Поле Мокотовске","en_EN": "Pole Mokotowskie"},
+                       "edges": [{"time": 120, "id": 10 },{"time": 120, "id": 12 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 12 ,
+                       "coords": { "x": 12.1943, "y": -1.0584 },
+                       "multi": false,
+                       "name": {"ru_RU": "Рацлавицка","en_EN": "Racławicka"},
+                       "edges": [{"time": 120, "id": 11 },{"time": 60, "id": 13 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 13 ,
+                       "coords": { "x": 16.599, "y": -10.0565 },
+                       "multi": false,
+                       "name": {"ru_RU": "Вежбно","en_EN": "Wierzbno"},
+                       "edges": [{"time": 60, "id": 12 },{"time": 120, "id": 14 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 14 ,
+                       "coords": { "x": 23.157, "y": -18.3078 },
+                       "multi": false,
+                       "name": {"ru_RU": "Виляновска","en_EN": "Wilanowska"},
+                       "edges": [{"time": 120, "id": 13 },{"time": 120, "id": 15 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 15 ,
+                       "coords": { "x": 26.2866, "y": -27.2376 },
+                       "multi": false,
+                       "name": {"ru_RU": "Служев","en_EN": "Służew"},
+                       "edges": [{"time": 120, "id": 14 },{"time": 120, "id": 16 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 16 ,
+                       "coords": { "x": 27.62830, "y": -37.9544 },
+                       "multi": false,
+                       "name": {"ru_RU": "Урсынув","en_EN": "Ursynów"},
+                       "edges": [{"time": 120, "id": 15 },{"time": 60, "id": 17 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 17 ,
+                       "coords": { "x": 34.7233, "y": -43.9241 },
+                       "multi": false,
+                       "name": {"ru_RU": "Стоклосы","en_EN": "Stokłosy"},
+                       "edges": [{"time": 60, "id": 16 },{"time": 120, "id": 18 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 18 ,
+                       "coords": { "x": 46.1062, "y": -50.7 },
+                       "multi": false,
+                       "name": {"ru_RU": "Имелин","en_EN": "Imielin"},
+                       "edges": [{"time": 120, "id": 17 },{"time": 120, "id": 19 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 19 ,
+                       "coords": { "x": 56.43510, "y": -58.89930 },
+                       "multi": false,
+                       "name": {"ru_RU": "Натолин","en_EN": "Natolin"},
+                       "edges": [{"time": 120, "id": 18 },{"time": 120, "id": 20 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 20 ,
+                       "coords": { "x": 65.0711, "y": -67.9235 },
+                       "multi": false,
+                       "name": {"ru_RU": "Кабаты","en_EN": "Kabaty"},
+                       "edges": [{"time": 120, "id": 19 }],
+                       "line": 1
+                       },
+                               {
+                       "id": 21 ,
+                       "coords": { "x": -17.1635, "y": 30.0549 },
+                       "multi": false,
+                       "name": {"ru_RU": "Рондо Дашиньскего","en_EN": "Rondo Daszyńskiego"},
+                       "edges": [{"time": 120, "id": 22 }],
+                       "line": 2
+                       },
+                               {
+                       "id": 22 ,
+                       "coords": { "x": -1.8137, "y": 33.1283 },
+                       "multi": false,
+                       "name": {"ru_RU": "Рондо ОНЗ","en_EN": "Rondo ONZ"},
+                       "edges": [{"time": 120, "id": 21 },{"time": 120, "id": 23 }],
+                       "line": 2
+                       },
+                               {
+                       "id": 23 ,
+                       "coords": { "x": 7.898800, "y": 35.09540 },
+                       "multi": true,
+                       "name": {"ru_RU": "Свентокшиска","en_EN": "Świętokrzyska"},
+                       "edges": [{"time": 120, "id": 22 },{"time": 120, "id": 24 },{"time": 120, "id": 8 }],
+                       "line": 2
+                       },
+                               {
+                       "id": 24 ,
+                       "coords": { "x": 16.788, "y": 36.833 },
+                       "multi": false,
+                       "name": {"ru_RU": "Новы Свят — Универсытет","en_EN": "Nowy Świat-Uniwersytet"},
+                       "edges": [{"time": 120, "id": 23 },{"time": 120, "id": 25 }],
+                       "line": 2
+                       },
+                               {
+                       "id": 25 ,
+                       "coords": { "x": 31.7878, "y": 39.9148 },
+                       "multi": false,
+                       "name": {"ru_RU": "Центрум Науки Коперник","en_EN": "Centrum Nauki Kopernik"},
+                       "edges": [{"time": 120, "id": 24 },{"time": 120, "id": 26 }],
+                       "line": 2
+                       },
+                               {
+                       "id": 26 ,
+                       "coords": { "x": 42.8754, "y": 46.9807 },
+                       "multi": false,
+                       "name": {"ru_RU": "Стадион Народовы","en_EN": "Stadion Narodowy"},
+                       "edges": [{"time": 120, "id": 25 },{"time": 120, "id": 27 }],
+                       "line": 2
+                       },
+                               {
+                       "id": 27 ,
+                       "coords": { "x": 35.5034, "y": 54.06220 },
+                       "multi": false,
+                       "name": {"ru_RU": "Двожец Виленьски","en_EN": "Dworzec Wileński"},
+                       "edges": [{"time": 120, "id": 26 },{"time": 120, "id": 28 }],
+                       "line": 2
+                       },
+                               {
+                       "id": 28 ,
+                       "coords": { "x": 45.33020, "y": 63.45390 },
+                       "multi": false,
+                       "name": {"ru_RU": "Szwedzka","en_EN": "Szwedzka"},
+                       "edges": [{"time": 120, "id": 27 },{"time": 120, "id": 29 }],
+                       "line": 2
+                       },
+                               {
+                       "id": 29 ,
+                       "coords": { "x": 51.4129, "y": 69.5853 },
+                       "multi": false,
+                       "name": {"ru_RU": "Targówek Mieszkaniowy","en_EN": "Targówek Mieszkaniowy"},
+                       "edges": [{"time": 120, "id": 28 },{"time": 120, "id": 30 }],
+                       "line": 2
+                       },
+                               {
+                       "id": 30 ,
+                       "coords": { "x": 55.44960, "y": 75.3464 },
+                       "multi": false,
+                       "name": {"ru_RU": "Trocka","en_EN": "Trocka"},
+                       "edges": [{"time": 120, "id": 29 }],
+                       "line": 2
+                       },
+    ],
+    
+    "multiPoints":[
+           {"coords": {"x": 7.898800, "y": 35.09540}, "id": [8,23]},
+       ],
+    "lines":[
+           [
+               {"from":1,"to":2},{"from":2,"to":3},{"from":3,"to":4},{"from":4,"to":5},{"from":5,"to":6},{"from":6,"to":7},{"from":7,"to":8},{"from":8,"to":9},{"from":9,"to":10},{"from":10,"to":11},{"from":11,"to":12},{"from":12,"to":13},{"from":13,"to":14},{"from":14,"to":15},{"from":15,"to":16},{"from":16,"to":17},{"from":17,"to":18},{"from":18,"to":19},{"from":19,"to":20}
+           ],
+           [
+               {"from":21,"to":22},{"from":22,"to":23},{"from":23,"to":24},{"from":24,"to":25},{"from":25,"to":26},{"from":26,"to":27},{"from":27,"to":28},{"from":28,"to":29},{"from":29,"to":30}
+           ]
+       ],
+    "colors":[
+         {"r": 0, "g": 0, "b": 255},
+         {"r": 255, "g": 0, "b": 0}
+     ]
+}
+

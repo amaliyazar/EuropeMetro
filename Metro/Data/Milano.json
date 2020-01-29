@@ -1,0 +1,868 @@
+{
+    "stations":[
+                                                     {
+                                             "id":1,
+                                             "coords": { "x": 38.384100, "y": 141.650300},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Sesto 1° Maggio F.S.","en_EN":"Sesto 1° Maggio F.S."},
+                                             "edges": [{"time": 120, "id":2}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":2,
+                                             "coords": { "x": 31.5731, "y": 134.326800},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Sesto Rondò","en_EN":"Sesto Rondò"},
+                                             "edges": [{"time": 120, "id":1},{"time": 60, "id":3}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":3,
+                                             "coords": { "x": 27.9615, "y": 123.477100},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Sesto Marelli","en_EN":"Sesto Marelli"},
+                                             "edges": [{"time": 60, "id":2},{"time": 120, "id":4}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":4,
+                                             "coords": { "x": 26.130200, "y": 117.454500},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Villa San Giovanni","en_EN":"Villa San Giovanni"},
+                                             "edges": [{"time": 120, "id":3},{"time": 60, "id":5}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":5,
+                                             "coords": { "x": 24.499100, "y": 112.0295},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Precotto","en_EN":"Precotto"},
+                                             "edges": [{"time": 60, "id":4},{"time": 60, "id":6}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":6,
+                                             "coords": { "x": 22.710800, "y": 106.148900},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Gorla","en_EN":"Gorla"},
+                                             "edges": [{"time": 60, "id":5},{"time": 60, "id":7}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":7,
+                                             "coords": { "x": 21.0047, "y": 100.445500},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Turro","en_EN":"Turro"},
+                                             "edges": [{"time": 60, "id":6},{"time": 60, "id":8}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":8,
+                                             "coords": { "x": 19.5058, "y": 95.5331},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Rovereto","en_EN":"Rovereto"},
+                                             "edges": [{"time": 60, "id":7},{"time": 60, "id":9}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":9,
+                                             "coords": { "x": 17.9467, "y": 90.283200},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Pasteur","en_EN":"Pasteur"},
+                                             "edges": [{"time": 60, "id":8},{"time": 60, "id":10}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":10,
+                                             "coords": { "x": 15.2781, "y": 84.7091},
+                                             "multi":true,
+                                             "name": {"ru_RU":"Loreto","en_EN":"Loreto"},
+                                             "edges": [{"time": 60, "id":9},{"time": 60, "id":11},{"time": 120, "id":49}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":11,
+                                             "coords": { "x": 10.982700, "y": 80.3459},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Lima","en_EN":"Lima"},
+                                             "edges": [{"time": 60, "id":10},{"time": 60, "id":12}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":12,
+                                             "coords": { "x": 5.8895, "y": 75.3258},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Porta Venezia","en_EN":"Porta Venezia"},
+                                             "edges": [{"time": 60, "id":11},{"time": 60, "id":13}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":13,
+                                             "coords": { "x": 1.4773, "y": 71.005800},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Palestro","en_EN":"Palestro"},
+                                             "edges": [{"time": 60, "id":12},{"time": 60, "id":14}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":14,
+                                             "coords": { "x": -2.4714, "y": 66.5214},
+                                             "multi":false,
+                                             "name": {"ru_RU":"San Babila","en_EN":"San Babila"},
+                                             "edges": [{"time": 60, "id":13},{"time": 60, "id":15}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":15,
+                                             "coords": { "x": -10.3305, "y": 64.5848},
+                                             "multi":true,
+                                             "name": {"ru_RU":"Duomo","en_EN":"Duomo"},
+                                             "edges": [{"time": 60, "id":14},{"time": 120, "id":16},{"time": 120, "id":76}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":16,
+                                             "coords": { "x": -13.781400, "y": 65.5321},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Cordusio","en_EN":"Cordusio"},
+                                             "edges": [{"time": 120, "id":15},{"time": 60, "id":17}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":17,
+                                             "coords": { "x": -18.3034, "y": 68.7012},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Cairoli","en_EN":"Cairoli"},
+                                             "edges": [{"time": 60, "id":16},{"time": 60, "id":18}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":18,
+                                             "coords": { "x": -22.8976, "y": 68.1551},
+                                             "multi":true,
+                                             "name": {"ru_RU":"Cadorna","en_EN":"Cadorna"},
+                                             "edges": [{"time": 60, "id":17},{"time": 60, "id":19},{"time": 120, "id":56}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":19,
+                                             "coords": { "x": -33.3952, "y": 67.499800},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Conciliazione","en_EN":"Conciliazione"},
+                                             "edges": [{"time": 60, "id":18},{"time": 60, "id":20}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":20,
+                                             "coords": { "x": -38.900200, "y": 68.2848},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Pagano","en_EN":"Pagano"},
+                                             "edges": [{"time": 60, "id":19},{"time": 120, "id":21},{"time":60, "id":28}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":21,
+                                             "coords": { "x": -44.0856, "y": 67.9501},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Wagner","en_EN":"Wagner"},
+                                             "edges": [{"time": 120, "id":20},{"time": 120, "id":22}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":22,
+                                             "coords": { "x": -50.434200, "y": 66.4306},
+                                             "multi":false,
+                                             "name": {"ru_RU":"De Angeli","en_EN":"De Angeli"},
+                                             "edges": [{"time": 120, "id":21},{"time": 120, "id":23}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":23,
+                                             "coords": { "x": -56.972, "y": 64.8963},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Gambara","en_EN":"Gambara"},
+                                             "edges": [{"time": 120, "id":22},{"time": 120, "id":24}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":24,
+                                             "coords": { "x": -63.5155, "y": 61.5040000},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Bande Nere","en_EN":"Bande Nere"},
+                                             "edges": [{"time": 120, "id":23},{"time": 120, "id":25}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":25,
+                                             "coords": { "x": -70.7403, "y": 59.4136},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Primaticcio","en_EN":"Primaticcio"},
+                                             "edges": [{"time": 120, "id":24},{"time": 120, "id":26}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":26,
+                                             "coords": { "x": -77.7371, "y": 57.563},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Inganni","en_EN":"Inganni"},
+                                             "edges": [{"time": 120, "id":25},{"time": 120, "id":27}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":27,
+                                             "coords": { "x": -87.0745, "y": 55.3804},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Bisceglie","en_EN":"Bisceglie"},
+                                             "edges": [{"time": 120, "id":26}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":28,
+                                             "coords": { "x": -44.7077, "y": 70.402},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Buonarroti","en_EN":"Buonarroti"},
+                                             "edges": [{"time": 60, "id":20},{"time": 60, "id":29}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":29,
+                                             "coords": { "x": -49.0307, "y": 73.6789},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Amendola","en_EN":"Amendola"},
+                                             "edges": [{"time": 60, "id":28},{"time": 120, "id":30}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":30,
+                                             "coords": { "x": -56.0992, "y": 79.0357},
+                                             "multi":true,
+                                             "name": {"ru_RU":"Lotto","en_EN":"Lotto"},
+                                             "edges": [{"time": 120, "id":29},{"time": 120, "id":31},{"time": 120, "id":101}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":31,
+                                             "coords": { "x": -62.9788, "y": 85.990800},
+                                             "multi":false,
+                                             "name": {"ru_RU":"QT8","en_EN":"QT8"},
+                                             "edges": [{"time": 120, "id":30},{"time": 120, "id":32}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":32,
+                                             "coords": { "x": -72.60640, "y": 89.349},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Lampugnano","en_EN":"Lampugnano"},
+                                             "edges": [{"time": 120, "id":31},{"time": 120, "id":33}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":33,
+                                             "coords": { "x": -79.7367, "y": 93.8987},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Uruguay","en_EN":"Uruguay"},
+                                             "edges": [{"time": 120, "id":32},{"time": 120, "id":34}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":34,
+                                             "coords": { "x": -90.1586, "y": 97.138500},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Bonola","en_EN":"Bonola"},
+                                             "edges": [{"time": 120, "id":33},{"time": 120, "id":35}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":35,
+                                             "coords": { "x": -98.296, "y": 101.008800},
+                                             "multi":false,
+                                             "name": {"ru_RU":"San Leonardo","en_EN":"San Leonardo"},
+                                             "edges": [{"time": 120, "id":34},{"time": 120, "id":36}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":36,
+                                             "coords": { "x": -107.0339, "y": 105.2116},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Molino Dorino","en_EN":"Molino Dorino"},
+                                             "edges": [{"time": 120, "id":35},{"time": 120, "id":37}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":37,
+                                             "coords": { "x": -114.4757, "y": 108.734500},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Pero","en_EN":"Pero"},
+                                             "edges": [{"time": 120, "id":36},{"time": 120, "id":38}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":38,
+                                             "coords": { "x": -112.65060, "y": 119.8024},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Rho-Fiera","en_EN":"Rho-Fiera"},
+                                             "edges": [{"time": 120, "id":37}],
+                                             "line":1
+                                             },
+                                                     {
+                                             "id":39,
+                                             "coords": { "x": 91.0941, "y": 134.302800},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Cologno Nord","en_EN":"Cologno Nord"},
+                                             "edges": [{"time": 120, "id":40}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":40,
+                                             "coords": { "x": 82.9471, "y": 127.4809},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Cologno Centro","en_EN":"Cologno Centro"},
+                                             "edges": [{"time": 120, "id":39},{"time": 120, "id":41}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":41,
+                                             "coords": { "x": 74.9525, "y": 180.2031},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Cologno Sud","en_EN":"Cologno Sud"},
+                                             "edges": [{"time": 120, "id":40},{"time": 120, "id":42}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":42,
+                                             "coords": { "x": 85.98910, "y": 115.783300},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Vimodrone","en_EN":"Vimodrone"},
+                                             "edges": [{"time": 120, "id":41},{"time": 120, "id":43}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":43,
+                                             "coords": { "x": 60.6073, "y": 111.1641},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Cascina Gobba","en_EN":"Cascina Gobba"},
+                                             "edges": [{"time": 120, "id":42},{"time": 120, "id":44}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":44,
+                                             "coords": { "x": 48.1933, "y": 105.2544},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Crescenzago","en_EN":"Crescenzago"},
+                                             "edges": [{"time": 120, "id":43},{"time": 120, "id":45}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":45,
+                                             "coords": { "x": 41.3879, "y": 100.0826},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Cimiano","en_EN":"Cimiano"},
+                                             "edges": [{"time": 120, "id":44},{"time": 120, "id":46}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":46,
+                                             "coords": { "x": 36.9964, "y": 91.2044},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Udine","en_EN":"Udine"},
+                                             "edges": [{"time": 120, "id":45},{"time": 120, "id":47}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":47,
+                                             "coords": { "x": 34.8298, "y": 84.2475},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Lambrate FS","en_EN":"Lambrate FS"},
+                                             "edges": [{"time": 120, "id":46},{"time": 120, "id":48}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":48,
+                                             "coords": { "x": 25.916800, "y": 81.145000},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Piola","en_EN":"Piola"},
+                                             "edges": [{"time": 120, "id":47},{"time": 120, "id":49}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":49,
+                                             "coords": { "x": 15.2781, "y": 84.7091},
+                                             "multi":true,
+                                             "name": {"ru_RU":"Loreto","en_EN":"Loreto"},
+                                             "edges": [{"time": 120, "id":48},{"time": 120, "id":50},{"time": 120, "id":10}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":50,
+                                             "coords": { "x": 9.4094, "y": 85.3180},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Caiazzo","en_EN":"Caiazzo"},
+                                             "edges": [{"time": 120, "id":49},{"time": 120, "id":51}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":51,
+                                             "coords": { "x": 2.7615000, "y": 84.4601},
+                                             "multi":true,
+                                             "name": {"ru_RU":"Centrale FS","en_EN":"Centrale FS"},
+                                             "edges": [{"time": 120, "id":50},{"time": 60, "id":52},{"time": 120, "id":72}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":52,
+                                             "coords": { "x": -5.1426, "y": 84.8999},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Gioia","en_EN":"Gioia"},
+                                             "edges": [{"time": 60, "id":51},{"time": 120, "id":53}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":53,
+                                             "coords": { "x": -13.2576, "y": 83.6397},
+                                             "multi":true,
+                                             "name": {"ru_RU":"Garibaldi FS","en_EN":"Garibaldi FS"},
+                                             "edges": [{"time": 120, "id":52},{"time": 60, "id":54},{"time": 120, "id":94}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":54,
+                                             "coords": { "x": -15.6584, "y": 77.090600},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Moscova","en_EN":"Moscova"},
+                                             "edges": [{"time": 60, "id":53},{"time": 60, "id":55}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":55,
+                                             "coords": { "x": -17.744500, "y": 71.828},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Lanza","en_EN":"Lanza"},
+                                             "edges": [{"time": 60, "id":54},{"time": 120, "id":56}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":56,
+                                             "coords": { "x": -22.8976, "y": 68.1551},
+                                             "multi":true,
+                                             "name": {"ru_RU":"Cadorna","en_EN":"Cadorna"},
+                                             "edges": [{"time": 120, "id":55},{"time": 60, "id":57},{"time": 120, "id":18}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":57,
+                                             "coords": { "x": -27.0833, "y": 61.3906000},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Sant'Ambrogio","en_EN":"Sant'Ambrogio"},
+                                             "edges": [{"time": 60, "id":56},{"time": 60, "id":58}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":58,
+                                             "coords": { "x": -30.1856, "y": 58.6201},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Sant'Agostino","en_EN":"Sant'Agostino"},
+                                             "edges": [{"time": 60, "id":57},{"time": 60, "id":59}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":59,
+                                             "coords": { "x": -30.660300, "y": 52.0327000},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Porta Genova FS","en_EN":"Porta Genova FS"},
+                                             "edges": [{"time": 60, "id":58},{"time": 120, "id":60}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":60,
+                                             "coords": { "x": -32.3232, "y": 43.7333},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Romolo","en_EN":"Romolo"},
+                                             "edges": [{"time": 120, "id":59},{"time": 120, "id":61}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":61,
+                                             "coords": { "x": -31.9874, "y": 36.895},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Famagosta","en_EN":"Famagosta"},
+                                             "edges": [{"time": 120, "id":60},{"time": 120, "id":62},{"time": 120, "id":64}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":62,
+                                             "coords": { "x": -49.953700, "y": 9.4545000},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Assago Milanofiori Nord","en_EN":"Assago Milanofiori Nord"},
+                                             "edges": [{"time": 120, "id":61},{"time": 120, "id":63}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":63,
+                                             "coords": { "x": -54.461800, "y": 1.74850000},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Assago Milanofiori Forum","en_EN":"Assago Milanofiori Forum"},
+                                             "edges": [{"time": 120, "id":62}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":64,
+                                             "coords": { "x": -22.677200, "y": 29.9949},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Abbiategrasso","en_EN":"Abbiategrasso"},
+                                             "edges": [{"time": 120, "id":61}],
+                                             "line":2
+                                             },
+                                                     {
+                                             "id":65,
+                                             "coords": { "x": -36.270900, "y": 128.1326},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Comasina","en_EN":"Comasina"},
+                                             "edges": [{"time": 120, "id":66}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":66,
+                                             "coords": { "x": -31.7741, "y": 121.672800},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Affori FN","en_EN":"Affori FN"},
+                                             "edges": [{"time": 120, "id":65},{"time": 120, "id":67}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":67,
+                                             "coords": { "x": -26.020100, "y": 113.554300},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Affori Centro","en_EN":"Affori Centro"},
+                                             "edges": [{"time": 120, "id":66},{"time": 120, "id":68}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":68,
+                                             "coords": { "x": -20.4422, "y": 105.5536},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Dergano","en_EN":"Dergano"},
+                                             "edges": [{"time": 120, "id":67},{"time": 120, "id":69}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":69,
+                                             "coords": { "x": -14.957500, "y": 97.7017},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Maciachini","en_EN":"Maciachini"},
+                                             "edges": [{"time": 120, "id":68},{"time": 120, "id":70}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":70,
+                                             "coords": { "x": -7.586, "y": 92.7242},
+                                             "multi":true,
+                                             "name": {"ru_RU":"Zara","en_EN":"Zara"},
+                                             "edges": [{"time": 120, "id":69},{"time": 120, "id":71},{"time": 120, "id":92}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":71,
+                                             "coords": { "x": 0.03, "y": 90.2591},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Sondrio","en_EN":"Sondrio"},
+                                             "edges": [{"time": 120, "id":70},{"time": 120, "id":72}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":72,
+                                             "coords": { "x": 2.7615000, "y": 84.4601},
+                                             "multi":true,
+                                             "name": {"ru_RU":"Centrale FS","en_EN":"Centrale FS"},
+                                             "edges": [{"time": 120, "id":71},{"time": 120, "id":73},{"time": 120, "id":51}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":73,
+                                             "coords": { "x": -1.8543, "y": 79.3866},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Repubblica","en_EN":"Repubblica"},
+                                             "edges": [{"time": 120, "id":72},{"time": 120, "id":74}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":74,
+                                             "coords": { "x": -5.2757000, "y": 75.039},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Turati","en_EN":"Turati"},
+                                             "edges": [{"time": 120, "id":73},{"time": 60, "id":75}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":75,
+                                             "coords": { "x": -7.1322, "y": 70.015},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Montenapoleone","en_EN":"Montenapoleone"},
+                                             "edges": [{"time": 60, "id":74},{"time": 120, "id":76}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":76,
+                                             "coords": { "x": -10.3305, "y": 64.5848},
+                                             "multi":true,
+                                             "name": {"ru_RU":"Duomo","en_EN":"Duomo"},
+                                             "edges": [{"time": 120, "id":75},{"time": 120, "id":77},{"time": 120, "id":15}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":77,
+                                             "coords": { "x": -10.4451, "y": 59.8278},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Missori","en_EN":"Missori"},
+                                             "edges": [{"time": 120, "id":76},{"time": 120, "id":78}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":78,
+                                             "coords": { "x": -4.732200, "y": 56.4752},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Crocetta","en_EN":"Crocetta"},
+                                             "edges": [{"time": 120, "id":77},{"time": 120, "id":79}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":79,
+                                             "coords": { "x": 3.4002000, "y": 51.4341},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Porta Romana","en_EN":"Porta Romana"},
+                                             "edges": [{"time": 120, "id":78},{"time": 120, "id":80}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":80,
+                                             "coords": { "x": 10.8164, "y": 46.7636000},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Lodi T.I.B.B.","en_EN":"Lodi T.I.B.B."},
+                                             "edges": [{"time": 120, "id":79},{"time": 120, "id":81}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":81,
+                                             "coords": { "x": 18.4814, "y": 42.8107000},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Brenta","en_EN":"Brenta"},
+                                             "edges": [{"time": 120, "id":80},{"time": 120, "id":82}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":82,
+                                             "coords": { "x": 23.4695, "y": 40.4109000},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Corvetto","en_EN":"Corvetto"},
+                                             "edges": [{"time": 120, "id":81},{"time": 120, "id":83}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":83,
+                                             "coords": { "x": 30.3111, "y": 37.1279000},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Porto di Mare","en_EN":"Porto di Mare"},
+                                             "edges": [{"time": 120, "id":82},{"time": 120, "id":84}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":84,
+                                             "coords": { "x": 38.0891, "y": 33.5862000},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Milano Rogoredo","en_EN":"Milano Rogoredo"},
+                                             "edges": [{"time": 120, "id":83},{"time": 120, "id":85}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":85,
+                                             "coords": { "x": 56.233900, "y": 29.2064000},
+                                             "multi":false,
+                                             "name": {"ru_RU":"San Donato","en_EN":"San Donato"},
+                                             "edges": [{"time": 120, "id":84}],
+                                             "line":3
+                                             },
+                                                     {
+                                             "id":86,
+                                             "coords": { "x": 12.1805, "y": 126.7842},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Bignami","en_EN":"Bignami"},
+                                             "edges": [{"time": 120, "id":87}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":87,
+                                             "coords": { "x": 9.4736, "y": 121.9945},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Ponale","en_EN":"Ponale"},
+                                             "edges": [{"time": 120, "id":86},{"time": 120, "id":88}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":88,
+                                             "coords": { "x": 5.3699, "y": 114.7339},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Bicocca","en_EN":"Bicocca"},
+                                             "edges": [{"time": 120, "id":87},{"time": 120, "id":89}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":89,
+                                             "coords": { "x": 1.1103, "y": 107.2425},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Ca' Granda - Pratocentenaro","en_EN":"Ca' Granda - Pratocentenaro"},
+                                             "edges": [{"time": 120, "id":88},{"time": 120, "id":90}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":90,
+                                             "coords": { "x": -2.08, "y": 101.6262},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Istria","en_EN":"Istria"},
+                                             "edges": [{"time": 120, "id":89},{"time": 120, "id":91}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":91,
+                                             "coords": { "x": -5.1764, "y": 96.1456},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Marche","en_EN":"Marche"},
+                                             "edges": [{"time": 120, "id":90},{"time": 120, "id":92}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":92,
+                                             "coords": { "x": -7.586, "y": 92.7242},
+                                             "multi":true,
+                                             "name": {"ru_RU":"Zara","en_EN":"Zara"},
+                                             "edges": [{"time": 120, "id":91},{"time": 120, "id":93},{"time": 120, "id":70}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":93,
+                                             "coords": { "x": -8.7366, "y": 87.6083},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Isola","en_EN":"Isola"},
+                                             "edges": [{"time": 120, "id":92},{"time": 120, "id":94}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":94,
+                                             "coords": { "x": -13.2576, "y": 83.6397},
+                                             "multi":true,
+                                             "name": {"ru_RU":"Garibaldi FS","en_EN":"Garibaldi FS"},
+                                             "edges": [{"time": 120, "id":93},{"time": 120, "id":95},{"time": 120, "id":53}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":95,
+                                             "coords": { "x": -19.5388, "y": 85.1595},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Monumentale","en_EN":"Monumentale"},
+                                             "edges": [{"time": 120, "id":94},{"time": 120, "id":96}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":96,
+                                             "coords": { "x": -27.7349, "y": 87.5646},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Cenisio","en_EN":"Cenisio"},
+                                             "edges": [{"time": 120, "id":95},{"time": 120, "id":97}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":97,
+                                             "coords": { "x": -33.425, "y": 84.5226},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Gerusalemme","en_EN":"Gerusalemme"},
+                                             "edges": [{"time": 120,"id":96},{"time": 120, "id":98}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":98,
+                                             "coords": { "x": -38.161, "y": 81.4814},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Domodossola","en_EN":"Domodossola"},
+                                             "edges": [{"time": 120, "id":97},{"time": 180, "id":99}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":99,
+                                             "coords": { "x": -43.2985, "y": 78.1167},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Tre Torri","en_EN":"Tre Torri"},
+                                             "edges": [{"time": 180, "id":98},{"time": 180, "id":100}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":100,
+                                             "coords": { "x": -49.2765, "y": 81.3846},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Portello","en_EN":"Portello"},
+                                             "edges": [{"time": 180, "id":99},{"time": 120, "id":101}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":101,
+                                             "coords": { "x": -56.0992, "y": 79.0357},
+                                             "multi":true,
+                                             "name": {"ru_RU":"Lotto","en_EN":"Lotto"},
+                                             "edges": [{"time": 120, "id":100},{"time": 120, "id":102},{"time": 120, "id":30}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":102,
+                                             "coords": { "x": -62.1073, "y": 76.3229},
+                                             "multi":false,
+                                             "name": {"ru_RU":"Segesta","en_EN":"Segesta"},
+                                             "edges": [{"time": 120, "id":101},{"time": 120, "id":103}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":103,
+                                             "coords": { "x": -70.9654, "y": 76.1386},
+                                             "multi":false,
+                                             "name": {"ru_RU":"San Siro Ippodromo","en_EN":"San Siro Ippodromo"},
+                                             "edges": [{"time": 120, "id":102},{"time": 120, "id":104}],
+                                             "line":4
+                                             },
+                                                     {
+                                             "id":104,
+                                             "coords": { "x": -81.6463, "y": 76.2544},
+                                             "multi":false,
+                                             "name": {"ru_RU":"San Siro Stadio","en_EN":"San Siro Stadio"},
+                                             "edges": [{"time": 120, "id":103}],
+                                             "line":4
+                                             },
+    ],
+    "multiPoints":[
+        {"coords": { "x": 15.2781, "y": 84.7091}, "id": [10,49]},
+        {"coords": { "x": -10.3305, "y": 64.5848}, "id": [15, 76]},
+        {"coords": { "x": -22.8976, "y": 68.1551}, "id": [18,56]},
+        {"coords": { "x": 2.7615000, "y": 84.4601}, "id": [51,72]},
+        {"coords": { "x": -7.586, "y": 92.7242}, "id": [70,92]},
+        {"coords": { "x": -56.0992, "y": 79.0357}, "id": [30,101]},
+        {"coords": { "x": -13.2576, "y": 83.6397}, "id": [53,94]}
+        
+    ],
+    
+    "lines":[
+    [
+        {"from":1,"to":2},{"from":2,"to":3},{"from":3,"to":4},{"from":4,"to":5},{"from":5,"to":6},{"from":6,"to":7},{"from":7,"to":8},{"from":8,"to":9},{"from":9,"to":10},{"from":10,"to":11},{"from":11,"to":12},{"from":12,"to":13},{"from":13,"to":14},{"from":14,"to":15},{"from":15,"to":16},{"from":16,"to":17},{"from":17,"to":18},{"from":18,"to":19},{"from":19,"to":20},{"from":20,"to":21},{"from":21,"to":22},{"from":22,"to":23},{"from":23,"to":24},{"from":24,"to":25},{"from":25,"to":26},{"from":26,"to":27},{"from":20,"to":28},{"from":28,"to":29},{"from":29,"to":30},{"from":30,"to":31},{"from":31,"to":32},{"from":32,"to":33},{"from":33,"to":34},{"from":34,"to":35},{"from":35,"to":36},{"from":36,"to":37},{"from":37,"to":38}
+    ],
+    [
+        {"from":39,"to":40},{"from":40,"to":41},{"from":41,"to":42},{"from":42,"to":43},{"from":43,"to":44},{"from":44,"to":45},{"from":45,"to":46},{"from":46,"to":47},{"from":47,"to":48},{"from":48,"to":49},{"from":49,"to":50},{"from":50,"to":51},{"from":51,"to":52},{"from":52,"to":53},{"from":53,"to":54},{"from":54,"to":55},{"from":55,"to":56},{"from":56,"to":57},{"from":57,"to":58},{"from":58,"to":59},{"from":59,"to":60},{"from":60,"to":61},{"from":61,"to":62},{"from":62,"to":63},{"from":61,"to":64}
+    ],
+    [
+        {"from":65,"to":66},{"from":66,"to":67},{"from":67,"to":68},{"from":68,"to":69},{"from":69,"to":70},{"from":70,"to":71},{"from":71,"to":72},{"from":72,"to":73},{"from":73,"to":74},{"from":74,"to":75},{"from":75,"to":76},{"from":76,"to":77},{"from":77,"to":78},{"from":78,"to":79},{"from":79,"to":80},{"from":80,"to":81},{"from":81,"to":82},{"from":82,"to":83},{"from":83,"to":84},{"from":84,"to":85}
+        ],
+    [
+        {"from":86,"to":87},{"from":87,"to":88},{"from":88,"to":89},{"from":89,"to":90},{"from":90,"to":91},{"from":91,"to":92},{"from":92,"to":93},{"from":93,"to":94},{"from":94,"to":95},{"from":95,"to":96},{"from":96,"to":97},{"from":97,"to":98},{"from":98,"to":99},{"from":99,"to":100},{"from":100,"to":101},{"from":101,"to":102},{"from":102,"to":103},{"from":103,"to":104}
+
+    ]
+    ],
+    "colors":[
+         {"r": 255, "g": 0, "b": 0},
+         {"r": 0, "g": 255, "b": 0},
+         {"r": 255, "g": 255, "b": 0},
+         {"r":177, "g": 156, "b": 217}
+     ]
+}

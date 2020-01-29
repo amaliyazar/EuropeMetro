@@ -1,0 +1,859 @@
+{
+    "stations":[
+               {
+        "id": 1 ,
+        "coords": { "x": 99.886800, "y": 42.3146 },
+        "multi": false,
+        "name": {"ru_RU": "Оберлаа", "en_EN": "Oberlaa"},
+        "edges": [{"time": 120, "id": 2 }],
+        "line": 1
+        },
+                {
+        "id": 2 ,
+        "coords": { "x": 85.6058, "y": 45.7661 },
+        "multi": false,
+        "name": {"ru_RU": "Нойлаа", "en_EN": "Neulaa"},
+        "edges": [{"time": 120, "id": 1 },{"time": 120, "id": 3 }],
+        "line": 1
+        },
+                {
+        "id": 3 ,
+        "coords": { "x": 82.3555, "y": 53.6948 },
+        "multi": false,
+        "name": {"ru_RU": "Алаудагассе", "en_EN": "Alaudagasse"},
+        "edges": [{"time": 120, "id": 2 },{"time": 120, "id": 4 }],
+        "line": 1
+        },
+                {
+        "id": 4 ,
+        "coords": { "x": 83.225000, "y": 62.2926 },
+        "multi": false,
+        "name": {"ru_RU": "Альтес Ландгут", "en_EN": "Altes Landgut"},
+        "edges": [{"time": 120, "id": 3 },{"time": 60, "id": 5 }],
+        "line": 1
+        },
+                {
+        "id": 5 ,
+        "coords": { "x": 80.268200, "y": 69.0181 },
+        "multi": false,
+        "name": {"ru_RU": "Тростштрассе", "en_EN": "Troststraße"},
+        "edges": [{"time": 60, "id": 4 },{"time": 60, "id": 6 }],
+        "line": 1
+        },
+                {
+        "id": 6 ,
+        "coords": { "x": 77.918, "y": 74.919 },
+        "multi": false,
+        "name": {"ru_RU": "Ройманнплац", "en_EN": "Reumannplatz"},
+        "edges": [{"time": 60, "id": 5 },{"time": 60, "id": 7 }],
+        "line": 1
+        },
+                {
+        "id": 7 ,
+        "coords": { "x": 76.118800, "y": 79.3553 },
+        "multi": false,
+        "name": {"ru_RU": "Кеплерплац", "en_EN": "Keplerplatz"},
+        "edges": [{"time": 60, "id": 6 },{"time": 120, "id": 8 }],
+        "line": 1
+        },
+                {
+        "id": 8 ,
+        "coords": { "x": 73.7346, "y": 86.262700 },
+        "multi": false,
+        "name": {"ru_RU": "Зюдтиролер Плац-Хауптбанхоф", "en_EN": "Südtiroler Platz-Hauptbahnhof"},
+        "edges": [{"time": 120, "id": 7 },{"time": 120, "id": 9 }],
+        "line": 1
+        },
+                {
+        "id": 9 ,
+        "coords": { "x": 70.4158, "y": 93.687300 },
+        "multi": false,
+        "name": {"ru_RU": "Таубштумменгассе", "en_EN": "Taubstummengasse"},
+        "edges": [{"time": 120, "id": 8 },{"time": 60, "id": 10 }],
+        "line": 1
+        },
+                {
+        "id": 10 ,
+        "coords": { "x": 69.7014, "y": 100.3841 },
+        "multi": true,
+        "name": {"ru_RU": "Карлсплац", "en_EN": "Karlsplatz"},
+        "edges": [{"time": 60, "id": 9 },{"time": 120, "id": 11 },{"time": 120, "id": 24},{"time": 120, "id": 71 }],
+        "line": 1
+        },
+                {
+        "id": 11 ,
+        "coords": { "x": 71.5166, "y": 108.083800 },
+        "multi": true,
+        "name": {"ru_RU": "Штефансплац", "en_EN": "Stephansplatz"},
+        "edges": [{"time": 120, "id": 10 },{"time": 60, "id": 12 },{"time": 180, "id": 51}],
+        "line": 1
+        },
+                {
+        "id": 12 ,
+        "coords": { "x": 78.5895, "y": 111.7248 },
+        "multi": true,
+        "name": {"ru_RU": "Шведенплац", "en_EN": "Schwedenplatz"},
+        "edges": [{"time": 60, "id": 11 },{"time": 180, "id": 13 },{"time": 120, "id": 74}],
+        "line": 1
+        },
+                {
+        "id": 13 ,
+        "coords": { "x": 93.0785, "y": 119.7676 },
+        "multi": true,
+        "name": {"ru_RU": "Пратерштерн", "en_EN": "Praterstern"},
+        "edges": [{"time": 180, "id": 12 },{"time": 120, "id": 14 },{"time": 120, "id": 31}],
+        "line": 1
+        },
+                {
+        "id": 14 ,
+        "coords": { "x": 101.057200, "y": 123.6328 },
+        "multi": false,
+        "name": {"ru_RU": "Форгартенштрассе", "en_EN": "Vorgartenstraße"},
+        "edges": [{"time": 120, "id": 13 },{"time": 60, "id": 15 }],
+        "line": 1
+        },
+                {
+        "id": 15 ,
+        "coords": { "x": 111.3918, "y": 129.2159 },
+        "multi": false,
+        "name": {"ru_RU": "Донауинзель", "en_EN": "Donauinsel"},
+        "edges": [{"time": 60, "id": 14 },{"time": 60, "id": 16 }],
+        "line": 1
+        },
+                {
+        "id": 16 ,
+        "coords": { "x": 116.4115, "y": 132.829 },
+        "multi": false,
+        "name": {"ru_RU": "Кайзермюллен", "en_EN": "Kaisermühlen VIC"},
+        "edges": [{"time": 60, "id": 15 },{"time": 60, "id": 17 }],
+        "line": 1
+        },
+                {
+        "id": 17 ,
+        "coords": { "x": 124.7729, "y": 138.2709 },
+        "multi": false,
+        "name": {"ru_RU": "Альте Донау", "en_EN": "Alte Donau"},
+        "edges": [{"time": 60, "id": 16 },{"time": 120, "id": 18 }],
+        "line": 1
+        },
+                {
+        "id": 18 ,
+        "coords": { "x": 132.919100, "y": 143.0028 },
+        "multi": false,
+        "name": {"ru_RU": "Кагран", "en_EN": "Kagran"},
+        "edges": [{"time": 120, "id": 17 },{"time": 120, "id": 19 }],
+        "line": 1
+        },
+                {
+        "id": 19 ,
+        "coords": { "x": 143.25390, "y": 150.2254 },
+        "multi": false,
+        "name": {"ru_RU": "Кагранер Плац", "en_EN": "Kagraner Platz"},
+        "edges": [{"time": 120, "id": 18 },{"time": 120, "id": 20 }],
+        "line": 1
+        },
+                {
+        "id": 20 ,
+        "coords": { "x": 149.6328, "y": 157.6086 },
+        "multi": false,
+        "name": {"ru_RU": "Реннбанвег", "en_EN": "Rennbahnweg"},
+        "edges": [{"time": 120, "id": 19 },{"time": 60, "id": 21 }],
+        "line": 1
+        },
+                {
+        "id": 21 ,
+        "coords": { "x": 151.6287, "y": 163.4265 },
+        "multi": false,
+        "name": {"ru_RU": "Адерклааер Штрассе", "en_EN": "Aderklaaer Straße"},
+        "edges": [{"time": 60, "id": 20 },{"time": 60, "id": 22 }],
+        "line": 1
+        },
+                {
+        "id": 22 ,
+        "coords": { "x": 147.8821, "y": 171.0952 },
+        "multi": false,
+        "name": {"ru_RU": "Гросфельдзидлюнг", "en_EN": "Großfeldsiedlung"},
+        "edges": [{"time": 60, "id": 21 },{"time": 120, "id": 23 }],
+        "line": 1
+        },
+                {
+        "id": 23 ,
+        "coords": { "x": 152.0703, "y": 177.58200 },
+        "multi": false,
+        "name": {"ru_RU": "Леопольдау", "en_EN": "Leopoldau"},
+        "edges": [{"time": 120, "id": 22 }],
+        "line": 1
+        },
+                {
+        "id": 24 ,
+        "coords": { "x": 69.7014, "y": 100.3841 },
+        "multi": true,
+        "name": {"ru_RU": "Карлсплац", "en_EN": "Karlsplatz"},
+        "edges": [{"time": 60, "id": 25 },{"time": 120, "id": 10 },{"time": 120, "id": 71 }],
+        "line": 2
+        },
+                {
+        "id": 25 ,
+        "coords": { "x": 61.2866, "y": 102.6346 },
+        "multi": false,
+        "name": {"ru_RU": "Музеумсквартир", "en_EN": "Museumsquartier"},
+        "edges": [{"time": 60, "id": 24 },{"time": 60, "id": 26 }],
+        "line": 2
+        },
+                {
+        "id": 26 ,
+        "coords": { "x": 57.85910, "y": 105.275 },
+        "multi": true,
+        "name": {"ru_RU": "Фолькстеатр", "en_EN": "Volkstheater"},
+        "edges": [{"time": 60, "id": 25 },{"time": 120, "id": 27 },{"time": 120, "id": 49}],
+        "line": 2
+        },
+                {
+        "id": 27 ,
+        "coords": { "x": 55.4084, "y": 110.2064 },
+        "multi": false,
+        "name": {"ru_RU": "Ратхаус", "en_EN": "Rathaus"},
+        "edges": [{"time": 120, "id": 26 },{"time": 120, "id": 28 }],
+        "line": 2
+        },
+                {
+        "id": 28 ,
+        "coords": { "x": 62.92780, "y": 115.0481 },
+        "multi": false,
+        "name": {"ru_RU": "Шоттентор", "en_EN": "Schottentor"},
+        "edges": [{"time": 120, "id": 27 },{"time": 120, "id": 29 }],
+        "line": 2
+        },
+                {
+        "id": 29 ,
+        "coords": { "x": 72.3981, "y": 117.3875 },
+        "multi": true,
+        "name": {"ru_RU": "Шоттенринг", "en_EN": "Schottenring"},
+        "edges": [{"time": 120, "id": 28 },{"time": 120, "id": 30 },{"time": 120, "id": 75}],
+        "line": 2
+        },
+                {
+        "id": 30 ,
+        "coords": { "x": 81.5518, "y": 119.2624 },
+        "multi": false,
+        "name": {"ru_RU": "Таборштрассе", "en_EN": "Taborstraße"},
+        "edges": [{"time": 120, "id": 29 },{"time": 120, "id": 31 }],
+        "line": 2
+        },
+                {
+        "id": 31 ,
+        "coords": { "x": 93.0785, "y": 119.7676 },
+        "multi": true,
+        "name": {"ru_RU": "Пратерштерн", "en_EN": "Praterstern"},
+        "edges": [{"time": 120, "id": 30 },{"time": 120, "id": 32 },{"time": 120, "id": 13}],
+        "line": 2
+        },
+                {
+        "id": 32 ,
+        "coords": { "x": 104.9308, "y": 117.778600 },
+        "multi": false,
+        "name": {"ru_RU": "«Мессе-Пратер", "en_EN": "Messe-Prater"},
+        "edges": [{"time": 120, "id": 31 },{"time": 120, "id": 33 }],
+        "line": 2
+        },
+                {
+        "id": 33 ,
+        "coords": { "x": 140.166, "y": 111.799900 },
+        "multi": false,
+        "name": {"ru_RU": "Донауштадтбрюке", "en_EN": "Donaustadtbrücke"},
+        "edges": [{"time": 120, "id": 32 },{"time": 120, "id": 34 }],
+        "line": 2
+        },
+                {
+        "id": 34 ,
+        "coords": { "x": 149.55800, "y": 119.7733 },
+        "multi": false,
+        "name": {"ru_RU": "Штадтлау", "en_EN": "Stadlau"},
+        "edges": [{"time": 120, "id": 33 },{"time": 120, "id": 35 }],
+        "line": 2
+        },
+                {
+        "id": 35 ,
+        "coords": { "x": 157.8116, "y": 180.8849 },
+        "multi": false,
+        "name": {"ru_RU": "Хардеггассе", "en_EN": "Hardeggasse"},
+        "edges": [{"time": 120, "id": 34 },{"time": 120, "id": 36 }],
+        "line": 2
+        },
+                {
+        "id": 36 ,
+        "coords": { "x": 166.6399, "y": 119.430100 },
+        "multi": false,
+        "name": {"ru_RU": "Донаушпиталь", "en_EN": "Donauspital"},
+        "edges": [{"time": 120, "id": 35 },{"time": 120, "id": 37 }],
+        "line": 2
+        },
+                {
+        "id": 37 ,
+        "coords": { "x": 174.93460, "y": 122.5976 },
+        "multi": false,
+        "name": {"ru_RU": "Аспернштрассе", "en_EN": "Aspernstraße"},
+        "edges": [{"time": 120, "id": 36 },{"time": 120, "id": 38 }],
+        "line": 2
+        },
+                {
+        "id": 38 ,
+        "coords": { "x": 185.618, "y": 133.4122 },
+        "multi": false,
+        "name": {"ru_RU": "Хаусфельдштрассе", "en_EN": "Hausfeldstraße"},
+        "edges": [{"time": 120, "id": 37 },{"time": 120, "id": 39 }],
+        "line": 2
+        },
+                {
+        "id": 39 ,
+        "coords": { "x": 204.4888, "y": 134.5026 },
+        "multi": false,
+        "name": {"ru_RU": "Асперн Норд", "en_EN": "Aspern Nord"},
+        "edges": [{"time": 120, "id": 38 },{"time": 120, "id": 40 }],
+        "line": 2
+        },
+                {
+        "id": 40 ,
+        "coords": { "x": 208.3947, "y": 126.2278 },
+        "multi": false,
+        "name": {"ru_RU": "Зеештадт", "en_EN": "Seestadt"},
+        "edges": [{"time": 120, "id": 39 }],
+        "line": 2
+        },
+                {
+        "id": 41 ,
+        "coords": { "x": 11.3574, "y": 111.0317 },
+        "multi": false,
+        "name": {"ru_RU": "Оттакринг", "en_EN": "Ottakring"},
+        "edges": [{"time": 60, "id": 42 }],
+        "line": 3
+        },
+                {
+        "id": 42 ,
+        "coords": { "x": 9.1223000, "y": 104.5707 },
+        "multi": false,
+        "name": {"ru_RU": "Кендлерштрассе", "en_EN": "Kendlerstraße"},
+        "edges": [{"time": 60, "id": 41 },{"time": 60, "id": 43 }],
+        "line": 3
+        },
+                {
+        "id": 43 ,
+        "coords": { "x": 11.4584000, "y": 99.798300 },
+        "multi": false,
+        "name": {"ru_RU": "Хюттельдорфер Штрассе", "en_EN": "Hütteldorfer Straße"},
+        "edges": [{"time": 60, "id": 42 },{"time": 60, "id": 44 }],
+        "line": 3
+        },
+                {
+        "id": 44 ,
+        "coords": { "x": 20.128700, "y": 97.6282 },
+        "multi": false,
+        "name": {"ru_RU": "Йонштрассе", "en_EN": "Johnstraße"},
+        "edges": [{"time": 60, "id": 43 },{"time": 60, "id": 45 }],
+        "line": 3
+        },
+                {
+        "id": 45 ,
+        "coords": { "x": 28.6297, "y": 97.6875 },
+        "multi": false,
+        "name": {"ru_RU": "Швеглерштрассе", "en_EN": "Schweglerstraße"},
+        "edges": [{"time": 60, "id": 44 },{"time": 120, "id": 46 }],
+        "line": 3
+        },
+                {
+        "id": 46 ,
+        "coords": { "x": 37.9226, "y": 95.878300 },
+        "multi": true,
+        "name": {"ru_RU": "Вестбанхоф", "en_EN": "Westbahnhof"},
+        "edges": [{"time": 120, "id": 45 },{"time": 120, "id": 47 },{"time": 120, "id": 92}],
+        "line": 3
+        },
+                {
+        "id": 47 ,
+        "coords": { "x": 46.29790, "y": 97.145000 },
+        "multi": false,
+        "name": {"ru_RU": "Циглергассе", "en_EN": "Zieglergasse"},
+        "edges": [{"time": 120, "id": 46 },{"time": 60, "id": 48 }],
+        "line": 3
+        },
+                {
+        "id": 48 ,
+        "coords": { "x": 52.6723, "y": 99.3161 },
+        "multi": false,
+        "name": {"ru_RU": "Нойбаугассе", "en_EN": "Neubaugasse"},
+        "edges": [{"time": 60, "id": 47 },{"time": 60, "id": 49 }],
+        "line": 3
+        },
+                {
+        "id": 49 ,
+        "coords": { "x": 57.85910, "y": 105.275 },
+        "multi": true,
+        "name": {"ru_RU": "Фолькстеатр", "en_EN": "Volkstheater"},
+        "edges": [{"time": 60, "id": 48 },{"time": 120, "id": 50 },{"time": 120, "id": 26 }],
+        "line": 3
+        },
+                {
+        "id": 50 ,
+        "coords": { "x": 65.6353, "y": 109.398000 },
+        "multi": false,
+        "name": {"ru_RU": "Херренгассе", "en_EN": "Herrengasse"},
+        "edges": [{"time": 120, "id": 49 },{"time": 60, "id": 51 }],
+        "line": 3
+        },
+                {
+        "id": 51 ,
+        "coords": { "x": 71.5166, "y": 108.083800 },
+        "multi": true,
+        "name": {"ru_RU": "Штефансплац", "en_EN": "Stephansplatz"},
+        "edges": [{"time": 60, "id": 50 },{"time": 60, "id": 52 },{"time": 120, "id": 11}],
+        "line": 3
+        },
+                {
+        "id": 52 ,
+        "coords": { "x": 79.2758, "y": 106.9483 },
+        "multi": false,
+        "name": {"ru_RU": "Штубентор", "en_EN": "Stubentor"},
+        "edges": [{"time": 60, "id": 51 },{"time": 60, "id": 53 }],
+        "line": 3
+        },
+                {
+        "id": 53 ,
+        "coords": { "x": 85.298200, "y": 105.8807 },
+        "multi": true,
+        "name": {"ru_RU": "Ландштрассе", "en_EN": "Landstraße"},
+        "edges": [{"time": 60, "id": 52 },{"time": 60, "id": 54 },{"time": 120, "id": 73}],
+        "line": 3
+        },
+                {
+        "id": 54 ,
+        "coords": { "x": 92.2544, "y": 102.085100 },
+        "multi": false,
+        "name": {"ru_RU": "Рохусгассе", "en_EN": "Rochusgasse"},
+        "edges": [{"time": 60, "id": 53 },{"time": 60, "id": 55 }],
+        "line": 3
+        },
+                {
+        "id": 55 ,
+        "coords": { "x": 99.8831, "y": 97.5587 },
+        "multi": false,
+        "name": {"ru_RU": "Кардинал-Нагль-Плац", "en_EN": "Kardinal-Nagl-Platz"},
+        "edges": [{"time": 60, "id": 54 },{"time": 60, "id": 56 }],
+        "line": 3
+        },
+                {
+        "id": 56 ,
+        "coords": { "x": 106.7471, "y": 94.413800 },
+        "multi": false,
+        "name": {"ru_RU": "Шлахтхаусгассе", "en_EN": "Schlachthausgasse"},
+        "edges": [{"time": 60, "id": 55 },{"time": 120, "id": 57 }],
+        "line": 3
+        },
+                {
+        "id": 57 ,
+        "coords": { "x": 114.156900, "y": 91.4136 },
+        "multi": false,
+        "name": {"ru_RU": "Эрдберг", "en_EN": "Erdberg"},
+        "edges": [{"time": 120, "id": 56 },{"time": 60, "id": 58 }],
+        "line": 3
+        },
+                {
+        "id": 58 ,
+        "coords": { "x": 117.4702, "y": 85.144100 },
+        "multi": false,
+        "name": {"ru_RU": "Газометер", "en_EN": "Gasometer"},
+        "edges": [{"time": 60, "id": 57 },{"time": 60, "id": 59 }],
+        "line": 3
+        },
+                {
+        "id": 59 ,
+        "coords": { "x": 112.0644, "y": 80.438600 },
+        "multi": false,
+        "name": {"ru_RU": "Ципперерштрассе", "en_EN": "Zippererstraße"},
+        "edges": [{"time": 60, "id": 58 },{"time": 120, "id": 60 }],
+        "line": 3
+        },
+                {
+        "id": 60 ,
+        "coords": { "x": 114.7963, "y": 74.718600 },
+        "multi": false,
+        "name": {"ru_RU": "Энкплац", "en_EN": "Enkplatz"},
+        "edges": [{"time": 120, "id": 59 },{"time": 60, "id": 61 }],
+        "line": 3
+        },
+                {
+        "id": 61 ,
+        "coords": { "x": 180.534500, "y": 69.781900 },
+        "multi": false,
+        "name": {"ru_RU": "Зиммеринг", "en_EN": "Simmering"},
+        "edges": [{"time": 60, "id": 60 }],
+        "line": 3
+        },
+                {
+        "id": 62 ,
+        "coords": { "x": -39.0852, "y": 96.949300 },
+        "multi": false,
+        "name": {"ru_RU": "Хюттельдорф", "en_EN": "Hütteldorf"},
+        "edges": [{"time": 180, "id": 63 }],
+        "line": 4
+        },
+                {
+        "id": 63 ,
+        "coords": { "x": -4.1800000, "y": 89.402700 },
+        "multi": false,
+        "name": {"ru_RU": "Брауншвайггассе", "en_EN": "Braunschweiggasse"},
+        "edges": [{"time": 180, "id": 62 },{"time": 60, "id": 64 }],
+        "line": 4
+        },
+                {
+        "id": 64 ,
+        "coords": { "x": 4.5807, "y": 87.5762 },
+        "multi": false,
+        "name": {"ru_RU": "Хитцинг", "en_EN": "Hietzing"},
+        "edges": [{"time": 60, "id": 63 },{"time": 60, "id": 65 }],
+        "line": 4
+        },
+                {
+        "id": 65 ,
+        "coords": { "x": 19.0474, "y": 86.0172 },
+        "multi": false,
+        "name": {"ru_RU": "Шёнбрунн", "en_EN": "Schönbrunn"},
+        "edges": [{"time": 60, "id": 64 },{"time": 120, "id": 66 }],
+        "line": 4
+        },
+                {
+        "id": 66 ,
+        "coords": { "x": 28.1212, "y": 83.630400 },
+        "multi": false,
+        "name": {"ru_RU": "Майдлинг Хауптштрассе", "en_EN": "Meidling Hauptstraße"},
+        "edges": [{"time": 120, "id": 65 },{"time": 120, "id": 67 }],
+        "line": 4
+        },
+                {
+        "id": 67 ,
+        "coords": { "x": 35.0467, "y": 84.9187 },
+        "multi": true,
+        "name": {"ru_RU": "Ленгенфельдгассе", "en_EN": "Längenfeldgasse"},
+        "edges": [{"time": 120, "id": 66 },{"time": 60, "id": 68 },{"time": 120, "id": 94 }],
+        "line": 4
+        },
+                {
+        "id": 68 ,
+        "coords": { "x": 43.0303000, "y": 88.488300 },
+        "multi": false,
+        "name": {"ru_RU": "Маргаретенгюртель", "en_EN": "Margaretengürtel"},
+        "edges": [{"time": 60, "id": 67 },{"time": 60, "id": 69 }],
+        "line": 4
+        },
+                {
+        "id": 69 ,
+        "coords": { "x": 54.30280, "y": 92.1577 },
+        "multi": false,
+        "name": {"ru_RU": "Пильграмгассе", "en_EN": "Pilgramgasse"},
+        "edges": [{"time": 60, "id": 68 },{"time": 120, "id": 70 }],
+        "line": 4
+        },
+                {
+        "id": 70 ,
+        "coords": { "x": 58.0920, "y": 96.6328 },
+        "multi": false,
+        "name": {"ru_RU": "Кеттенбрюкенгассе", "en_EN": "Kettenbrückengasse"},
+        "edges": [{"time": 120, "id": 69 },{"time": 180, "id": 71 }],
+        "line": 4
+        },
+                {
+        "id": 71 ,
+        "coords": { "x": 69.7014, "y": 100.3841 },
+        "multi": true,
+        "name": {"ru_RU": "Карлсплац", "en_EN": "Karlsplatz"},
+        "edges": [{"time": 180, "id": 70 },{"time": 60, "id": 72 },{"time": 120, "id": 10 },{"time": 120, "id": 24 }],
+        "line": 4
+        },
+                {
+        "id": 72 ,
+        "coords": { "x": 79.8184, "y": 102.946 },
+        "multi": false,
+        "name": {"ru_RU": "Штадтпарк", "en_EN": "Stadtpark"},
+        "edges": [{"time": 60, "id": 71 },{"time": 60, "id": 73 }],
+        "line": 4
+        },
+                {
+        "id": 73 ,
+        "coords": { "x": 85.298200, "y": 105.8807 },
+        "multi": true,
+        "name": {"ru_RU": "Ландштрассе", "en_EN": "Landstraße"},
+        "edges": [{"time": 60, "id": 72 },{"time": 60, "id": 74 },{"time": 120, "id": 53}],
+        "line": 4
+        },
+                {
+        "id": 74 ,
+        "coords": { "x": 78.5895, "y": 111.7248 },
+        "multi": true,
+        "name": {"ru_RU": "Шведенплац", "en_EN": "Schwedenplatz"},
+        "edges": [{"time": 60, "id": 73 },{"time": 60, "id": 75 },{"time": 120, "id": 12}],
+        "line": 4
+        },
+                {
+        "id": 75 ,
+        "coords": { "x": 72.3981, "y": 117.3875 },
+        "multi": true,
+        "name": {"ru_RU": "Шоттенринг", "en_EN": "Schottenring"},
+        "edges": [{"time": 60, "id": 74 },{"time": 60, "id": 76 },{"time": 120, "id": 29}],
+        "line": 4
+        },
+                {
+        "id": 76 ,
+        "coords": { "x": 67.572200, "y": 122.3375 },
+        "multi": false,
+        "name": {"ru_RU": "Росауэр Лэнде", "en_EN": "Roßauer Lände"},
+        "edges": [{"time": 60, "id": 75 },{"time": 60, "id": 77 }],
+        "line": 4
+        },
+                {
+        "id": 77 ,
+        "coords": { "x": 64.119, "y": 127.710000 },
+        "multi": false,
+        "name": {"ru_RU": "Фриденсбрюке", "en_EN": "Friedensbrücke"},
+        "edges": [{"time": 60, "id": 76 },{"time": 120, "id": 78 }],
+        "line": 4
+        },
+                {
+        "id": 78 ,
+        "coords": { "x": 58.076, "y": 135.5915 },
+        "multi": true,
+        "name": {"ru_RU": "Шпиттелау", "en_EN": "Spittelau"},
+        "edges": [{"time": 120, "id": 77 },{"time": 180, "id": 79 },{"time": 120, "id":85}],
+        "line": 4
+        },
+                {
+        "id": 79 ,
+        "coords": { "x": 65.9272, "y": 148.6697 },
+        "multi": false,
+        "name": {"ru_RU": "Хайлигенштадт", "en_EN": "Heiligenstadt"},
+        "edges": [{"time": 180, "id": 78 }],
+        "line": 4
+        },
+                {
+        "id": 80 ,
+        "coords": { "x": 100.490800, "y": 156.2384 },
+        "multi": false,
+        "name": {"ru_RU": "Флоридсдорф", "en_EN": "Floridsdorf"},
+        "edges": [{"time": 60, "id": 81 }],
+        "line": 5
+        },
+                {
+        "id": 81 ,
+        "coords": { "x": 94.7025, "y": 146.2997 },
+        "multi": false,
+        "name": {"ru_RU": "Нойе Донау", "en_EN": "Neue Donau"},
+        "edges": [{"time": 60, "id": 80 },{"time": 120, "id": 82 }],
+        "line": 5
+        },
+                {
+        "id": 82 ,
+        "coords": { "x": 85.4154, "y": 141.73590 },
+        "multi": false,
+        "name": {"ru_RU": "«Хандельскай", "en_EN": "Handelskai"},
+        "edges": [{"time": 120, "id": 81 },{"time": 60, "id": 83 }],
+        "line": 5
+        },
+                {
+        "id": 83 ,
+        "coords": { "x": 80.2291, "y": 137.3082 },
+        "multi": false,
+        "name": {"ru_RU": "Дрезднер Штрассе", "en_EN": "Dresdner Straße"},
+        "edges": [{"time": 60, "id": 82 },{"time": 120, "id": 84 }],
+        "line": 5
+        },
+                {
+        "id": 84 ,
+        "coords": { "x": 68.7097, "y": 135.22400 },
+        "multi": false,
+        "name": {"ru_RU": "Йегерштрассе", "en_EN": "Jägerstraße"},
+        "edges": [{"time": 120, "id": 83 },{"time": 120, "id": 85 }],
+        "line": 5
+        },
+                {
+        "id": 85 ,
+        "coords": { "x": 58.076, "y": 135.5915 },
+        "multi": true,
+        "name": {"ru_RU": "Шпиттелау", "en_EN": "Spittelau"},
+        "edges": [{"time": 120, "id": 84 },{"time": 60, "id": 86 },{"time": 120, "id": 78}],
+        "line": 5
+        },
+                {
+        "id": 86 ,
+        "coords": { "x": 52.4653, "y": 131.3384 },
+        "multi": false,
+        "name": {"ru_RU": "Нусдорфер Штрассе", "en_EN": "Nußdorfer Straße"},
+        "edges": [{"time": 60, "id": 85 },{"time": 120, "id": 87 }],
+        "line": 5
+        },
+                {
+        "id": 87 ,
+        "coords": { "x": 44.1586, "y": 121.165200 },
+        "multi": false,
+        "name": {"ru_RU": "Михельбойерн-AKH", "en_EN": "Michelbeuern-AKH"},
+        "edges": [{"time": 120, "id": 86 },{"time": 120, "id": 88 }],
+        "line": 5
+        },
+                {
+        "id": 88 ,
+        "coords": { "x": 41.8121, "y": 116.767500 },
+        "multi": false,
+        "name": {"ru_RU": "Альзер Штрассе", "en_EN": "Alser Straße"},
+        "edges": [{"time": 120, "id": 87 },{"time": 60, "id": 89 }],
+        "line": 5
+        },
+                {
+        "id": 89 ,
+        "coords": { "x": 39.1653, "y": 111.4659 },
+        "multi": false,
+        "name": {"ru_RU": "Йозефштедтер Штрассе", "en_EN": "Josefstädter Straße"},
+        "edges": [{"time": 60, "id": 88 },{"time": 120, "id": 90 }],
+        "line": 5
+        },
+                {
+        "id": 90 ,
+        "coords": { "x": 38.0073, "y": 107.8001 },
+        "multi": false,
+        "name": {"ru_RU": "Талиаштрассе", "en_EN": "Thaliastraße"},
+        "edges": [{"time": 120, "id": 89 },{"time": 60, "id": 91 }],
+        "line": 5
+        },
+                {
+        "id": 91 ,
+        "coords": { "x": 37.2441, "y": 102.898000 },
+        "multi": false,
+        "name": {"ru_RU": "Бурггассе — Штадтхалле", "en_EN": "Burggasse-Stadthalle"},
+        "edges": [{"time": 60, "id": 90 },{"time": 120, "id": 92 }],
+        "line": 5
+        },
+                {
+        "id": 92 ,
+        "coords": { "x": 37.9226, "y": 95.878300 },
+        "multi": true,
+        "name": {"ru_RU": "Вестбанхоф", "en_EN": "Westbahnhof"},
+        "edges": [{"time": 120, "id": 91 },{"time": 60, "id": 93 },{"time": 120, "id": 46}],
+        "line": 5
+        },
+                {
+        "id": 93 ,
+        "coords": { "x": 37.5442000, "y": 90.737400 },
+        "multi": false,
+        "name": {"ru_RU": "Гумпендорфер Штрассе", "en_EN": "Gumpendorfer Straße"},
+        "edges": [{"time": 60, "id": 92 },{"time": 60, "id": 94 }],
+        "line": 5
+        },
+                {
+        "id": 94 ,
+        "coords": { "x": 35.0467, "y": 84.9187 },
+        "multi": true,
+        "name": {"ru_RU": "Ленгенфельдгассе", "en_EN": "Längenfeldgasse"},
+        "edges": [{"time": 60, "id": 93 },{"time": 120, "id": 95 },{"time": 120, "id": 67 }],
+        "line": 5
+        },
+                {
+        "id": 95 ,
+        "coords": { "x": 31.1450, "y": 80.7684 },
+        "multi": false,
+        "name": {"ru_RU": "Нидерхофштрассе", "en_EN": "Niederhofstraße"},
+        "edges": [{"time":120, "id": 94 },{"time": 60, "id": 96 }],
+        "line": 5
+        },
+                {
+        "id": 96 ,
+        "coords": { "x": 31.4815, "y": 73.9672 },
+        "multi": false,
+        "name": {"ru_RU": "Банхоф Майдлинг", "en_EN": "Bahnhof Meidling"},
+        "edges": [{"time": 60, "id": 95 },{"time": 60, "id": 97 }],
+        "line": 5
+        },
+                {
+        "id": 97 ,
+        "coords": { "x": 27.7927, "y": 64.9777 },
+        "multi": false,
+        "name": {"ru_RU": "Черттегассе", "en_EN": "Tscherttegasse"},
+        "edges": [{"time": 60, "id": 96 },{"time": 60, "id": 98 }],
+        "line": 5
+        },
+                {
+        "id": 98 ,
+        "coords": { "x": 24.2072, "y": 60.6824 },
+        "multi": false,
+        "name": {"ru_RU": "Ам Шёпфверк", "en_EN": "Am Schöpfwerk"},
+        "edges": [{"time": 60, "id": 97 },{"time": 180, "id": 99 }],
+        "line": 5
+        },
+                {
+        "id": 99 ,
+        "coords": { "x": 16.8475, "y": 50.5196000 },
+        "multi": false,
+        "name": {"ru_RU": "Альтерлаа", "en_EN": "Alterlaa"},
+        "edges": [{"time": 180, "id": 98 },{"time": 180, "id": 100 }],
+        "line": 5
+        },
+                {
+        "id": 100 ,
+        "coords": { "x": 16.5351, "y": 41.9866 },
+        "multi": false,
+        "name": {"ru_RU": "Эрлааер Штрассе", "en_EN": "Erlaaer Straße"},
+        "edges": [{"time": 180, "id": 99 },{"time": 60, "id": 101 }],
+        "line": 5
+        },
+                {
+        "id": 101 ,
+        "coords": { "x": 13.2527, "y": 36.6232000 },
+        "multi": false,
+        "name": {"ru_RU": "Перфекташтрассе", "en_EN": "Perfektastraße"},
+        "edges": [{"time": 60, "id": 100 },{"time": 60, "id": 102 }],
+        "line": 5
+        },
+                {
+        "id": 102 ,
+        "coords": { "x": 9.8385, "y": 30.521 },
+        "multi": false,
+        "name": {"ru_RU": "Зибенхиртен", "en_EN": "Siebenhirten"},
+        "edges": [{"time": 60, "id": 101 }],
+        "line": 5
+        },
+    ],
+    
+    "multiPoints":[
+           {"coords": {"x": 58.076, "y": 135.5915 }, "id": [78,85]},
+           {"coords": {"x": 78.5895, "y": 111.7248 }, "id": [12,74]},
+           {"coords": {"x": 72.3981, "y": 117.3875 }, "id": [29,75]},
+           {"coords": {"x": 93.0785, "y": 119.7676 }, "id": [13,31]},
+           {"coords": {"x": 85.298200, "y": 105.8807 }, "id": [53,73]},
+           {"coords": {"x": 71.5166, "y": 108.083800 }, "id": [11,51]},
+           {"coords": {"x": 57.85910, "y": 105.275 }, "id": [26,49]},
+           {"coords": {"x": 37.9226, "y": 95.878300 }, "id": [46,92]},
+           {"coords": {"x": 35.0467, "y": 84.9187 }, "id": [67,94],},
+           {"coords": {"x": 69.7014, "y": 100.3841}, "id": [10,24,71]}
+       ],
+    "lines":[
+           [
+               {"from":1,"to":2},{"from":2,"to":3},{"from":3,"to":4},{"from":4,"to":5},{"from":5,"to":6},{"from":6,"to":7},{"from":7,"to":8},{"from":8,"to":9},{"from":9,"to":10},{"from":10,"to":11},{"from":11,"to":12},{"from":12,"to":13},{"from":13,"to":14},{"from":14,"to":15},{"from":15,"to":16},{"from":16,"to":17},{"from":17,"to":18},{"from":18,"to":19},{"from":19,"to":20},{"from":20,"to":21},{"from":21,"to":22},{"from":22,"to":23}
+           ],
+           [
+               {"from":24,"to":25},{"from":25,"to":26},{"from":26,"to":27},{"from":27,"to":28},{"from":28,"to":29},{"from":29,"to":30},{"from":30,"to":31},{"from":31,"to":32},{"from":32,"to":33},{"from":33,"to":34},{"from":34,"to":35},{"from":35,"to":36},{"from":36,"to":37},{"from":37,"to":38},{"from":38,"to":39},{"from":39,"to":40}
+           ],
+           [
+               {"from":41,"to":42},{"from":42,"to":43},{"from":43,"to":44},{"from":44,"to":45},{"from":45,"to":46},{"from":46,"to":47},{"from":47,"to":48},{"from":48,"to":49}, {"from":50,"to":51},{"from":51,"to":52},{"from":52,"to":53},{"from":53,"to":54},{"from":54,"to":55},{"from":55,"to":56},{"from":56,"to":57},{"from":57,"to":58},{"from":58,"to":59},{"from":59,"to":60},{"from":60,"to":61}
+           ],
+           [
+               {"from":62,"to":63},{"from":63,"to":64},{"from":64,"to":65},{"from":65,"to":66},{"from":66,"to":67},{"from":67,"to":68},{"from":68,"to":69},{"from":69,"to":70},{"from":70,"to":71},{"from":71,"to":72},{"from":72,"to":73},{"from":73,"to":74},{"from":74,"to":75},{"from":75,"to":76},{"from":76,"to":77},{"from":77,"to":78},{"from":78,"to":79}
+           ],
+           [
+               {"from":80,"to":81},{"from":81,"to":82},{"from":82,"to":83},{"from":83,"to":84},{"from":84,"to":85},{"from":85,"to":86},{"from":86,"to":87},{"from":87,"to":88},{"from":88,"to":89},{"from":89,"to":90},{"from":90,"to":91},{"from":91,"to":92},{"from":92,"to":93},{"from":93,"to":94},{"from":94,"to":95},{"from":95,"to":96},{"from":96,"to":97},{"from":97,"to":98},{"from":98,"to":99},{"from":99,"to":100},{"from":100,"to":101},{"from":101,"to":102}
+           ]
+
+       ],
+    "colors":[
+         {"r": 255, "g": 0, "b": 0},
+         {"r": 171, "g": 0, "b": 255},
+         {"r": 255, "g": 154, "b": 255},
+         {"r": 0, "g": 200, "b": 0},
+         {"r": 122, "g": 82, "b": 255}
+     ]
+}
+

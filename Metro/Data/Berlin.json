@@ -1,0 +1,1609 @@
+{
+    "stations":[
+                          {
+                   "id":1,
+                   "coords": { "x": 149.00650, "y": 85.01400},
+                   "multi":false,
+                   "name": {"ru_RU":"U Warschauer Straße","en_EN":"U Warschauer Straße"},
+                   "edges": [{"time": 120, "id":2}],
+                   "line":1
+                   },
+                           {
+                   "id":2,
+                   "coords": { "x": 141.4625, "y": 80.8341},
+                   "multi":false,
+                   "name": {"ru_RU":"U Schlesisches Tor","en_EN":"U Schlesisches Tor"},
+                   "edges": [{"time": 120, "id":1},{"time": 120, "id":3}],
+                   "line":1
+                   },
+                           {
+                   "id":3,
+                   "coords": { "x": 128.0355, "y": 79.2628},
+                   "multi":false,
+                   "name": {"ru_RU":"U Görlitzer Bahnhof","en_EN":"U Görlitzer Bahnhof"},
+                   "edges": [{"time": 120, "id":2},{"time": 120, "id":4}],
+                   "line":1
+                   },
+                           {
+                   "id":4,
+                   "coords": { "x": 118.31070, "y": 78.98530},
+                   "multi":true,
+                   "name": {"ru_RU":"U Kottbusser Tor","en_EN":"U Kottbusser Tor"},
+                   "edges": [{"time": 120, "id":3},{"time": 120, "id":5},{"time": 120, "id":170}],
+                   "line":1
+                   },
+                           {
+                   "id":5,
+                   "coords": { "x": 105.91000, "y": 78.3972},
+                   "multi":false,
+                   "name": {"ru_RU":"U Prinzenstraße","en_EN":"U Prinzenstraße"},
+                   "edges": [{"time": 120, "id":4},{"time": 120, "id":6}],
+                   "line":1
+                   },
+                           {
+                   "id":6,
+                   "coords": { "x": 91.7234, "y": 78.8198},
+                   "multi":true,
+                   "name": {"ru_RU":"U Hallesches Tor (U6)","en_EN":"U Hallesches Tor (U6)"},
+                   "edges": [{"time": 120, "id":5},{"time": 120, "id":7},{"time": 120, "id":103}],
+                   "line":1
+                   },
+                           {
+                   "id":7,
+                   "coords": { "x": 83.123, "y": 78.6927},
+                   "multi":true,
+                   "name": {"ru_RU":"U Möckernbrücke","en_EN":"U Möckernbrücke"},
+                   "edges": [{"time": 120, "id":6},{"time": 120, "id":8},{"time": 120, "id":136}],
+                   "line":1
+                   },
+                           {
+                   "id":8,
+                   "coords": { "x": 74.0318, "y": 79.5261},
+                   "multi":true,
+                   "name": {"ru_RU":"U Gleisdreieck","en_EN":"U Gleisdreieck"},
+                   "edges": [{"time": 120, "id":7},{"time": 120, "id":9},{"time": 120, "id":29}],
+                   "line":1
+                   },
+                           {
+                   "id":9,
+                   "coords": { "x": 61.941100, "y": 79.9599},
+                   "multi":false,
+                   "name": {"ru_RU":"U Kurfürstenstraße","en_EN":"U Kurfürstenstraße"},
+                   "edges": [{"time": 120, "id":8},{"time": 120, "id":10}],
+                   "line":1
+                   },
+                           {
+                   "id":10,
+                   "coords": { "x": 53.7297, "y": 79.5972},
+                   "multi":true,
+                   "name": {"ru_RU":"U Nollendorfplatz","en_EN":"U Nollendorfplatz"},
+                   "edges": [{"time": 120, "id":9},{"time": 120, "id":11},{"time": 120, "id":31},{"time": 120, "id":43},{"time": 120, "id":58}],
+                   "line":1
+                   },
+                           {
+                   "id":11,
+                   "coords": { "x": 43.0005, "y": 81.7976},
+                   "multi":true,
+                   "name": {"ru_RU":"U Wittenbergplatz","en_EN":"U Wittenbergplatz"},
+                   "edges": [{"time": 120, "id":10},{"time": 120, "id":12},{"time": 120, "id":32},{"time": 120, "id":44}],
+                   "line":1
+                   },
+                           {
+                   "id":12,
+                   "coords": { "x": 31.436500, "y": 83.8223},
+                   "multi":true,
+                   "name": {"ru_RU":"U Kurfürstendamm","en_EN":"U Kurfürstendamm"},
+                   "edges": [{"time": 120, "id":11},{"time": 120, "id":13},{"time": 120, "id":185}],
+                   "line":1
+                   },
+                           {
+                   "id":13,
+                   "coords": { "x": 26.6968, "y": 82.8118},
+                   "multi":false,
+                   "name": {"ru_RU":"U Uhlandstraße","en_EN":"U Uhlandstraße"},
+                   "edges": [{"time": 120, "id":12}],
+                   "line":1
+                   },
+                           {
+                   "id":14,
+                   "coords": { "x": 111.72030, "y": 146.78},
+                   "multi":false,
+                   "name": {"ru_RU":"U Pankow","en_EN":"U Pankow"},
+                   "edges": [{"time": 120, "id":15}],
+                   "line":2
+                   },
+                           {
+                   "id":15,
+                   "coords": { "x": 113.278, "y": 139.3248},
+                   "multi":false,
+                   "name": {"ru_RU":"U Vinetastraße","en_EN":"U Vinetastraße"},
+                   "edges": [{"time": 120, "id":14},{"time": 120, "id":16}],
+                   "line":2
+                   },
+                           {
+                   "id":16,
+                   "coords": { "x": 113.71140, "y": 129.48850},
+                   "multi":false,
+                   "name": {"ru_RU":"U Schönhauser Allee","en_EN":"U Schönhauser Allee"},
+                   "edges": [{"time": 120, "id":15},{"time": 120, "id":17}],
+                   "line":2
+                   },
+                           {
+                   "id":17,
+                   "coords": { "x": 112.1769, "y": 121.5154},
+                   "multi":false,
+                   "name": {"ru_RU":"U Eberswalder Straße","en_EN":"U Eberswalder Straße"},
+                   "edges": [{"time": 120, "id":16},{"time": 120, "id":18}],
+                   "line":2
+                   },
+                           {
+                   "id":18,
+                   "coords": { "x": 112.68610, "y": 112.38990},
+                   "multi":false,
+                   "name": {"ru_RU":"U Senefelderplatz","en_EN":"U Senefelderplatz"},
+                   "edges": [{"time": 120, "id":17},{"time": 120, "id":19}],
+                   "line":2
+                   },
+                           {
+                   "id":19,
+                   "coords": { "x": 110.4868, "y": 107.69510},
+                   "multi":false,
+                   "name": {"ru_RU":"U Rosa-Luxemburg-Platz","en_EN":"U Rosa-Luxemburg-Platz"},
+                   "edges": [{"time": 120, "id":18},{"time": 120, "id":20}],
+                   "line":2
+                   },
+                           {
+                   "id":20,
+                   "coords": { "x": 113.90820, "y": 101.5849},
+                   "multi":true,
+                   "name": {"ru_RU":"U Alexanderplatz","en_EN":"U Alexanderplatz"},
+                   "edges": [{"time": 120, "id":19},{"time": 120, "id":21},{"time": 120, "id":63},{"time": 120, "id":166}],
+                   "line":2
+                   },
+                           {
+                   "id":21,
+                   "coords": { "x": 112.43230, "y": 97.2347},
+                   "multi":false,
+                   "name": {"ru_RU":"U Klosterstraße","en_EN":"U Klosterstraße"},
+                   "edges": [{"time": 120, "id":20},{"time": 120, "id":22}],
+                   "line":2
+                   },
+                           {
+                   "id":22,
+                   "coords": { "x": 110.17540, "y": 92.3348},
+                   "multi":false,
+                   "name": {"ru_RU":"U Märkisches Museum","en_EN":"U Märkisches Museum"},
+                   "edges": [{"time": 120, "id":21},{"time": 120, "id":23}],
+                   "line":2
+                   },
+                           {
+                   "id":23,
+                   "coords": { "x": 104.11550, "y": 91.2959},
+                   "multi":false,
+                   "name": {"ru_RU":"U Spittelmarkt","en_EN":"U Spittelmarkt"},
+                   "edges": [{"time": 120, "id":22},{"time": 120, "id":24}],
+                   "line":2
+                   },
+                           {
+                   "id":24,
+                   "coords": { "x": 95.59100, "y": 93.3502},
+                   "multi":false,
+                   "name": {"ru_RU":"U Hausvogteiplatz","en_EN":"U Hausvogteiplatz"},
+                   "edges": [{"time": 120, "id":23},{"time": 120, "id":25}],
+                   "line":2
+                   },
+                           {
+                   "id":25,
+                   "coords": { "x": 90.56320, "y": 92.1459},
+                   "multi":true,
+                   "name": {"ru_RU":"U Stadtmitte (U2)","en_EN":"U Stadtmitte (U2)"},
+                   "edges": [{"time": 120, "id":24},{"time": 120, "id":26},{"time": 120, "id":101}],
+                   "line":2
+                   },
+                           {
+                   "id":26,
+                   "coords": { "x": 85.09150, "y": 91.7915},
+                   "multi":false,
+                   "name": {"ru_RU":"U Mohrenstraße","en_EN":"U Mohrenstraße"},
+                   "edges": [{"time": 120, "id":25},{"time": 120, "id":27}],
+                   "line":2
+                   },
+                           {
+                   "id":27,
+                   "coords": { "x": 78.21470, "y": 89.1586},
+                   "multi":false,
+                   "name": {"ru_RU":"U Potsdamer Platz","en_EN":"U Potsdamer Platz"},
+                   "edges": [{"time": 120, "id":26},{"time": 120, "id":28}],
+                   "line":2
+                   },
+                           {
+                   "id":28,
+                   "coords": { "x": 74.9852, "y": 83.9086},
+                   "multi":false,
+                   "name": {"ru_RU":"U Mendelssohn-Bartholdy-Park","en_EN":"U Mendelssohn-Bartholdy-Park"},
+                   "edges": [{"time": 120, "id":27},{"time": 120, "id":29}],
+                   "line":2
+                   },
+                           {
+                   "id":29,
+                   "coords": { "x": 74.0318, "y": 79.5261},
+                   "multi":true,
+                   "name": {"ru_RU":"U Gleisdreieck","en_EN":"U Gleisdreieck"},
+                   "edges": [{"time": 120, "id":28},{"time": 120, "id":30},{"time": 120, "id":8}],
+                   "line":2
+                   },
+                           {
+                   "id":30,
+                   "coords": { "x": 63.2209, "y": 77.5858},
+                   "multi":false,
+                   "name": {"ru_RU":"U Bülowstraße","en_EN":"U Bülowstraße"},
+                   "edges": [{"time": 120, "id":29},{"time": 120, "id":31}],
+                   "line":2
+                   },
+                           {
+                   "id":31,
+                   "coords": { "x": 53.7297, "y": 79.5972},
+                   "multi":true,
+                   "name": {"ru_RU":"U Nollendorfplatz","en_EN":"U Nollendorfplatz"},
+                   "edges": [{"time": 120, "id":30},{"time": 120, "id":32},{"time": 120, "id":10},{"time": 120, "id":43},{"time": 120, "id":58}],
+                   "line":2
+                   },
+                           {
+                   "id":32,
+                   "coords": { "x": 43.0005, "y": 81.7976},
+                   "multi":true,
+                   "name": {"ru_RU":"U Wittenbergplatz","en_EN":"U Wittenbergplatz"},
+                   "edges": [{"time": 120, "id":31},{"time": 120, "id":33},{"time": 120, "id":11},{"time": 120, "id":44}],
+                   "line":2
+                   },
+                           {
+                   "id":33,
+                   "coords": { "x": 33.0236, "y": 85.8669},
+                   "multi":true,
+                   "name": {"ru_RU":"U Zoologischer Garten","en_EN":"U Zoologischer Garten"},
+                   "edges": [{"time": 120, "id":32},{"time": 120, "id":34},{"time": 120, "id":184}],
+                   "line":2
+                   },
+                           {
+                   "id":34,
+                   "coords": { "x": 22.1613, "y": 91.8853},
+                   "multi":false,
+                   "name": {"ru_RU":"U Ernst-Reuter-Platz","en_EN":"U Ernst-Reuter-Platz"},
+                   "edges": [{"time": 120, "id":33},{"time": 120, "id":35}],
+                   "line":2
+                   },
+                           {
+                   "id":35,
+                   "coords": { "x": 10.5328, "y": 91.837},
+                   "multi":false,
+                   "name": {"ru_RU":"U Deutsche Oper","en_EN":"U Deutsche Oper"},
+                   "edges": [{"time": 120, "id":34},{"time": 120, "id":36}],
+                   "line":2
+                   },
+                           {
+                   "id":36,
+                   "coords": { "x": 5.2393, "y": 91.51480},
+                   "multi":true,
+                   "name": {"ru_RU":"U Bismarckstraße","en_EN":"U Bismarckstraße"},
+                   "edges": [{"time": 120, "id":35},{"time": 120, "id":37},{"time": 120, "id":125}],
+                   "line":2
+                   },
+                           {
+                   "id":37,
+                   "coords": { "x": -3.6694, "y": 90.9137},
+                   "multi":false,
+                   "name": {"ru_RU":"U Sophie-Charlotte-Platz","en_EN":"U Sophie-Charlotte-Platz"},
+                   "edges": [{"time": 120, "id":36},{"time": 120, "id":38}],
+                   "line":2
+                   },
+                           {
+                   "id":38,
+                   "coords": { "x": -16.8737, "y": 90.0921},
+                   "multi":false,
+                   "name": {"ru_RU":"U Kaiserdamm","en_EN":"U Kaiserdamm"},
+                   "edges": [{"time": 120, "id":37},{"time": 120, "id":39}],
+                   "line":2
+                   },
+                           {
+                   "id":39,
+                   "coords": { "x": -27.7783, "y": 89.9869},
+                   "multi":false,
+                   "name": {"ru_RU":"U Theodor-Heuss-Platz","en_EN":"U Theodor-Heuss-Platz"},
+                   "edges": [{"time": 120, "id":38},{"time": 120, "id":40}],
+                   "line":2
+                   },
+                           {
+                   "id":40,
+                   "coords": { "x": -40.7643, "y": 96.2154},
+                   "multi":false,
+                   "name": {"ru_RU":"U Neu-Westend","en_EN":"U Neu-Westend"},
+                   "edges": [{"time": 120, "id":39},{"time": 120, "id":41}],
+                   "line":2
+                   },
+                           {
+                   "id":41,
+                   "coords": { "x": -49.5521, "y": 96.8643},
+                   "multi":false,
+                   "name": {"ru_RU":"U Olympia-Stadion","en_EN":"U Olympia-Stadion"},
+                   "edges": [{"time": 120, "id":40},{"time": 120, "id":42}],
+                   "line":2
+                   },
+                           {
+                   "id":42,
+                   "coords": { "x": -58.5809, "y": 105.6744},
+                   "multi":false,
+                   "name": {"ru_RU":"U Ruhleben","en_EN":"U Ruhleben"},
+                   "edges": [{"time": 120, "id":41}],
+                   "line":2
+                   },
+                           {
+                   "id":43,
+                   "coords": { "x": 53.7297, "y": 79.5972},
+                   "multi":true,
+                   "name": {"ru_RU":"U Nollendorfplatz","en_EN":"U Nollendorfplatz"},
+                   "edges": [{"time": 120, "id":44},{"time": 120, "id":10},{"time": 120, "id":31},{"time": 120, "id":58}],
+                   "line":3
+                   },
+                           {
+                   "id":44,
+                   "coords": { "x": 43.0005, "y": 81.7976},
+                   "multi":true,
+                   "name": {"ru_RU":"U Wittenbergplatz","en_EN":"U Wittenbergplatz"},
+                   "edges": [{"time": 120, "id":43},{"time": 120, "id":45},{"time": 120, "id":32},{"time": 120, "id":11}],
+                   "line":3
+                   },
+                           {
+                   "id":45,
+                   "coords": { "x": 36.464400, "y": 80.4423},
+                   "multi":false,
+                   "name": {"ru_RU":"U Augsburger Straße","en_EN":"U Augsburger Straße"},
+                   "edges": [{"time": 120, "id":44},{"time": 120, "id":46}],
+                   "line":3
+                   },
+                           {
+                   "id":46,
+                   "coords": { "x": 31.0091, "y": 76.4453},
+                   "multi":true,
+                   "name": {"ru_RU":"U Spichernstraße","en_EN":"U Spichernstraße"},
+                   "edges": [{"time": 120, "id":45},{"time": 120, "id":47},{"time": 120, "id":186}],
+                   "line":3
+                   },
+                           {
+                   "id":47,
+                   "coords": { "x": 24.7547, "y": 74.0847},
+                   "multi":false,
+                   "name": {"ru_RU":"U Hohenzollernplatz","en_EN":"U Hohenzollernplatz"},
+                   "edges": [{"time": 120, "id":46},{"time": 120, "id":48}],
+                   "line":3
+                   },
+                           {
+                   "id":48,
+                   "coords": { "x": 15.1361, "y": 70.5442},
+                   "multi":true,
+                   "name": {"ru_RU":"U Fehrbelliner Platz","en_EN":"U Fehrbelliner Platz"},
+                   "edges": [{"time": 120, "id":47},{"time": 120, "id":49},{"time": 120, "id":129}],
+                   "line":3
+                   },
+                           {
+                   "id":49,
+                   "coords": { "x": 12.8835, "y": 59.7961},
+                   "multi":false,
+                   "name": {"ru_RU":"U Heidelberger Platz","en_EN":"U Heidelberger Platz"},
+                   "edges": [{"time": 120, "id":48},{"time": 120, "id":50}],
+                   "line":3
+                   },
+                           {
+                   "id":50,
+                   "coords": { "x": 14.415000, "y": 53.2464},
+                   "multi":false,
+                   "name": {"ru_RU":"U Rüdesheimer Platz","en_EN":"U Rüdesheimer Platz"},
+                   "edges": [{"time": 120, "id":49},{"time": 120, "id":51}],
+                   "line":3
+                   },
+                           {
+                   "id":51,
+                   "coords": { "x": 8.8711, "y": 47.0266},
+                   "multi":false,
+                   "name": {"ru_RU":"U Breitenbachplatz","en_EN":"U Breitenbachplatz"},
+                   "edges": [{"time": 120, "id":50},{"time": 120, "id":52}],
+                   "line":3
+                   },
+                           {
+                   "id":52,
+                   "coords": { "x": -4.2481, "y": 44.103300},
+                   "multi":false,
+                   "name": {"ru_RU":"U Podbielskiallee","en_EN":"U Podbielskiallee"},
+                   "edges": [{"time": 120, "id":51},{"time": 120, "id":53}],
+                   "line":3
+                   },
+                           {
+                   "id":53,
+                   "coords": { "x": -10.2951, "y": 37.409600},
+                   "multi":false,
+                   "name": {"ru_RU":"U Dahlem-Dorf","en_EN":"U Dahlem-Dorf"},
+                   "edges": [{"time": 120, "id":52},{"time": 120, "id":54}],
+                   "line":3
+                   },
+                           {
+                   "id":54,
+                   "coords": { "x": -18.256, "y": 31.038800},
+                   "multi":false,
+                   "name": {"ru_RU":"U Freie Universität (Thielplatz)","en_EN":"U Freie Universität (Thielplatz)"},
+                   "edges": [{"time": 120, "id":53},{"time": 120, "id":55}],
+                   "line":3
+                   },
+                           {
+                   "id":55,
+                   "coords": { "x": -30.928900, "y": 30.3608},
+                   "multi":false,
+                   "name": {"ru_RU":"U Oskar-Helene-Heim","en_EN":"U Oskar-Helene-Heim"},
+                   "edges": [{"time": 120, "id":54},{"time": 120, "id":56}],
+                   "line":3
+                   },
+                           {
+                   "id":56,
+                   "coords": { "x": -46.924800, "y": 29.8912},
+                   "multi":false,
+                   "name": {"ru_RU":"U Onkel Toms Hütte","en_EN":"U Onkel Toms Hütte"},
+                   "edges": [{"time": 120, "id":55},{"time": 120, "id":57}],
+                   "line":3
+                   },
+                           {
+                   "id":57,
+                   "coords": { "x": -58.6079, "y": 23.4481},
+                   "multi":false,
+                   "name": {"ru_RU":"U Krumme Lanke","en_EN":"U Krumme Lanke"},
+                   "edges": [{"time": 120, "id":56}],
+                   "line":3
+                   },
+                           {
+                   "id":58,
+                   "coords": { "x": 53.7297, "y": 79.5972},
+                   "multi":true,
+                   "name": {"ru_RU":"U Nollendorfplatz","en_EN":"U Nollendorfplatz"},
+                   "edges": [{"time": 120, "id":59},{"time": 120, "id":10},{"time": 120, "id":31},{"time": 120, "id":43}],
+                   "line":4
+                   },
+                           {
+                   "id":59,
+                   "coords": { "x": 43.185500, "y": 76.1755},
+                   "multi":false,
+                   "name": {"ru_RU":"U Viktoria-Luise-Platz","en_EN":"U Viktoria-Luise-Platz"},
+                   "edges": [{"time": 120, "id":58},{"time": 120, "id":60}],
+                   "line":4
+                   },
+                           {
+                   "id":60,
+                   "coords": { "x": 40.543600, "y": 68.5755},
+                   "multi":true,
+                   "name": {"ru_RU":"U Bayerischer Platz","en_EN":"U Bayerischer Platz"},
+                   "edges": [{"time": 120, "id":59},{"time": 120, "id":61},{"time": 120, "id":132}],
+                   "line":4
+                   },
+                           {
+                   "id":61,
+                   "coords": { "x": 41.972, "y": 63.1773},
+                   "multi":false,
+                   "name": {"ru_RU":"U Rathaus Schöneberg","en_EN":"U Rathaus Schöneberg"},
+                   "edges": [{"time": 120, "id":60},{"time": 120, "id":62}],
+                   "line":4
+                   },
+                           {
+                   "id":62,
+                   "coords": { "x": 43.6736, "y": 58.987},
+                   "multi":false,
+                   "name": {"ru_RU":"U Innsbrucker Platz","en_EN":"U Innsbrucker Platz"},
+                   "edges": [{"time": 120, "id":61}],
+                   "line":4
+                   },
+                           {
+                   "id":63,
+                   "coords": { "x": 113.90820, "y": 101.5849},
+                   "multi":true,
+                   "name": {"ru_RU":"U Alexanderplatz","en_EN":"U Alexanderplatz"},
+                   "edges": [{"time": 120, "id":64},{"time": 120, "id":20},{"time": 120, "id":166}],
+                   "line":5
+                   },
+                           {
+                   "id":64,
+                   "coords": { "x": 121.11250, "y": 100.79},
+                   "multi":false,
+                   "name": {"ru_RU":"U Schillingstraße","en_EN":"U Schillingstraße"},
+                   "edges": [{"time": 120, "id":63},{"time": 120, "id":65}],
+                   "line":5
+                   },
+                           {
+                   "id":65,
+                   "coords": { "x": 131.5264, "y": 98.0981},
+                   "multi":false,
+                   "name": {"ru_RU":"U Strausberger Platz","en_EN":"U Strausberger Platz"},
+                   "edges": [{"time": 120, "id":64},{"time": 120, "id":66}],
+                   "line":5
+                   },
+                           {
+                   "id":66,
+                   "coords": { "x": 144.7135, "y": 96.74650},
+                   "multi":false,
+                   "name": {"ru_RU":"U Weberwiese","en_EN":"U Weberwiese"},
+                   "edges": [{"time": 120, "id":65},{"time": 120, "id":67}],
+                   "line":5
+                   },
+                           {
+                   "id":67,
+                   "coords": { "x": 153.9745, "y": 95.818},
+                   "multi":false,
+                   "name": {"ru_RU":"U Frankfurter Tor","en_EN":"U Frankfurter Tor"},
+                   "edges": [{"time": 120, "id":66},{"time": 120, "id":68}],
+                   "line":5
+                   },
+                           {
+                   "id":68,
+                   "coords": { "x": 164.44050, "y": 94.7399},
+                   "multi":false,
+                   "name": {"ru_RU":"U Samariterstraße","en_EN":"U Samariterstraße"},
+                   "edges": [{"time": 120, "id":67},{"time": 120, "id":69}],
+                   "line":5
+                   },
+                           {
+                   "id":69,
+                   "coords": { "x": 175.43640, "y": 93.62270},
+                   "multi":false,
+                   "name": {"ru_RU":"U Frankfurter Allee","en_EN":"U Frankfurter Allee"},
+                   "edges": [{"time": 120, "id":68},{"time": 120, "id":70}],
+                   "line":5
+                   },
+                           {
+                   "id":70,
+                   "coords": { "x": 187.07920, "y": 92.45410},
+                   "multi":false,
+                   "name": {"ru_RU":"U Magdalenenstraße","en_EN":"U Magdalenenstraße"},
+                   "edges": [{"time": 120, "id":69},{"time": 120, "id":71}],
+                   "line":5
+                   },
+                           {
+                   "id":71,
+                   "coords": { "x": 198.6022, "y": 91.1151},
+                   "multi":false,
+                   "name": {"ru_RU":"U Lichtenberg","en_EN":"U Lichtenberg"},
+                   "edges": [{"time": 120, "id":70},{"time": 120, "id":72}],
+                   "line":5
+                   },
+                           {
+                   "id":72,
+                   "coords": { "x": 212.83870, "y": 86.1644},
+                   "multi":false,
+                   "name": {"ru_RU":"U Friedrichsfelde","en_EN":"U Friedrichsfelde"},
+                   "edges": [{"time": 120, "id":71},{"time": 120, "id":73}],
+                   "line":5
+                   },
+                           {
+                   "id":73,
+                   "coords": { "x": 222.95950, "y": 77.7241},
+                   "multi":false,
+                   "name": {"ru_RU":"U Tierpark","en_EN":"U Tierpark"},
+                   "edges": [{"time": 120, "id":72},{"time": 120, "id":74}],
+                   "line":5
+                   },
+                           {
+                   "id":74,
+                   "coords": { "x": 246.5321, "y": 79.60470},
+                   "multi":false,
+                   "name": {"ru_RU":"U Biesdorf-Süd","en_EN":"U Biesdorf-Süd"},
+                   "edges": [{"time": 120, "id":73},{"time": 120, "id":75}],
+                   "line":5
+                   },
+                           {
+                   "id":75,
+                   "coords": { "x": 260.878, "y": 85.2929},
+                   "multi":false,
+                   "name": {"ru_RU":"U Elsterwerdaer Platz","en_EN":"U Elsterwerdaer Platz"},
+                   "edges": [{"time": 120, "id":74},{"time": 120, "id":76}],
+                   "line":5
+                   },
+                           {
+                   "id":76,
+                   "coords": { "x": 288.9176, "y": 101.15350},
+                   "multi":false,
+                   "name": {"ru_RU":"U Kaulsdorf-Nord","en_EN":"U Kaulsdorf-Nord"},
+                   "edges": [{"time": 120, "id":75},{"time": 120, "id":77}],
+                   "line":5
+                   },
+                           {
+                   "id":77,
+                   "coords": { "x": 290.6369, "y": 108.6152},
+                   "multi":false,
+                   "name": {"ru_RU":"U Kienberg (Gärten der Welt)","en_EN":"U Kienberg (Gärten der Welt)"},
+                   "edges": [{"time": 120, "id":76},{"time": 120, "id":78}],
+                   "line":5
+                   },
+                           {
+                   "id":78,
+                   "coords": { "x": 296.4015, "y": 113.8331},
+                   "multi":false,
+                   "name": {"ru_RU":"U Cottbusser Platz","en_EN":"U Cottbusser Platz"},
+                   "edges": [{"time": 120, "id":77},{"time": 120, "id":79}],
+                   "line":5
+                   },
+                           {
+                   "id":79,
+                   "coords": { "x": 306.672, "y": 116.68830},
+                   "multi":false,
+                   "name": {"ru_RU":"U Hellersdorf","en_EN":"U Hellersdorf"},
+                   "edges": [{"time": 120, "id":78},{"time": 120, "id":80}],
+                   "line":5
+                   },
+                           {
+                   "id":80,
+                   "coords": { "x": 318.34630, "y": 118.977},
+                   "multi":false,
+                   "name": {"ru_RU":"U Louis-Lewin-Straße","en_EN":"U Louis-Lewin-Straße"},
+                   "edges": [{"time": 120, "id":79},{"time": 120, "id":81}],
+                   "line":5
+                   },
+                           {
+                   "id":81,
+                   "coords": { "x": 333.123, "y": 118.43350},
+                   "multi":false,
+                   "name": {"ru_RU":"U Hönow","en_EN":"U Hönow"},
+                   "edges": [{"time": 120, "id":80},{"time": 120, "id":82}],
+                   "line":5
+                   },
+                           {
+                   "id":82,
+                   "coords": { "x": 72.95450, "y": 100.1123},
+                   "multi":false,
+                   "name": {"ru_RU":"U Bundestag","en_EN":"U Bundestag"},
+                   "edges": [{"time": 120, "id":81},{"time": 120, "id":83}],
+                   "line":5
+                   },
+                           {
+                   "id":83,
+                   "coords": { "x": 80.9897, "y": 96.60470},
+                   "multi":false,
+                   "name": {"ru_RU":"U Brandenburger Tor","en_EN":"U Brandenburger Tor"},
+                   "edges": [{"time": 120, "id":82}],
+                   "line":5
+                   },
+                           {
+                   "id":84,
+                   "coords": { "x": -16.2486, "y": 169.4565},
+                   "multi":false,
+                   "name": {"ru_RU":"U Alt-Tegel","en_EN":"U Alt-Tegel"},
+                   "edges": [{"time": 120, "id":85}],
+                   "line":6
+                   },
+                           {
+                   "id":85,
+                   "coords": { "x": -9.4082, "y": 161.8407},
+                   "multi":false,
+                   "name": {"ru_RU":"U Borsigwerke","en_EN":"U Borsigwerke"},
+                   "edges": [{"time": 120, "id":84},{"time": 120, "id":86}],
+                   "line":6
+                   },
+                           {
+                   "id":86,
+                   "coords": { "x": -3.8868, "y": 155.692},
+                   "multi":false,
+                   "name": {"ru_RU":"U Holzhauser Straße","en_EN":"U Holzhauser Straße"},
+                   "edges": [{"time": 120, "id":85},{"time": 120, "id":87}],
+                   "line":6
+                   },
+                           {
+                   "id":87,
+                   "coords": { "x": 2.9254000, "y": 151.0338},
+                   "multi":false,
+                   "name": {"ru_RU":"U Otisstraße","en_EN":"U Otisstraße"},
+                   "edges": [{"time": 120, "id":86},{"time": 120, "id":88}],
+                   "line":6
+                   },
+                           {
+                   "id":88,
+                   "coords": { "x": 12.6219, "y": 146.8172},
+                   "multi":false,
+                   "name": {"ru_RU":"U Scharnweberstraße","en_EN":"U Scharnweberstraße"},
+                   "edges": [{"time": 120, "id":87},{"time": 120, "id":89}],
+                   "line":6
+                   },
+                           {
+                   "id":89,
+                   "coords": { "x": 27.129, "y": 143.22740},
+                   "multi":false,
+                   "name": {"ru_RU":"U Kurt-Schumacher-Platz","en_EN":"U Kurt-Schumacher-Platz"},
+                   "edges": [{"time": 120, "id":88},{"time": 120, "id":90}],
+                   "line":6
+                   },
+                           {
+                   "id":90,
+                   "coords": { "x": 34.6178, "y": 140.2382},
+                   "multi":false,
+                   "name": {"ru_RU":"U Afrikanische Straße","en_EN":"U Afrikanische Straße"},
+                   "edges": [{"time": 120, "id":89},{"time": 120, "id":91}],
+                   "line":6
+                   },
+                           {
+                   "id":91,
+                   "coords": { "x": 40.984300, "y": 136.6893},
+                   "multi":false,
+                   "name": {"ru_RU":"U Rehberge","en_EN":"U Rehberge"},
+                   "edges": [{"time": 120, "id":90},{"time": 120, "id":92}],
+                   "line":6
+                   },
+                           {
+                   "id":92,
+                   "coords": { "x": 53.1176, "y": 129.8029},
+                   "multi":false,
+                   "name": {"ru_RU":"U Seestraße","en_EN":"U Seestraße"},
+                   "edges": [{"time": 120, "id":91},{"time": 120, "id":93}],
+                   "line":6
+                   },
+                           {
+                   "id":93,
+                   "coords": { "x": 59.1672, "y": 126.3833},
+                   "multi":true,
+                   "name": {"ru_RU":"U Leopoldplatz","en_EN":"U Leopoldplatz"},
+                   "edges": [{"time": 120, "id":92},{"time": 120, "id":94},{"time": 120, "id":178}],
+                   "line":6
+                   },
+                           {
+                   "id":94,
+                   "coords": { "x": 65.03750, "y": 123.0625},
+                   "multi":false,
+                   "name": {"ru_RU":"U Wedding","en_EN":"U Wedding"},
+                   "edges": [{"time": 120, "id":93},{"time": 120, "id":95}],
+                   "line":6
+                   },
+                           {
+                   "id":95,
+                   "coords": { "x": 70.28880, "y": 120.0429},
+                   "multi":false,
+                   "name": {"ru_RU":"U Reinickendorfer Straße","en_EN":"U Reinickendorfer Straße"},
+                   "edges": [{"time": 120, "id":94},{"time": 120, "id":96}],
+                   "line":6
+                   },
+                           {
+                   "id":96,
+                   "coords": { "x": 77.318, "y": 115.15740},
+                   "multi":false,
+                   "name": {"ru_RU":"U Schwartzkopffstraße","en_EN":"U Schwartzkopffstraße"},
+                   "edges": [{"time": 120, "id":95},{"time": 120, "id":97}],
+                   "line":6
+                   },
+                           {
+                   "id":97,
+                   "coords": { "x": 82.44890, "y": 111.0582},
+                   "multi":false,
+                   "name": {"ru_RU":"U Naturkundemuseum","en_EN":"U Naturkundemuseum"},
+                   "edges": [{"time": 120, "id":96},{"time": 120, "id":98}],
+                   "line":6
+                   },
+                           {
+                   "id":98,
+                   "coords": { "x": 87.3583, "y": 105.5998},
+                   "multi":false,
+                   "name": {"ru_RU":"U Oranienburger Tor","en_EN":"U Oranienburger Tor"},
+                   "edges": [{"time": 120, "id":97},{"time": 120, "id":99}],
+                   "line":6
+                   },
+                           {
+                   "id":99,
+                   "coords": { "x": 88.28620, "y": 100.26350},
+                   "multi":false,
+                   "name": {"ru_RU":"U Friedrichstraße","en_EN":"U Friedrichstraße"},
+                   "edges": [{"time": 120, "id":98},{"time": 120, "id":100}],
+                   "line":6
+                   },
+                           {
+                   "id":100,
+                   "coords": { "x": 89.17060, "y": 94.82480},
+                   "multi":false,
+                   "name": {"ru_RU":"U Französische Straße","en_EN":"U Französische Straße"},
+                   "edges": [{"time": 120, "id":99},{"time": 120, "id":101}],
+                   "line":6
+                   },
+                           {
+                   "id":101,
+                   "coords": { "x": 90.56320, "y": 92.1459},
+                   "multi":true,
+                   "name": {"ru_RU":"U Stadtmitte (U2)","en_EN":"U Stadtmitte (U2)"},
+                   "edges": [{"time": 120, "id":100},{"time": 120, "id":102},{"time": 120, "id":25}],
+                   "line":6
+                   },
+                           {
+                   "id":102,
+                   "coords": { "x": 90.61250, "y": 86.0447},
+                   "multi":false,
+                   "name": {"ru_RU":"U Kochstraße/Checkpoint Charlie","en_EN":"U Kochstraße/Checkpoint Charlie"},
+                   "edges": [{"time": 120, "id":101},{"time": 120, "id":103}],
+                   "line":6
+                   },
+                           {
+                   "id":103,
+                   "coords": { "x": 91.7234, "y": 78.8198},
+                   "multi":true,
+                   "name": {"ru_RU":"U Hallesches Tor (U6)","en_EN":"U Hallesches Tor (U6)"},
+                   "edges": [{"time": 120, "id":102},{"time": 120, "id":104},{"time": 120, "id":6}],
+                   "line":6
+                   },
+                           {
+                   "id":104,
+                   "coords": { "x": 88.6168, "y": 74.13080},
+                   "multi":true,
+                   "name": {"ru_RU":"U Mehringdamm","en_EN":"U Mehringdamm"},
+                   "edges": [{"time": 120, "id":103},{"time": 120, "id":105},{"time": 120, "id":137}],
+                   "line":6
+                   },
+                           {
+                   "id":105,
+                   "coords": { "x": 85.9508, "y": 66.0843},
+                   "multi":false,
+                   "name": {"ru_RU":"U Platz der Luftbrücke","en_EN":"U Platz der Luftbrücke"},
+                   "edges": [{"time": 120, "id":104},{"time": 120, "id":106}],
+                   "line":6
+                   },
+                           {
+                   "id":106,
+                   "coords": { "x": 86.2561, "y": 58.0189},
+                   "multi":false,
+                   "name": {"ru_RU":"U Paradestraße","en_EN":"U Paradestraße"},
+                   "edges": [{"time": 120, "id":105},{"time": 120, "id":107}],
+                   "line":6
+                   },
+                           {
+                   "id":107,
+                   "coords": { "x": 85.629, "y": 49.568000},
+                   "multi":false,
+                   "name": {"ru_RU":"U Tempelhof","en_EN":"U Tempelhof"},
+                   "edges": [{"time": 120, "id":106},{"time": 120, "id":108}],
+                   "line":6
+                   },
+                           {
+                   "id":108,
+                   "coords": { "x": 85.6299, "y": 45.5217},
+                   "multi":false,
+                   "name": {"ru_RU":"U Alt-Tempelhof","en_EN":"U Alt-Tempelhof"},
+                   "edges": [{"time": 120, "id":107},{"time": 120, "id":109}],
+                   "line":6
+                   },
+                           {
+                   "id":109,
+                   "coords": { "x": 84.6346, "y": 39.976400},
+                   "multi":false,
+                   "name": {"ru_RU":"U Kaiserin-Augusta-Straße","en_EN":"U Kaiserin-Augusta-Straße"},
+                   "edges": [{"time": 120, "id":108},{"time": 120, "id":110}],
+                   "line":6
+                   },
+                           {
+                   "id":110,
+                   "coords": { "x": 84.4659, "y": 33.7449},
+                   "multi":false,
+                   "name": {"ru_RU":"U Ullsteinstraße","en_EN":"U Ullsteinstraße"},
+                   "edges": [{"time": 120, "id":109},{"time": 120, "id":111}],
+                   "line":6
+                   },
+                           {
+                   "id":111,
+                   "coords": { "x": 85.6905, "y": 26.267400},
+                   "multi":false,
+                   "name": {"ru_RU":"U Westphalweg","en_EN":"U Westphalweg"},
+                   "edges": [{"time": 120, "id":110},{"time": 120, "id":112}],
+                   "line":6
+                   },
+                           {
+                   "id":112,
+                   "coords": { "x": 87.5138, "y": 19.6754},
+                   "multi":false,
+                   "name": {"ru_RU":"U Alt Mariendorf","en_EN":"U Alt Mariendorf"},
+                   "edges": [{"time": 120, "id":111}],
+                   "line":6
+                   },
+                           {
+                   "id":113,
+                   "coords": { "x": -100.2258, "y": 115.1709},
+                   "multi":false,
+                   "name": {"ru_RU":"U Rathaus Spandau","en_EN":"U Rathaus Spandau"},
+                   "edges": [{"time": 120, "id":114}],
+                   "line":7
+                   },
+                           {
+                   "id":114,
+                   "coords": { "x": -93.7427, "y": 118.83810},
+                   "multi":false,
+                   "name": {"ru_RU":"U Altstadt Spandau","en_EN":"U Altstadt Spandau"},
+                   "edges": [{"time": 120, "id":113},{"time": 120, "id":115}],
+                   "line":7
+                   },
+                           {
+                   "id":115,
+                   "coords": { "x": -82.4642, "y": 117.652},
+                   "multi":false,
+                   "name": {"ru_RU":"U Zitadelle","en_EN":"U Zitadelle"},
+                   "edges": [{"time": 120, "id":114},{"time": 120, "id":116}],
+                   "line":7
+                   },
+                           {
+                   "id":116,
+                   "coords": { "x": -66.9058, "y": 118.7183},
+                   "multi":false,
+                   "name": {"ru_RU":"U Haselhorst","en_EN":"U Haselhorst"},
+                   "edges": [{"time": 120, "id":115},{"time": 120, "id":117}],
+                   "line":7
+                   },
+                           {
+                   "id":117,
+                   "coords": { "x": -52.1824, "y": 117.98190},
+                   "multi":false,
+                   "name": {"ru_RU":"U Paulsternstraße","en_EN":"U Paulsternstraße"},
+                   "edges": [{"time": 120, "id":116},{"time": 120, "id":118}],
+                   "line":7
+                   },
+                           {
+                   "id":118,
+                   "coords": { "x": -37.694, "y": 116.99510},
+                   "multi":false,
+                   "name": {"ru_RU":"U Rohrdamm","en_EN":"U Rohrdamm"},
+                   "edges": [{"time": 120, "id":117},{"time": 120, "id":119}],
+                   "line":7
+                   },
+                           {
+                   "id":119,
+                   "coords": { "x": -27.2362, "y": 116.7748},
+                   "multi":false,
+                   "name": {"ru_RU":"U Siemensdamm","en_EN":"U Siemensdamm"},
+                   "edges": [{"time": 120, "id":118},{"time": 120, "id":120}],
+                   "line":7
+                   },
+                           {
+                   "id":120,
+                   "coords": { "x": -13.8964, "y": 116.62620},
+                   "multi":false,
+                   "name": {"ru_RU":"U Halemweg","en_EN":"U Halemweg"},
+                   "edges": [{"time": 120, "id":119},{"time": 120, "id":121}],
+                   "line":7
+                   },
+                           {
+                   "id":121,
+                   "coords": { "x": -6.6991000, "y": 116.27940},
+                   "multi":false,
+                   "name": {"ru_RU":"U Jakob-Kaiser-Platz","en_EN":"U Jakob-Kaiser-Platz"},
+                   "edges": [{"time": 120, "id":120},{"time": 120, "id":122}],
+                   "line":7
+                   },
+                           {
+                   "id":122,
+                   "coords": { "x": 0.6301, "y": 110.78790},
+                   "multi":false,
+                   "name": {"ru_RU":"U Jungfernheide","en_EN":"U Jungfernheide"},
+                   "edges": [{"time": 120, "id":121},{"time": 120, "id":123}],
+                   "line":7
+                   },
+                           {
+                   "id":123,
+                   "coords": { "x": 4.7721, "y": 106.3437},
+                   "multi":false,
+                   "name": {"ru_RU":"U Mierendorffplatz","en_EN":"U Mierendorffplatz"},
+                   "edges": [{"time": 120, "id":122},{"time": 120, "id":124}],
+                   "line":7
+                   },
+                           {
+                   "id":124,
+                   "coords": { "x": 6.588, "y": 97.387},
+                   "multi":false,
+                   "name": {"ru_RU":"U Richard-Wagner-Platz","en_EN":"U Richard-Wagner-Platz"},
+                   "edges": [{"time": 120, "id":123},{"time": 120, "id":125}],
+                   "line":7
+                   },
+                           {
+                   "id":125,
+                   "coords": { "x": 5.2393, "y": 91.51480},
+                   "multi":true,
+                   "name": {"ru_RU":"U Bismarckstraße","en_EN":"U Bismarckstraße"},
+                   "edges": [{"time": 120, "id":124},{"time": 120, "id":126},{"time": 120, "id":36}],
+                   "line":7
+                   },
+                           {
+                   "id":126,
+                   "coords": { "x": 6.6372, "y": 86.67490},
+                   "multi":false,
+                   "name": {"ru_RU":"U Wilmersdorfer Straße","en_EN":"U Wilmersdorfer Straße"},
+                   "edges": [{"time": 120, "id":125},{"time": 120, "id":127}],
+                   "line":7
+                   },
+                           {
+                   "id":127,
+                   "coords": { "x": 7.3226, "y": 80.00280},
+                   "multi":false,
+                   "name": {"ru_RU":"U Adenauerplatz","en_EN":"U Adenauerplatz"},
+                   "edges": [{"time": 120, "id":126},{"time": 120, "id":128}],
+                   "line":7
+                   },
+                           {
+                   "id":128,
+                   "coords": { "x": 9.0745, "y": 74.53150},
+                   "multi":false,
+                   "name": {"ru_RU":"U Konstanzer Straße","en_EN":"U Konstanzer Straße"},
+                   "edges": [{"time": 120, "id":127},{"time": 120, "id":129}],
+                   "line":7
+                   },
+                           {
+                   "id":129,
+                   "coords": { "x": 15.1361, "y": 70.5442},
+                   "multi":true,
+                   "name": {"ru_RU":"U Fehrbelliner Platz","en_EN":"U Fehrbelliner Platz"},
+                   "edges": [{"time": 120, "id":128},{"time": 120, "id":130},{"time": 120, "id":48}],
+                   "line":7
+                   },
+                           {
+                   "id":130,
+                   "coords": { "x": 20.544900, "y": 66.4895},
+                   "multi":false,
+                   "name": {"ru_RU":"U Blissestraße","en_EN":"U Blissestraße"},
+                   "edges": [{"time": 120, "id":129},{"time": 120, "id":131}],
+                   "line":7
+                   },
+                           {
+                   "id":131,
+                   "coords": { "x": 31.0103, "y": 67.3298},
+                   "multi":true,
+                   "name": {"ru_RU":"U Berliner Straße","en_EN":"U Berliner Straße"},
+                   "edges": [{"time": 120, "id":130},{"time": 120, "id":132},{"time": 120, "id":188}],
+                   "line":7
+                   },
+                           {
+                   "id":132,
+                   "coords": { "x": 40.543600, "y": 68.5755},
+                   "multi":true,
+                   "name": {"ru_RU":"U Bayerischer Platz","en_EN":"U Bayerischer Platz"},
+                   "edges": [{"time": 120, "id":131},{"time": 120, "id":133},{"time": 120, "id":60}],
+                   "line":7
+                   },
+                           {
+                   "id":133,
+                   "coords": { "x": 50.1694, "y": 69.55290},
+                   "multi":false,
+                   "name": {"ru_RU":"U Eisenacher Straße","en_EN":"U Eisenacher Straße"},
+                   "edges": [{"time": 120, "id":132},{"time": 120, "id":134}],
+                   "line":7
+                   },
+                           {
+                   "id":134,
+                   "coords": { "x": 60.219800, "y": 70.3665},
+                   "multi":false,
+                   "name": {"ru_RU":"U Kleistpark","en_EN":"U Kleistpark"},
+                   "edges": [{"time": 120, "id":133},{"time": 120, "id":135}],
+                   "line":7
+                   },
+                           {
+                   "id":135,
+                   "coords": { "x": 70.68910, "y": 72.9715},
+                   "multi":false,
+                   "name": {"ru_RU":"U Yorckstraße","en_EN":"U Yorckstraße"},
+                   "edges": [{"time": 120, "id":134},{"time": 120, "id":136}],
+                   "line":7
+                   },
+                           {
+                   "id":136,
+                   "coords": { "x": 83.123, "y": 78.6927},
+                   "multi":true,
+                   "name": {"ru_RU":"U Möckernbrücke","en_EN":"U Möckernbrücke"},
+                   "edges": [{"time": 120, "id":135},{"time": 120, "id":137},{"time": 120, "id":7}],
+                   "line":7
+                   },
+                           {
+                   "id":137,
+                   "coords": { "x": 88.6168, "y": 74.13080},
+                   "multi":true,
+                   "name": {"ru_RU":"U Mehringdamm","en_EN":"U Mehringdamm"},
+                   "edges": [{"time": 120, "id":136},{"time": 120, "id":138},{"time": 120, "id":104}],
+                   "line":7
+                   },
+                           {
+                   "id":138,
+                   "coords": { "x": 95.8247, "y": 71.2895},
+                   "multi":false,
+                   "name": {"ru_RU":"U Gneisenaustraße","en_EN":"U Gneisenaustraße"},
+                   "edges": [{"time": 120, "id":137},{"time": 120, "id":139}],
+                   "line":7
+                   },
+                           {
+                   "id":139,
+                   "coords": { "x": 107.6671, "y": 69.2983},
+                   "multi":false,
+                   "name": {"ru_RU":"U Südstern","en_EN":"U Südstern"},
+                   "edges": [{"time": 120, "id":138},{"time": 120, "id":140}],
+                   "line":7
+                   },
+                           {
+                   "id":140,
+                   "coords": { "x": 134.1793, "y": 61.6522},
+                   "multi":false,
+                   "name": {"ru_RU":"U Rathaus Neukölln","en_EN":"U Rathaus Neukölln"},
+                   "edges": [{"time": 120, "id":139},{"time": 120, "id":141}],
+                   "line":7
+                   },
+                           {
+                   "id":141,
+                   "coords": { "x": 139.3375, "y": 56.269600},
+                   "multi":false,
+                   "name": {"ru_RU":"U Karl-Marx-Straße","en_EN":"U Karl-Marx-Straße"},
+                   "edges": [{"time": 120, "id":140},{"time": 120, "id":142}],
+                   "line":7
+                   },
+                           {
+                   "id":142,
+                   "coords": { "x": 141.8203, "y": 48.595600},
+                   "multi":false,
+                   "name": {"ru_RU":"U Neukölln","en_EN":"U Neukölln"},
+                   "edges": [{"time": 120, "id":141},{"time": 120, "id":143}],
+                   "line":7
+                   },
+                           {
+                   "id":143,
+                   "coords": { "x": 144.7716, "y": 42.8825},
+                   "multi":false,
+                   "name": {"ru_RU":"U Grenzallee","en_EN":"U Grenzallee"},
+                   "edges": [{"time": 120, "id":142},{"time": 120, "id":144}],
+                   "line":7
+                   },
+                           {
+                   "id":144,
+                   "coords": { "x": 149.2022, "y": 32.0801},
+                   "multi":false,
+                   "name": {"ru_RU":"U Blaschkoallee","en_EN":"U Blaschkoallee"},
+                   "edges": [{"time": 120, "id":143},{"time": 120, "id":145}],
+                   "line":7
+                   },
+                           {
+                   "id":145,
+                   "coords": { "x": 149.59990, "y": 24.7743},
+                   "multi":false,
+                   "name": {"ru_RU":"U Parchimer Allee","en_EN":"U Parchimer Allee"},
+                   "edges": [{"time": 120, "id":144},{"time": 120, "id":146}],
+                   "line":7
+                   },
+                           {
+                   "id":146,
+                   "coords": { "x": 148.1868, "y": 17.791800},
+                   "multi":false,
+                   "name": {"ru_RU":"U Britz-Süd","en_EN":"U Britz-Süd"},
+                   "edges": [{"time": 120, "id":145},{"time": 120, "id":147}],
+                   "line":7
+                   },
+                           {
+                   "id":147,
+                   "coords": { "x": 153.3376, "y": 9.3213},
+                   "multi":false,
+                   "name": {"ru_RU":"U Johannisthaler Chaussee","en_EN":"U Johannisthaler Chaussee"},
+                   "edges": [{"time": 120, "id":146},{"time": 120, "id":148}],
+                   "line":7
+                   },
+                           {
+                   "id":148,
+                   "coords": { "x": 162.69840, "y": 4.6425},
+                   "multi":false,
+                   "name": {"ru_RU":"U Lipschitzallee","en_EN":"U Lipschitzallee"},
+                   "edges": [{"time": 120, "id":147},{"time": 120, "id":149}],
+                   "line":7
+                   },
+                           {
+                   "id":149,
+                   "coords": { "x": 174.5668, "y": 3.3264},
+                   "multi":false,
+                   "name": {"ru_RU":"U Wutzkyallee","en_EN":"U Wutzkyallee"},
+                   "edges": [{"time": 120, "id":148},{"time": 120, "id":150}],
+                   "line":7
+                   },
+                           {
+                   "id":150,
+                   "coords": { "x": 183.9403, "y": 3.3803},
+                   "multi":false,
+                   "name": {"ru_RU":"U Zwickauer Damm","en_EN":"U Zwickauer Damm"},
+                   "edges": [{"time": 120, "id":149},{"time": 120, "id":151}],
+                   "line":7
+                   },
+                           {
+                   "id":151,
+                   "coords": { "x": 195.39780, "y": -3.83},
+                   "multi":false,
+                   "name": {"ru_RU":"U Rudow","en_EN":"U Rudow"},
+                   "edges": [{"time": 120, "id":150}],
+                   "line":7
+                   },
+                           {
+                   "id":152,
+                   "coords": { "x": 34.7115, "y": 175.6412},
+                   "multi":false,
+                   "name": {"ru_RU":"U Wittenau","en_EN":"U Wittenau"},
+                   "edges": [{"time": 120, "id":153}],
+                   "line":8
+                   },
+                           {
+                   "id":153,
+                   "coords": { "x": 25.9254, "y": 168.3733},
+                   "multi":false,
+                   "name": {"ru_RU":"U Rathaus Reinickendorf","en_EN":"U Rathaus Reinickendorf"},
+                   "edges": [{"time": 120, "id":152},{"time": 120, "id":154}],
+                   "line":8
+                   },
+                           {
+                   "id":154,
+                   "coords": { "x": 33.5031, "y": 158.6231},
+                   "multi":false,
+                   "name": {"ru_RU":"U Karl-Bonhoeffer-Nervenklinik","en_EN":"U Karl-Bonhoeffer-Nervenklinik"},
+                   "edges": [{"time": 120, "id":153},{"time": 120, "id":155}],
+                   "line":8
+                   },
+                           {
+                   "id":155,
+                   "coords": { "x": 38.4251, "y": 155.4161},
+                   "multi":false,
+                   "name": {"ru_RU":"U Lindauer Allee","en_EN":"U Lindauer Allee"},
+                   "edges": [{"time": 120, "id":154},{"time": 120, "id":156}],
+                   "line":8
+                   },
+                           {
+                   "id":156,
+                   "coords": { "x": 48.511, "y": 154.2433},
+                   "multi":false,
+                   "name": {"ru_RU":"U Paracelsus-Bad","en_EN":"U Paracelsus-Bad"},
+                   "edges": [{"time": 120, "id":155},{"time": 120, "id":157}],
+                   "line":8
+                   },
+                           {
+                   "id":157,
+                   "coords": { "x": 60.4739, "y": 151.1895},
+                   "multi":false,
+                   "name": {"ru_RU":"U Residenzstraße","en_EN":"U Residenzstraße"},
+                   "edges": [{"time": 120, "id":156},{"time": 120, "id":158}],
+                   "line":8
+                   },
+                           {
+                   "id":158,
+                   "coords": { "x": 63.9236, "y": 144.5392},
+                   "multi":false,
+                   "name": {"ru_RU":"U Franz-Neumann-Platz","en_EN":"U Franz-Neumann-Platz"},
+                   "edges": [{"time": 120, "id":157},{"time": 120, "id":159}],
+                   "line":8
+                   },
+                           {
+                   "id":159,
+                   "coords": { "x": 73.2715, "y": 137.15970},
+                   "multi":true,
+                   "name": {"ru_RU":"U Osloer Straße","en_EN":"U Osloer Straße"},
+                   "edges": [{"time": 120, "id":158},{"time": 120, "id":160},{"time": 120, "id":176}],
+                   "line":8
+                   },
+                           {
+                   "id":160,
+                   "coords": { "x": 81.45830, "y": 132.26170},
+                   "multi":false,
+                   "name": {"ru_RU":"U Pankstraße","en_EN":"U Pankstraße"},
+                   "edges": [{"time": 120, "id":159},{"time": 120, "id":161}],
+                   "line":8
+                   },
+                           {
+                   "id":161,
+                   "coords": { "x": 88.3057, "y": 128.8223},
+                   "multi":false,
+                   "name": {"ru_RU":"U Gesundbrunnen","en_EN":"U Gesundbrunnen"},
+                   "edges": [{"time": 120, "id":160},{"time": 120, "id":162}],
+                   "line":8
+                   },
+                           {
+                   "id":162,
+                   "coords": { "x": 92.876, "y": 122.2898},
+                   "multi":false,
+                   "name": {"ru_RU":"U Voltastraße","en_EN":"U Voltastraße"},
+                   "edges": [{"time": 120, "id":161},{"time": 120, "id":163}],
+                   "line":8
+                   },
+                           {
+                   "id":163,
+                   "coords": { "x": 96.6175, "y": 117.4381},
+                   "multi":false,
+                   "name": {"ru_RU":"U Bernauer Straße","en_EN":"U Bernauer Straße"},
+                   "edges": [{"time": 120, "id":162},{"time": 120, "id":164}],
+                   "line":8
+                   },
+                           {
+                   "id":164,
+                   "coords": { "x": 101.12060, "y": 109.8999},
+                   "multi":false,
+                   "name": {"ru_RU":"U Rosenthaler Platz","en_EN":"U Rosenthaler Platz"},
+                   "edges": [{"time": 120, "id":163},{"time": 120, "id":165}],
+                   "line":8
+                   },
+                           {
+                   "id":165,
+                   "coords": { "x": 105.0194, "y": 105.4666},
+                   "multi":false,
+                   "name": {"ru_RU":"U Weinmeisterstraße","en_EN":"U Weinmeisterstraße"},
+                   "edges": [{"time": 120, "id":164},{"time": 120, "id":166}],
+                   "line":8
+                   },
+                           {
+                   "id":166,
+                   "coords": { "x": 113.90820, "y": 101.5849},
+                   "multi":true,
+                   "name": {"ru_RU":"U Alexanderplatz","en_EN":"U Alexanderplatz"},
+                   "edges": [{"time": 120, "id":165},{"time": 120, "id":167},{"time": 120, "id":20},{"time": 120, "id":63}],
+                   "line":8
+                   },
+                           {
+                   "id":167,
+                   "coords": { "x": 118.17320, "y": 95.3554},
+                   "multi":false,
+                   "name": {"ru_RU":"U Jannowitzbrücke","en_EN":"U Jannowitzbrücke"},
+                   "edges": [{"time": 120, "id":166},{"time": 120, "id":168}],
+                   "line":8
+                   },
+                           {
+                   "id":168,
+                   "coords": { "x": 116.02720, "y": 90.4484},
+                   "multi":false,
+                   "name": {"ru_RU":"U Heinrich-Heine-Straße","en_EN":"U Heinrich-Heine-Straße"},
+                   "edges": [{"time": 120, "id":167},{"time": 120, "id":169}],
+                   "line":8
+                   },
+                           {
+                   "id":169,
+                   "coords": { "x": 110.7479, "y": 83.6623},
+                   "multi":false,
+                   "name": {"ru_RU":"U Moritzplatz","en_EN":"U Moritzplatz"},
+                   "edges": [{"time": 120, "id":168},{"time": 120, "id":170}],
+                   "line":8
+                   },
+                           {
+                   "id":170,
+                   "coords": { "x": 118.31070, "y": 78.98530},
+                   "multi":true,
+                   "name": {"ru_RU":"U Kottbusser Tor","en_EN":"U Kottbusser Tor"},
+                   "edges": [{"time": 120, "id":169},{"time": 120, "id":171},{"time": 120, "id":4}],
+                   "line":8
+                   },
+                           {
+                   "id":171,
+                   "coords": { "x": 122.05720, "y": 73.0552},
+                   "multi":false,
+                   "name": {"ru_RU":"U Schönleinstraße","en_EN":"U Schönleinstraße"},
+                   "edges": [{"time": 120, "id":170},{"time": 120, "id":172}],
+                   "line":8
+                   },
+                           {
+                   "id":172,
+                   "coords": { "x": 124.5531, "y": 66.2857},
+                   "multi":false,
+                   "name": {"ru_RU":"U Hermannplatz","en_EN":"U Hermannplatz"},
+                   "edges": [{"time": 120, "id":171},{"time": 120, "id":173}],
+                   "line":8
+                   },
+                           {
+                   "id":173,
+                   "coords": { "x": 125.281, "y": 60.1685},
+                   "multi":false,
+                   "name": {"ru_RU":"U Boddinstraße","en_EN":"U Boddinstraße"},
+                   "edges": [{"time": 120, "id":172},{"time": 120, "id":174}],
+                   "line":8
+                   },
+                           {
+                   "id":174,
+                   "coords": { "x": 128.3545, "y": 52.9787},
+                   "multi":false,
+                   "name": {"ru_RU":"U Leinestraße","en_EN":"U Leinestraße"},
+                   "edges": [{"time": 120, "id":173},{"time": 120, "id":175}],
+                   "line":8
+                   },
+                           {
+                   "id":175,
+                   "coords": { "x": 131.4659, "y": 47.2622},
+                   "multi":false,
+                   "name": {"ru_RU":"U Hermannstraße","en_EN":"U Hermannstraße"},
+                   "edges": [{"time": 120, "id":174}],
+                   "line":8
+                   },
+                           {
+                   "id":176,
+                   "coords": { "x": 73.2715, "y": 137.15970},
+                   "multi":true,
+                   "name": {"ru_RU":"U Osloer Straße","en_EN":"U Osloer Straße"},
+                   "edges": [{"time": 120, "id":177},{"time": 120, "id":159}],
+                   "line":9
+                   },
+                           {
+                   "id":177,
+                   "coords": { "x": 67.1696, "y": 131.4056},
+                   "multi":false,
+                   "name": {"ru_RU":"U Nauener Platz","en_EN":"U Nauener Platz"},
+                   "edges": [{"time": 120, "id":176},{"time": 120, "id":178}],
+                   "line":9
+                   },
+                           {
+                   "id":178,
+                   "coords": { "x": 59.1672, "y": 126.3833},
+                   "multi":true,
+                   "name": {"ru_RU":"U Leopoldplatz","en_EN":"U Leopoldplatz"},
+                   "edges": [{"time": 120, "id":177},{"time": 120, "id":179},{"time": 120, "id":93}],
+                   "line":9
+                   },
+                           {
+                   "id":179,
+                   "coords": { "x": 50.1546, "y": 122.3332},
+                   "multi":false,
+                   "name": {"ru_RU":"U Amrumer Straße","en_EN":"U Amrumer Straße"},
+                   "edges": [{"time": 120, "id":178},{"time": 120, "id":180}],
+                   "line":9
+                   },
+                           {
+                   "id":180,
+                   "coords": { "x": 42.5741, "y": 116.735},
+                   "multi":false,
+                   "name": {"ru_RU":"U Westhafen","en_EN":"U Westhafen"},
+                   "edges": [{"time": 120, "id":179},{"time": 120, "id":181}],
+                   "line":9
+                   },
+                           {
+                   "id":181,
+                   "coords": { "x": 41.353300, "y": 112.3818},
+                   "multi":false,
+                   "name": {"ru_RU":"U Birkenstraße","en_EN":"U Birkenstraße"},
+                   "edges": [{"time": 120, "id":180},{"time": 120, "id":182}],
+                   "line":9
+                   },
+                           {
+                   "id":182,
+                   "coords": { "x": 41.2971, "y": 106.14890},
+                   "multi":false,
+                   "name": {"ru_RU":"U Turmstraße","en_EN":"U Turmstraße"},
+                   "edges": [{"time": 120, "id":181},{"time": 120, "id":183}],
+                   "line":9
+                   },
+                           {
+                   "id":183,
+                   "coords": { "x": 42.036500, "y": 98.00800},
+                   "multi":false,
+                   "name": {"ru_RU":"U Hansaplatz","en_EN":"U Hansaplatz"},
+                   "edges": [{"time": 120, "id":182},{"time": 120, "id":184}],
+                   "line":9
+                   },
+                           {
+                   "id":184,
+                   "coords": { "x": 33.0236, "y": 85.8669},
+                   "multi":true,
+                   "name": {"ru_RU":"U Zoologischer Garten","en_EN":"U Zoologischer Garten"},
+                   "edges": [{"time": 120, "id":183},{"time": 120, "id":185},{"time": 120, "id":33}],
+                   "line":9
+                   },
+                           {
+                   "id":185,
+                   "coords": { "x": 31.436500, "y": 83.8223},
+                   "multi":true,
+                   "name": {"ru_RU":"U Kurfürstendamm","en_EN":"U Kurfürstendamm"},
+                   "edges": [{"time": 120, "id":184},{"time": 120, "id":186},{"time": 120, "id":12}],
+                   "line":9
+                   },
+                           {
+                   "id":186,
+                   "coords": { "x": 31.0091, "y": 76.4453},
+                   "multi":true,
+                   "name": {"ru_RU":"U Spichernstraße","en_EN":"U Spichernstraße"},
+                   "edges": [{"time": 120, "id":185},{"time": 120, "id":187},{"time": 120, "id":46}],
+                   "line":9
+                   },
+                           {
+                   "id":187,
+                   "coords": { "x": 31.006400, "y": 72.0843},
+                   "multi":false,
+                   "name": {"ru_RU":"U Güntzelstraße","en_EN":"U Güntzelstraße"},
+                   "edges": [{"time": 120, "id":186},{"time": 120, "id":188}],
+                   "line":9
+                   },
+                           {
+                   "id":188,
+                   "coords": { "x": 31.0103, "y": 67.3298},
+                   "multi":true,
+                   "name": {"ru_RU":"U Berliner Straße","en_EN":"U Berliner Straße"},
+                   "edges": [{"time": 120, "id":187},{"time": 120, "id":189},{"time": 120, "id":131}],
+                   "line":9
+                   },
+                           {
+                   "id":189,
+                   "coords": { "x": 28.5001, "y": 57.647600},
+                   "multi":false,
+                   "name": {"ru_RU":"U Bundesplatz","en_EN":"U Bundesplatz"},
+                   "edges": [{"time": 120, "id":188},{"time": 120, "id":190},{"time": 120, "id":131}],
+                   "line":9
+                   },
+                           {
+                   "id":190,
+                   "coords": { "x": 28.7301, "y": 52.121700},
+                   "multi":false,
+                   "name": {"ru_RU":"U Friedrich-Wilhelm-Platz","en_EN":"U Friedrich-Wilhelm-Platz"},
+                   "edges": [{"time": 120, "id":189},{"time": 120, "id":191}],
+                   "line":9
+                   },
+                           {
+                   "id":191,
+                   "coords": { "x": 28.2601, "y": 45.3254},
+                   "multi":false,
+                   "name": {"ru_RU":"U Walther-Schreiber-Platz","en_EN":"U Walther-Schreiber-Platz"},
+                   "edges": [{"time": 120, "id":190},{"time": 120, "id":192}],
+                   "line":9
+                   },
+                           {
+                   "id":192,
+                   "coords": { "x": 25.0946, "y": 41.481},
+                   "multi":false,
+                   "name": {"ru_RU":"U Schloßstraße","en_EN":"U Schloßstraße"},
+                   "edges": [{"time": 120, "id":191},{"time": 120, "id":193}],
+                   "line":9
+                   },
+                           {
+                   "id":193,
+                   "coords": { "x": 20.9192, "y": 36.8021},
+                   "multi":false,
+                   "name": {"ru_RU":"U Rathaus Steglitz","en_EN":"U Rathaus Steglitz"},
+                   "edges": [{"time": 120, "id":192}],
+                   "line":9
+                   },
+    ],
+    "multiPoints":[
+        {"coords": { "x": 118.31070, "y": 78.98530}, "id": [4,170]},
+        {"coords": { "x": 91.7234, "y": 78.8198}, "id": [6,103]},
+        {"coords": { "x": 83.123, "y": 78.6927}, "id": [7,136]},
+        {"coords": { "x": 74.0318, "y": 79.5261}, "id": [8,29]},
+        {"coords": { "x": 53.7297, "y": 79.5972}, "id": [10,31,43,58]},
+        {"coords": { "x": 43.0005, "y": 81.7976}, "id": [11,32,44]},
+        {"coords": { "x": 31.436500, "y": 83.8223}, "id": [12,185]},
+        {"coords": { "x": 113.90820, "y": 101.5849}, "id": [20,63,166]},
+        {"coords": { "x": 90.56320, "y": 92.1459}, "id": [25,101]},
+        {"coords": { "x": 33.0236, "y": 85.8669}, "id": [33,184]},
+        {"coords": { "x": 5.2393, "y": 91.51480}, "id": [36,125]},
+        {"coords": { "x": 31.0091, "y": 76.4453}, "id": [46,186]},
+        {"coords": { "x": 15.1361, "y": 70.5442}, "id": [48,129]},
+        {"coords": { "x": 40.543600, "y": 68.5755}, "id": [60,132]},
+        {"coords": { "x": 59.1672, "y": 126.3833}, "id": [93,178]},
+        {"coords": { "x": 88.6168, "y": 74.13080}, "id": [104,137]},
+        {"coords": { "x": 31.0103, "y": 67.3298}, "id": [131,188]},
+        {"coords": { "x": 73.2715, "y": 137.15970}, "id": [159,176]}
+            ],
+    
+    "lines":[
+    [
+        {"from":1,"to":2},{"from":2,"to":3},{"from":3,"to":4},{"from":4,"to":5},{"from":5,"to":6},{"from":6,"to":7},{"from":7,"to":8},{"from":8,"to":9},{"from":9,"to":10},{"from":10,"to":11},{"from":11,"to":12},{"from":12,"to":13}
+        ],
+    [
+        {"from":14,"to":15},{"from":15,"to":16},{"from":16,"to":17},{"from":17,"to":18},{"from":18,"to":19},{"from":19,"to":20},{"from":20,"to":21},{"from":21,"to":22},{"from":22,"to":23},{"from":23,"to":24},{"from":24,"to":25},{"from":25,"to":26},{"from":26,"to":27},{"from":27,"to":28},{"from":28,"to":29},{"from":29,"to":30},{"from":30,"to":31},{"from":31,"to":32},{"from":32,"to":33},{"from":33,"to":34},{"from":34,"to":35},{"from":35,"to":36},{"from":36,"to":37},{"from":37,"to":38},{"from":38,"to":39},{"from":39,"to":40},{"from":40,"to":41},{"from":41,"to":42}
+    ],
+    [
+        {"from":43,"to":44},{"from":44,"to":45},{"from":45,"to":46},{"from":46,"to":47},{"from":47,"to":48},{"from":48,"to":49},{"from":49,"to":50},{"from":50,"to":51},{"from":51,"to":52},{"from":52,"to":53},{"from":53,"to":54},{"from":54,"to":55},{"from":55,"to":56},{"from":56,"to":57}
+        ],
+    [
+        {"from":58,"to":59},{"from":59,"to":60},{"from":60,"to":61},{"from":61,"to":62}
+        ],
+    [
+        {"from":63,"to":64},{"from":64,"to":65},{"from":65,"to":66},{"from":66,"to":67},{"from":67,"to":68},{"from":68,"to":69},{"from":69,"to":70},{"from":70,"to":71},{"from":71,"to":72},{"from":72,"to":73},{"from":73,"to":74},{"from":74,"to":75},{"from":75,"to":76},{"from":76,"to":77},{"from":77,"to":78},{"from":78,"to":79},{"from":79,"to":80},{"from":80,"to":81},{"from":81,"to":82},{"from":82,"to":83}
+        ],
+    [
+        {"from":84,"to":85},{"from":85,"to":86},{"from":86,"to":87},{"from":87,"to":88},{"from":88,"to":89},{"from":89,"to":90},{"from":90,"to":91},{"from":91,"to":92},{"from":92,"to":93},{"from":93,"to":94},{"from":94,"to":95},{"from":95,"to":96},{"from":96,"to":97},{"from":97,"to":98},{"from":98,"to":99},{"from":99,"to":100},{"from":100,"to":101},{"from":101,"to":102},{"from":102,"to":103},{"from":103,"to":104},{"from":104,"to":105},{"from":105,"to":106},{"from":106,"to":107},{"from":107,"to":108},{"from":108,"to":109},{"from":109,"to":110},{"from":110,"to":111},{"from":111,"to":112}
+        ],
+    [
+        {"from":113,"to":114},{"from":114,"to":115},{"from":115,"to":116},{"from":116,"to":117},{"from":117,"to":118},{"from":118,"to":119},{"from":119,"to":120},{"from":120,"to":121},{"from":121,"to":122},{"from":122,"to":123},{"from":123,"to":124},{"from":124,"to":125},{"from":125,"to":126},{"from":126,"to":127},{"from":127,"to":128},{"from":128,"to":129},{"from":129,"to":130},{"from":130,"to":131},{"from":131,"to":132},{"from":132,"to":133},{"from":133,"to":134},{"from":134,"to":135},{"from":135,"to":136},{"from":136,"to":137},{"from":137,"to":138},{"from":138,"to":139},{"from":139,"to":140},{"from":140,"to":141},{"from":141,"to":142},{"from":142,"to":143},{"from":143,"to":144},{"from":144,"to":145},{"from":145,"to":146},{"from":146,"to":147},{"from":147,"to":148},{"from":148,"to":149},{"from":149,"to":150},{"from":150,"to":151}
+        ],
+    [
+        {"from":152,"to":153},{"from":153,"to":154},{"from":154,"to":155},{"from":155,"to":156},{"from":156,"to":157},{"from":157,"to":158},{"from":158,"to":159},{"from":159,"to":160},{"from":160,"to":161},{"from":161,"to":162},{"from":162,"to":163},{"from":163,"to":164},{"from":164,"to":165},{"from":165,"to":166},{"from":166,"to":167},{"from":167,"to":168},{"from":168,"to":169},{"from":169,"to":170},{"from":170,"to":171},{"from":171,"to":172},{"from":172,"to":173},{"from":173,"to":174},{"from":174,"to":175}
+        ],
+    [
+        {"from":176,"to":177},{"from":177,"to":178},{"from":178,"to":179}{"from":179,"to":180},{"from":180,"to":181},{"from":181,"to":182},{"from":182,"to":183},{"from":183,"to":184},{"from":184,"to":185},{"from":185,"to":186},{"from":186,"to":187},{"from":187,"to":188},{"from":188,"to":189},{"from":189,"to":190},{"from":190,"to":191},{"from":191,"to":192},{"from":192,"to":193}
+        ]
+    ],
+    "colors":[
+         {"r": 0, "g": 255, "b": 0},
+         {"r": 255, "g": 0, "b": 0},
+         {"r": 0, "g": 255, "b": 90},
+         {"r": 0, "g": 255, "b": 255},
+         {"r": 170, "g": 170, "b": 0},
+         {"r": 255, "g": 0, "b": 255},
+         {"r": 200, "g": 0, "b": 255},
+         {"r": 0, "g": 0, "b": 255},
+         {"r": 70, "g": 255, "b": 255},
+     ]
+}

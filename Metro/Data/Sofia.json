@@ -1,0 +1,320 @@
+{
+    "stations":[
+                {
+        "id":1,
+        "coords": { "x":-23.4571, "y": 121.0601},
+        "multi":true,
+        "name": {"ru_RU":"Обеля","en_EN":"Obelya"},
+        "edges": [{"time": 120, "id":2},{"time": 120, "id":18}],
+        "line":1
+        },
+                {
+        "id":2,
+        "coords": { "x":-38.2057, "y": 106.885600},
+        "multi":false,
+        "name": {"ru_RU":"Сливница","en_EN":"Slivnitsa"},
+        "edges": [{"time": 120, "id":1},{"time": 120, "id":3}],
+        "line":1
+        },
+                {
+        "id":3,
+        "coords": { "x":-41.8579, "y": 97.9526},
+        "multi":false,
+        "name": {"ru_RU":"Люлин","en_EN":"Lyulin"},
+        "edges": [{"time": 120, "id":2},{"time": 120, "id":4}],
+        "line":1
+        },
+                {
+        "id":4,
+        "coords": { "x":-29.4437, "y": 91.1832},
+        "multi":false,
+        "name": {"ru_RU":"Западен парк","en_EN":"Zapaden park"},
+        "edges": [{"time": 120, "id":3},{"time": 120, "id":5}],
+        "line":1
+        },
+                {
+        "id":5,
+        "coords": { "x":-15.16, "y": 85.9407},
+        "multi":false,
+        "name": {"ru_RU":"Вардар","en_EN":"Vardar"},
+        "edges": [{"time": 120, "id":4},{"time": 120, "id":6}],
+        "line":1
+        },
+                {
+        "id":6,
+        "coords": { "x":-1.2032, "y": 81.7889},
+        "multi":false,
+        "name": {"ru_RU":"Константин Величков","en_EN":"Konstantin Velichkov"},
+        "edges": [{"time": 120, "id":5},{"time": 120, "id":7}],
+        "line":1
+        },
+                {
+        "id":7,
+        "coords": { "x":10.0626, "y": 79.9149},
+        "multi":false,
+        "name": {"ru_RU":"Опълченска","en_EN":"Opalchenska"},
+        "edges": [{"time": 120, "id":6},{"time": 120, "id":8}],
+        "line":1
+        },
+                {
+        "id":8,
+        "coords": { "x":21.1615, "y": 77.845300},
+        "multi":true,
+        "name": {"ru_RU":"Сердика","en_EN":"Serdika"},
+        "edges": [{"time": 120, "id":7},{"time": 120, "id":9},{"time": 120, "id":26}],
+        "line":1
+        },
+                {
+        "id":9,
+        "coords": { "x":36.1948, "y": 70.5368},
+        "multi":false,
+        "name": {"ru_RU":"СУ Св. Климент Охридски","en_EN":"SU Sv. Kliment Ohridski"},
+        "edges": [{"time": 120, "id":8},{"time": 120, "id":10}],
+        "line":1
+        },
+                {
+        "id":10,
+        "coords": { "x":32.4086, "y": 65.937800},
+        "multi":false,
+        "name": {"ru_RU":"Стадион Васил Левски","en_EN":"Vasil Levski Stadium"},
+        "edges": [{"time": 120, "id":9},{"time": 120, "id":11}],
+        "line":1
+        },
+                {
+        "id":11,
+        "coords": { "x":50.6706, "y": 51.5061},
+        "multi":false,
+        "name": {"ru_RU":"Фр. Жолио-Кюри","en_EN":"Joliot-Curie"},
+        "edges": [{"time": 120, "id":10},{"time": 120, "id":12}],
+        "line":1
+        },
+                {
+        "id":12,
+        "coords": { "x":57.8412, "y": 42.6749},
+        "multi":false,
+        "name": {"ru_RU":"Г. М. Димитров","en_EN":"G. M. Dimitrov"},
+        "edges": [{"time": 120, "id":11},{"time": 120, "id":13}],
+        "line":1
+        },
+                {
+        "id":13,
+        "coords": { "x":64.466900, "y": 38.5324},
+        "multi":false,
+        "name": {"ru_RU":"Мусагеница","en_EN":"Musagenitsa"},
+        "edges": [{"time": 120, "id":12},{"time": 120, "id":14}],
+        "line":1
+        },
+                {
+        "id":14,
+        "coords": { "x":73.399200, "y": 32.9468},
+        "multi":true,
+        "name": {"ru_RU":"Младост 1","en_EN":"Mladost 1"},
+        "edges": [{"time": 120, "id":13},{"time": 120, "id":15},{"time": 120, "id":37}],
+        "line":1
+        },
+                {
+        "id":15,
+        "coords": { "x":76.5741, "y": 27.4564000},
+        "multi":false,
+        "name": {"ru_RU":"Александър Малинов","en_EN":"Alexandar Malinov"},
+        "edges": [{"time": 120, "id":14},{"time": 120, "id":16}],
+        "line":1
+        },
+                {
+        "id":16,
+        "coords": { "x":72.9653, "y": 20.7115},
+        "multi":false,
+        "name": {"ru_RU":"Академик Александър Теодоров - Балан","en_EN":"Akademik Aleksandar Teodorov - Balan"},
+        "edges": [{"time": 120, "id":15},{"time": 120, "id":17}],
+        "line":1
+        },
+                {
+        "id":17,
+        "coords": { "x":73.1797, "y": 8.7115000},
+        "multi":false,
+        "name": {"ru_RU":"Бизнес парк София","en_EN":"Business park Sofia"},
+        "edges": [{"time": 120, "id":16}],
+        "line":1
+        },
+                {
+        "id":18,
+        "coords": { "x":-23.4571, "y": 121.0601},
+        "multi":true,
+        "name": {"ru_RU":"Обеля","en_EN":"Obelya"},
+        "edges": [{"time": 120, "id":19},{"time": 120, "id":1}],
+        "line":2
+        },
+                {
+        "id":19,
+        "coords": { "x":-12.7036, "y": 120.4865},
+        "multi":false,
+        "name": {"ru_RU":"Ломско шосе","en_EN":"Lomsko shose"},
+        "edges": [{"time": 120, "id":18},{"time": 120, "id":20}],
+        "line":2
+        },
+                {
+        "id":20,
+        "coords": { "x":-7.7363, "y": 115.9302},
+        "multi":false,
+        "name": {"ru_RU":"Бели Дунав","en_EN":"Beli Dunav"},
+        "edges": [{"time": 120, "id":19},{"time": 120, "id":21}],
+        "line":2
+        },
+                {
+        "id":21,
+        "coords": { "x":0.8789, "y": 108.0197},
+        "multi":false,
+        "name": {"ru_RU":"Надежда","en_EN":"Nadezhda"},
+        "edges": [{"time": 120, "id":20},{"time": 120, "id":22}],
+        "line":2
+        },
+                {
+        "id":22,
+        "coords": { "x":7.2084, "y": 102.3707},
+        "multi":false,
+        "name": {"ru_RU":"Хан Кубрат","en_EN":"Han Kubrat"},
+        "edges": [{"time": 120, "id":21},{"time": 120, "id":23}],
+        "line":2
+        },
+                {
+        "id":23,
+        "coords": { "x":12.1109, "y": 94.4475},
+        "multi":false,
+        "name": {"ru_RU":"Княгиня Мария Луиза","en_EN":"Княгиня Мария Луиза"},
+        "edges": [{"time": 120, "id":22},{"time": 120, "id":24}],
+        "line":2
+        },
+                {
+        "id":24,
+        "coords": { "x":20.6054, "y": 90.760500},
+        "multi":false,
+        "name": {"ru_RU":"Централна ЖП гара","en_EN":"Central Railway Station"},
+        "edges": [{"time": 120, "id":23},{"time": 120, "id":25}],
+        "line":2
+        },
+                {
+        "id":25,
+        "coords": { "x":23.8457, "y": 85.7509},
+        "multi":false,
+        "name": {"ru_RU":"Лъвов мост","en_EN":"Lavov most"},
+        "edges": [{"time": 120, "id":24},{"time": 120, "id":26}],
+        "line":2
+        },
+                {
+        "id":26,
+        "coords": { "x":21.1615, "y": 77.845300},
+        "multi":true,
+        "name": {"ru_RU":"Сердика","en_EN":"Serdika"},
+        "edges": [{"time": 120, "id":25},{"time": 120, "id":27},{"time": 120, "id":8}],
+        "line":2
+        },
+                {
+        "id":27,
+        "coords": { "x":19.0599000, "y": 68.2037},
+        "multi":false,
+        "name": {"ru_RU":"Национален дворец на културата","en_EN":"National Palace of Culture"},
+        "edges": [{"time": 120, "id":26},{"time": 120, "id":28}],
+        "line":2
+        },
+                {
+        "id":28,
+        "coords": { "x":21.6264, "y": 58.8082},
+        "multi":false,
+        "name": {"ru_RU":"Европейски съюз","en_EN":"European Union"},
+        "edges": [{"time": 120, "id":27},{"time": 120, "id":29}],
+        "line":2
+        },
+                {
+        "id":29,
+        "coords": { "x":20.4298, "y": 50.6574},
+        "multi":false,
+        "name": {"ru_RU":"Джеймс Баучер","en_EN":"James Bourchier"},
+        "edges": [{"time": 120, "id":28},{"time": 120, "id":30}],
+        "line":2
+        },
+                {
+        "id":30,
+        "coords": { "x":16.4127, "y": 38.4211},
+        "multi":false,
+        "name": {"ru_RU":"Витоша","en_EN":"Vitosha"},
+        "edges": [{"time": 120, "id":29}],
+        "line":2
+        },
+                {
+        "id":31,
+        "coords": { "x":84.7843, "y": 26.3018},
+        "multi":false,
+        "name": {"ru_RU":"Младост 3","en_EN":"Mladost 3"},
+        "edges": [{"time": 120, "id":37},{"time": 120, "id":32}],
+        "line":2
+        },
+                {
+        "id":32,
+        "coords": { "x":93.572600, "y": 29.556},
+        "multi":false,
+        "name": {"ru_RU":"Интер Експо Център - Цариградско шосе","en_EN":"Inter Expo Center - Tsarigradsko shose"},
+        "edges": [{"time": 120, "id":31},{"time": 120, "id":33}],
+        "line":2
+        },
+                {
+        "id":33,
+        "coords": { "x":94.587, "y": 39.2581},
+        "multi":false,
+        "name": {"ru_RU":"Дружба","en_EN":"Druzhba"},
+        "edges": [{"time": 120, "id":32},{"time": 120, "id":34}],
+        "line":2
+        },
+                {
+        "id":34,
+        "coords": { "x":102.097000, "y": 48.0691},
+        "multi":false,
+        "name": {"ru_RU":"Искърско шосе","en_EN":"Iskarsko shose"},
+        "edges": [{"time": 120, "id":33},{"time": 120, "id":35}],
+        "line":2
+        },
+                {
+        "id":35,
+        "coords": { "x":110.1696, "y": 56.417},
+        "multi":false,
+        "name": {"ru_RU":"Софийска Света гора","en_EN":"Sofia Sveta Gora"},
+        "edges": [{"time": 120, "id":34},{"time": 120, "id":36}],
+        "line":2
+        },
+                {
+        "id":36,
+        "coords": { "x":116.2372, "y": 68.5061},
+        "multi":false,
+        "name": {"ru_RU":"Летище София","en_EN":"Sofia Airport"},
+        "edges": [{"time": 120, "id":35}],
+        "line":2
+        },
+                {
+        "id":37,
+        "coords": { "x":73.399200, "y": 32.9468},
+        "multi":true,
+        "name": {"ru_RU":"Младост 1","en_EN":"Mladost 1"},
+        "edges": [{"time": 120, "id":14},{"time": 120, "id":31}],
+        "line":1
+        },
+                
+
+    ],
+    "multiPoints":[
+        {"coords": { "x":-23.4571, "y": 121.0601}, "id": [1,18]},
+        {"coords": { "x":21.1615, "y": 77.84530}, "id": [8,26]},
+        {"coords": { "x":73.399200, "y": 32.9468}, "id": [14,37]}
+        ],
+    
+    "lines":[
+    [
+        {"from":1,"to":2},{"from":2,"to":3},{"from":3,"to":4},{"from":4,"to":5},{"from":5,"to":6},{"from":6,"to":7},{"from":7,"to":8},{"from":8,"to":9},{"from":9,"to":10},{"from":10,"to":11},{"from":11,"to":12},{"from":12,"to":13},{"from":13,"to":14},{"from":14,"to":15},{"from":15,"to":16},{"from":16,"to":17},
+        ],
+    [
+        {"from":18,"to":19},{"from":19,"to":20},{"from":20,"to":21},{"from":21,"to":22},{"from":22,"to":23},{"from":23,"to":24},{"from":24,"to":25},{"from":25,"to":26},{"from":26,"to":27},{"from":27,"to":28},{"from":28,"to":29},{"from":29,"to":30},{"from":37,"to":31},{"from":31,"to":32},{"from":32,"to":33},{"from":33,"to":34},{"from":34,"to":35},{"from":35,"to":36}
+    ]
+    ],
+    "colors":[
+         {"r": 255, "g": 0, "b": 0},
+         {"r": 0, "g": 0, "b": 255}
+     ]
+}

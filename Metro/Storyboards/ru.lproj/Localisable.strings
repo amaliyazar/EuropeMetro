@@ -1,0 +1,19 @@
+/* 
+  Localisable.strings
+  Metro
+
+  Created by Амалия Зарывных on 29.01.2020.
+  Copyright © 2020 Mahutin Aleksei. All rights reserved.
+*/
+
+"Language_text" = "Язык";
+"AppInfo" = "О программе";
+"Support" = "Поддержка";
+"Settings" = "Настройки";
+"Home" = "Главная страница";
+"Selection" = "Выбор города";
+"From" = "Отсюда";
+"To" = "Сюда";
+"RouteView" = "Показать подробный маршрут";
+"transit" = "Сделайте пересадку";
+"time_path" = "Общее время в пути";

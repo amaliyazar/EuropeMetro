@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6G9-qt-ITr"; */
+"6G9-qt-ITr.text" = "Label";
+
+/* Class = "UILabel"; text = "Not for commercial use."; ObjectID = "E6R-Mn-YQa"; */
+"E6R-Mn-YQa.text" = "Not for commercial use.";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "FdG-tX-JRW"; */
+"FdG-tX-JRW.text" = "Language";
+
+/* Class = "UIButton"; normalTitle = "About App"; ObjectID = "OtT-fO-pKG"; */
+"OtT-fO-pKG.normalTitle" = "About App";
+
+/* Class = "UILabel"; text = "EuropeMetro™"; ObjectID = "Q1e-ZW-W1X"; */
+"Q1e-ZW-W1X.text" = "EuropeMetro™";
+
+/* Class = "UILabel"; text = "Created by Amaliya Zaryvnykh in 2020"; ObjectID = "QAg-Ip-uyG"; */
+"QAg-Ip-uyG.text" = "Created by Amaliya Zaryvnykh in 2020";
+
+/* Class = "UIButton"; normalTitle = "Laguage"; ObjectID = "Vj1-wB-CpK"; */
+"Vj1-wB-CpK.normalTitle" = "Laguage";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "XSq-0B-GGC"; */
+"XSq-0B-GGC.title" = "Settings";
+
+/* Class = "UILabel"; text = "Copyright © 2020 Amalya Zaryvnykh."; ObjectID = "ZJe-Mx-Inf"; */
+"ZJe-Mx-Inf.text" = "Copyright © 2020 Amalya Zaryvnykh.";
+
+/* Class = "UILabel"; text = " All rights reserved."; ObjectID = "lLX-zb-wQi"; */
+"lLX-zb-wQi.text" = " All rights reserved.";
+
+/* Class = "UIButton"; normalTitle = "Support"; ObjectID = "qAO-XN-Foo"; */
+"qAO-XN-Foo.normalTitle" = "Support";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "qEf-h0-EBW"; */
+"qEf-h0-EBW.title" = "Settings";
+
+/* Class = "UISearchBar"; placeholder = "Search by country"; ObjectID = "y6r-xp-Zql"; */
+"y6r-xp-Zql.placeholder" = "Search by country";

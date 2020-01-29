@@ -1,0 +1,451 @@
+{
+"stations":[
+                {
+        "id":1,
+        "coords": { "x": -68.3167, "y": 58.3909},
+        "multi":false,
+        "name": {"ru_RU":"Amadora Este","en_EN":"Amadora Este"},
+        "edges": [{"time": 120, "id":2}],
+        "line":1
+        },
+                {
+        "id":2,
+        "coords": { "x": -54.3586, "y": 60.3326},
+        "multi":false,
+        "name": {"ru_RU":"Alfornelos","en_EN":"Alfornelos"},
+        "edges": [{"time": 120, "id":1},{"time": 120, "id":3}],
+        "line":1
+        },
+                {
+        "id":3,
+        "coords": { "x": -46.8418, "y": 62.210800},
+        "multi":false,
+        "name": {"ru_RU":"Pontinha","en_EN":"Pontinha"},
+        "edges": [{"time": 120, "id":2},{"time": 120, "id":4}],
+        "line":1
+        },
+                {
+        "id":4,
+        "coords": { "x": -42.649100, "y": 59.2057},
+        "multi":false,
+        "name": {"ru_RU":"Carnide","en_EN":"Carnide"},
+        "edges": [{"time": 120, "id":3},{"time": 120, "id":5}],
+        "line":1
+        },
+                {
+        "id":5,
+        "coords": { "x": -39.2531, "y": 53.4253},
+        "multi":false,
+        "name": {"ru_RU":"Colégio Militar/Luz","en_EN":"Colégio Militar/Luz"},
+        "edges": [{"time": 120, "id":4},{"time": 120, "id":6}],
+        "line":1
+        },
+                {
+        "id":6,
+        "coords": { "x": -29.794600, "y": 49.8954},
+        "multi":false,
+        "name": {"ru_RU":"Alto dos Moínhos","en_EN":"Alto dos Moínhos"},
+        "edges": [{"time": 120, "id":5},{"time": 120, "id":7}],
+        "line":1
+        },
+                {
+        "id":7,
+        "coords": { "x": -23.0362, "y": 48.249700},
+        "multi":false,
+        "name": {"ru_RU":"Laranjeiras","en_EN":"Laranjeiras"},
+        "edges": [{"time": 120, "id":6},{"time": 120, "id":8}],
+        "line":1
+        },
+                {
+        "id":8,
+        "coords": { "x": -18.9132, "y": 42.0882},
+        "multi":false,
+        "name": {"ru_RU":"Jardim Zoológico","en_EN":"Jardim Zoológico"},
+        "edges": [{"time": 120, "id":7},{"time": 120, "id":9}],
+        "line":1
+        },
+                {
+        "id":9,
+        "coords": { "x": -9.2294, "y": 37.7417},
+        "multi":false,
+        "name": {"ru_RU":"Praça de Espanha","en_EN":"Praça de Espanha"},
+        "edges": [{"time": 120, "id":8},{"time": 120, "id":10}],
+        "line":1
+        },
+                {
+        "id":10,
+        "coords": { "x": -3.3648000, "y": 34.5128},
+        "multi":true,
+        "name": {"ru_RU":"São Sebastião","en_EN":"São Sebastião"},
+        "edges": [{"time": 120, "id":9},{"time": 120, "id":11},{"time": 120, "id":42}],
+        "line":1
+        },
+                {
+        "id":11,
+        "coords": { "x": -0.0806, "y": 29.7972},
+        "multi":false,
+        "name": {"ru_RU":"Parque","en_EN":"Parque"},
+        "edges": [{"time": 120, "id":10},{"time": 120, "id":12}],
+        "line":1
+        },
+                {
+        "id":12,
+        "coords": { "x": 5.1690000, "y": 19.0102},
+        "multi":false,
+        "name": {"ru_RU":"Avenida","en_EN":"Avenida"},
+        "edges": [{"time": 120, "id":11},{"time": 120, "id":13}],
+        "line":1
+        },
+                {
+        "id":13,
+        "coords": { "x": 7.6902, "y": 15.9968},
+        "multi":false,
+        "name": {"ru_RU":"Restauradores","en_EN":"Restauradores"},
+        "edges": [{"time": 120, "id":12},{"time": 120, "id":14}],
+        "line":1
+        },
+                {
+        "id":14,
+        "coords": { "x": 9.9029, "y": 10.5436},
+        "multi":true,
+        "name": {"ru_RU":"Baixa-Chiado","en_EN":"Baixa-Chiado"},
+        "edges": [{"time": 120, "id":13},{"time": 120, "id":15},{"time": 120, "id":40}],
+        "line":1
+        },
+                {
+        "id":15,
+        "coords": { "x": 15.652700, "y": 7.0285},
+        "multi":false,
+        "name": {"ru_RU":"Terreiro do Paço","en_EN":"Terreiro do Paço"},
+        "edges": [{"time": 120, "id":14},{"time": 120, "id":16}],
+        "line":1
+        },
+                {
+        "id":16,
+        "coords": { "x": 27.5816, "y": 13.6966},
+        "multi":false,
+        "name": {"ru_RU":"Santa Apolónia","en_EN":"Santa Apolónia"},
+        "edges": [{"time": 120, "id":15}],
+        "line":1
+        },
+                {
+        "id":17,
+        "coords": { "x": -23.0002, "y": 93.26},
+        "multi":false,
+        "name": {"ru_RU":"Odivelas","en_EN":"Odivelas"},
+        "edges": [{"time": 120, "id":18}],
+        "line":2
+        },
+                {
+        "id":18,
+        "coords": { "x": -21.8447, "y": 85.6422},
+        "multi":false,
+        "name": {"ru_RU":"Senhor Roubado","en_EN":"Senhor Roubado"},
+        "edges": [{"time": 120, "id":17},{"time": 120, "id":19}],
+        "line":2
+        },
+                {
+        "id":19,
+        "coords": { "x": -9.4571, "y": 79.64110},
+        "multi":false,
+        "name": {"ru_RU":"Ameixoeira","en_EN":"Ameixoeira"},
+        "edges": [{"time": 120, "id":18},{"time": 120, "id":20}],
+        "line":2
+        },
+                {
+        "id":20,
+        "coords": { "x": -10.113000, "y": 72.7302},
+        "multi":false,
+        "name": {"ru_RU":"Lumiar","en_EN":"Lumiar"},
+        "edges": [{"time": 120, "id":19},{"time": 120, "id":21}],
+        "line":2
+        },
+                {
+        "id":21,
+        "coords": { "x": -5.5486, "y": 67.45320},
+        "multi":false,
+        "name": {"ru_RU":"Quinta das Conchas","en_EN":"Quinta das Conchas"},
+        "edges": [{"time": 120, "id":20},{"time": 120, "id":22}],
+        "line":2
+        },
+                {
+        "id":22,
+        "coords": { "x": -7.877000, "y": 60.188700},
+        "multi":true,
+        "name": {"ru_RU":"Campo Grande","en_EN":"Campo Grande"},
+        "edges": [{"time": 120, "id":21},{"time": 120, "id":23},{"time": 120, "id":30}],
+        "line":2
+        },
+                {
+        "id":23,
+        "coords": { "x": -9.0546, "y": 51.523700},
+        "multi":false,
+        "name": {"ru_RU":"Cidade Universitária","en_EN":"Cidade Universitária"},
+        "edges": [{"time": 120, "id":22},{"time": 120, "id":24}],
+        "line":2
+        },
+                {
+        "id":24,
+        "coords": { "x": 1.786, "y": 47.0474},
+        "multi":false,
+        "name": {"ru_RU":"Entrecampos","en_EN":"Entrecampos"},
+        "edges": [{"time": 120, "id":23},{"time": 120, "id":25}],
+        "line":2
+        },
+                {
+        "id":25,
+        "coords": { "x": 3.2053000, "y": 41.1137},
+        "multi":false,
+        "name": {"ru_RU":"Campo Pequeno","en_EN":"Campo Pequeno"},
+        "edges": [{"time": 120, "id":24},{"time": 120, "id":26}],
+        "line":2
+        },
+                {
+        "id":26,
+        "coords": { "x": 4.9569, "y": 34.4792},
+        "multi":true,
+        "name": {"ru_RU":"Saldanha","en_EN":"Saldanha"},
+        "edges": [{"time": 120, "id":25},{"time": 120, "id":27},{"time": 120, "id":43}],
+        "line":2
+        },
+                {
+        "id":27,
+        "coords": { "x": 3.475, "y": 31.002100},
+        "multi":false,
+        "name": {"ru_RU":"Picoas","en_EN":"Picoas"},
+        "edges": [{"time": 120, "id":26},{"time": 120, "id":28}],
+        "line":2
+        },
+                {
+        "id":28,
+        "coords": { "x": -4.8735, "y": 20.0603},
+        "multi":false,
+        "name": {"ru_RU":"Rato","en_EN":"Rato"},
+        "edges": [{"time": 120, "id":27}],
+        "line":2
+        },
+                {
+        "id":29,
+        "coords": { "x": -16.6963, "y": 60.0193},
+        "multi":false,
+        "name": {"ru_RU":"Telheiras","en_EN":"Telheiras"},
+        "edges": [{"time": 120, "id":30}],
+        "line":3
+        },
+                {
+        "id":30,
+        "coords": { "x": -7.877000, "y": 60.188700},
+        "multi":true,
+        "name": {"ru_RU":"Campo Grande","en_EN":"Campo Grande"},
+        "edges": [{"time": 120, "id":29},{"time": 120, "id":31},{"time": 120, "id":22}],
+        "line":3
+        },
+                {
+        "id":31,
+        "coords": { "x": 6.0223, "y": 53.034000},
+        "multi":false,
+        "name": {"ru_RU":"Alvalade","en_EN":"Alvalade"},
+        "edges": [{"time": 120, "id":30},{"time": 120, "id":32}],
+        "line":3
+        },
+                {
+        "id":32,
+        "coords": { "x": 8.4156, "y": 48.669200},
+        "multi":false,
+        "name": {"ru_RU":"Roma","en_EN":"Roma"},
+        "edges": [{"time": 120, "id":31},{"time": 120, "id":33}],
+        "line":3
+        },
+                {
+        "id":33,
+        "coords": { "x": 16.6038, "y": 42.3786},
+        "multi":false,
+        "name": {"ru_RU":"Areeiro","en_EN":"Areeiro"},
+        "edges": [{"time": 120, "id":32},{"time": 120, "id":34}],
+        "line":3
+        },
+                {
+        "id":34,
+        "coords": { "x": 16.195700, "y": 37.442},
+        "multi":true,
+        "name": {"ru_RU":"Alameda","en_EN":"Alameda"},
+        "edges": [{"time": 120, "id":33},{"time": 120, "id":35},{"time": 120, "id":44}],
+        "line":3
+        },
+                {
+        "id":35,
+        "coords": { "x": 15.7773, "y": 33.5128},
+        "multi":false,
+        "name": {"ru_RU":"Arroios","en_EN":"Arroios"},
+        "edges": [{"time": 120, "id":34},{"time": 120, "id":36}],
+        "line":3
+        },
+                {
+        "id":36,
+        "coords": { "x": 15.058900, "y": 26.2651},
+        "multi":false,
+        "name": {"ru_RU":"Anjos","en_EN":"Anjos"},
+        "edges": [{"time": 120, "id":35},{"time": 120, "id":37}],
+        "line":3
+        },
+                {
+        "id":37,
+        "coords": { "x": 14.698400, "y": 22.6276},
+        "multi":false,
+        "name": {"ru_RU":"Intendente","en_EN":"Intendente"},
+        "edges": [{"time": 120, "id":36},{"time": 120, "id":38}],
+        "line":3
+        },
+                {
+        "id":38,
+        "coords": { "x": 14.105500, "y": 16.9196},
+        "multi":false,
+        "name": {"ru_RU":"Martim Moniz","en_EN":"Martim Moniz"},
+        "edges": [{"time": 120, "id":37},{"time": 120, "id":39}],
+        "line":3
+        },
+                {
+        "id":39,
+        "coords": { "x": 12.058, "y": 14.0693},
+        "multi":false,
+        "name": {"ru_RU":"Rossio","en_EN":"Rossio"},
+        "edges": [{"time": 120, "id":38},{"time": 120, "id":40}],
+        "line":3
+        },
+                {
+        "id":40,
+        "coords": { "x": 9.9029, "y": 10.5436},
+        "multi":true,
+        "name": {"ru_RU":"Baixa-Chiado","en_EN":"Baixa-Chiado"},
+        "edges": [{"time": 120, "id":39},{"time": 120, "id":41},{"time": 120, "id":14}],
+        "line":3
+        },
+                {
+        "id":41,
+        "coords": { "x": 4.8885000, "y": 6.1368},
+        "multi":false,
+        "name": {"ru_RU":"Cais do Sodré","en_EN":"Cais do Sodré"},
+        "edges": [{"time": 120, "id":40}],
+        "line":3
+        },
+                {
+        "id":42,
+        "coords": { "x": -3.3648000, "y": 34.5128},
+        "multi":true,
+        "name": {"ru_RU":"São Sebastião","en_EN":"São Sebastião"},
+        "edges": [{"time": 120, "id":43},{"time": 120, "id":10}],
+        "line":4
+        },
+                {
+        "id":43,
+        "coords": { "x": 4.9569, "y": 34.4792},
+        "multi":true,
+        "name": {"ru_RU":"Saldanha","en_EN":"Saldanha"},
+        "edges": [{"time": 120, "id":42},{"time": 120, "id":44},{"time": 120, "id":26}],
+        "line":4
+        },
+                {
+        "id":44,
+        "coords": { "x": 16.195700, "y": 37.442},
+        "multi":true,
+        "name": {"ru_RU":"Alameda","en_EN":"Alameda"},
+        "edges": [{"time": 120, "id":43},{"time": 120, "id":45},{"time": 120, "id":34}],
+        "line":4
+        },
+                {
+        "id":45,
+        "coords": { "x": 26.0578, "y": 39.4453},
+        "multi":false,
+        "name": {"ru_RU":"Olaias","en_EN":"Olaias"},
+        "edges": [{"time": 120, "id":44},{"time": 120, "id":46}],
+        "line":4
+        },
+                {
+        "id":46,
+        "coords": { "x": 32.3218, "y": 47.5415},
+        "multi":false,
+        "name": {"ru_RU":"Bela Vista","en_EN":"Bela Vista"},
+        "edges": [{"time": 120, "id":45},{"time": 120, "id":47}],
+        "line":4
+        },
+                {
+        "id":47,
+        "coords": { "x": 36.1128, "y": 54.827600},
+        "multi":false,
+        "name": {"ru_RU":"Chelas","en_EN":"Chelas"},
+        "edges": [{"time": 120, "id":46},{"time": 120, "id":48}],
+        "line":4
+        },
+                {
+        "id":48,
+        "coords": { "x": 38.286500, "y": 60.848200},
+        "multi":false,
+        "name": {"ru_RU":"Olivais","en_EN":"Olivais"},
+        "edges": [{"time": 120, "id":47},{"time": 120, "id":49}],
+        "line":4
+        },
+                {
+        "id":49,
+        "coords": { "x": 45.946200, "y": 62.9382},
+        "multi":false,
+        "name": {"ru_RU":"Cabo Ruivo","en_EN":"Cabo Ruivo"},
+        "edges": [{"time": 120, "id":48},{"time": 120, "id":50}],
+        "line":4
+        },
+                {
+        "id":50,
+        "coords": { "x": 50.028000, "y": 67.8191},
+        "multi":false,
+        "name": {"ru_RU":"Oriente","en_EN":"Oriente"},
+        "edges": [{"time": 120, "id":49},{"time": 120, "id":51}],
+        "line":4
+        },
+                {
+        "id":51,
+        "coords": { "x": 47.005500, "y": 74.8627},
+        "multi":false,
+        "name": {"ru_RU":"Moscavide","en_EN":"Moscavide"},
+        "edges": [{"time": 120, "id":50},{"time": 120, "id":52}],
+        "line":4
+        },
+                {
+        "id":52,
+        "coords": { "x": 34.3735, "y": 75.1551},
+        "multi":false,
+        "name": {"ru_RU":"Encarnação","en_EN":"Encarnação"},
+        "edges": [{"time": 120, "id":51}],
+        "line":4
+        },
+
+    ],
+     "multiPoints":[
+            {"coords": { "x": -3.3648000, "y": 34.5128}, "id": [10,42]},
+            {"coords": { "x": -7.877000, "y": 60.188700}, "id": [22,30]},
+            {"coords": { "x": 4.9569, "y": 34.4792}, "id": [26,43]},
+            {"coords": { "x": 9.9029, "y": 10.5436}, "id": [14,40]},
+            {"coords": { "x": 16.195700, "y": 37.442}, "id": [34,44]}
+                ],
+        
+        "lines":[
+        [
+            {"from":1,"to":2},{"from":2,"to":3},{"from":3,"to":4},{"from":4,"to":5},{"from":5,"to":6},{"from":6,"to":7},{"from":7,"to":8},{"from":8,"to":9},{"from":9,"to":10},{"from":10,"to":11},{"from":11,"to":12},{"from":12,"to":13},{"from":13,"to":14},{"from":14,"to":15},{"from":15,"to":16}
+            ],
+        [
+            {"from":17,"to":18},{"from":18,"to":19},{"from":19,"to":20},{"from":20,"to":21},{"from":21,"to":22},{"from":22,"to":23},{"from":23,"to":24},{"from":24,"to":25},{"from":25,"to":26},{"from":26,"to":27},{"from":27,"to":28}
+        ],
+        [
+           {"from":29,"to":30},{"from":30,"to":31},{"from":31,"to":32},{"from":32,"to":33},{"from":33,"to":34},{"from":34,"to":35},{"from":35,"to":36},{"from":36,"to":37},{"from":37,"to":38},{"from":38,"to":39},{"from":39,"to":40},{"from":40,"to":41}
+           
+            ],
+        [
+            {"from":42,"to":43},{"from":43,"to":44},{"from":44,"to":45},{"from":45,"to":46},{"from":46,"to":47},{"from":47,"to":48},{"from":48,"to":49},{"from":49,"to":50},{"from":50,"to":51},{"from":51,"to":52}
+            ]
+        ],
+        "colors":[
+             {"r": 0, "g": 0, "b": 255},
+             {"r": 0, "g": 255, "b": 255},
+             {"r": 0, "g": 255, "b": 0},
+             {"r": 255, "g": 0, "b": 0}
+         ]
+    }
+
